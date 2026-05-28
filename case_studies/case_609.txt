@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Burnout and Stress Management
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for aging mother
+Clinical Goal: Identify specific stressors related to caregiving, develop a personalized coping strategy, and improve overall well-being.
+Summary: A caregiver is feeling overwhelmed by the demands of caring for her aging mother and seeks help managing her stress, recognizing that she needs support to balance her responsibilities.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Guilt, Sadness
+Cognitive State: Catastrophizing (focusing on worst-case scenarios), Flooding (feeling overwhelmed by caregiving demands)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy (acknowledging the caregiver's feelings of overwhelm)
+- Validation (recognizing that turning attention to other areas of life is a common coping mechanism)
+- Problem-focused coping (identifying specific stressors related to caregiving)
+- Solution-focused approach (exploring various stress management techniques and setting realistic expectations)
+- Reframing (highlighting the benefits of seeking support from friends, family, or community resources)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed with my caregiving responsibilities for my aging mother, and I'm struggling to manage my stress. Sometimes I focus on other areas of my life, like work or my social life, to distract myself, but I know I need help.
+Counselor: I can see that you're feeling overwhelmed by the demands of your caregiving role for your aging mother and are seeking ways to effectively manage your stress...

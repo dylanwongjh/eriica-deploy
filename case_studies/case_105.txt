@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (inferred from the context)
+Clinical Goal: To help the caregiver manage their emotions, reduce feelings of guilt and helplessness, and maintain self-care during a challenging time.
+Summary: I'm struggling to cope with my mother's decision to stop treatment, feeling guilty that I couldn't convince her to keep fighting and overwhelmed by the weight of caring for her as she prepares to leave me behind.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Helplessness, Sadness
+Cognitive State: Catastrophizing (inferred from the caregiver's assumption that they are not doing enough)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-focused coping suggestions
+
+=== THE TRANSCRIPT ===
+User: I've tried talking to her about her decision, but she insists that she just wants to be at peace and not suffer anymore. She's always been independent and strong, and I think she's tired of the pain and the treatments. But I can't help but feel guilty and helpless, like I'm not doing enough to help her.
+Counselor: It's natural to feel a range of emotions when dealing with a loved one's end-of-life decisions, especially when we feel that we're unable to change their minds or alleviate their suffering. It's important to remember that we can't control other people's decisions, but we can control how we respond to them. In this situation, you're doing a great job by being present for your mom and supporting her in her wishes. It's also crucial to take care of yourself during this time, as caregiving can be emotionally and physically taxing. Consider reaching out to support groups, friends, or family members for additional emotional support and resources.

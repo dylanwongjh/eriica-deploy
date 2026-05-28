@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief in Parkinson's disease caregiving
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver, likely in her 60s or older, caring for a husband with Parkinson's disease (PD)
+Clinical Goal: To reduce the caregiver's feelings of helplessness and frustration by advocating for her husband's mental health needs and promoting self-care.
+Summary: A long-time caregiver is struggling to cope with her husband's deteriorating mental health in PD, feeling overwhelmed and unsupported by his healthcare team.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Helplessness, Frustration, Sadness
+Cognitive State: Catastrophizing (assuming the worst-case scenario), Flooding (feeling overwhelmed)
+Underlying Need: Emotional safety and control in managing her husband's care
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Education, Problem-solving, Self-care promotion
+
+=== THE TRANSCRIPT ===
+User: I've been caring for my husband with Parkinson's disease for almost 20 years. The last few years have been particularly challenging as his mental health has deteriorated. I used to panic when I saw a change in his behavior, but now I've learned to step back and observe. I've had to take on the role of communicating his behaviors and medications to his neurologist. However, when it comes to his mental issues, the neurologist hasn't been very helpful. He's dismissed my concerns, telling me that it's just a part of the disease. I feel helpless and frustrated, unsure of how to proceed.
+Counselor: ... (counselor response as above)

@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout, Anticipatory grief, Sleep disturbances
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver in her 40s/50s (inferred from the context)
+Clinical Goal: To help the patient manage emotional turmoil, improve sleep quality, and address underlying causes of anxiety and stress.
+Summary: A devoted daughter is struggling to cope with the emotional weight of caring for her ailing father while also grieving the loss of her beloved dog, impacting her ability to rest and relax.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness, Anxiety
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the patient's emotional turmoil), Empathy (understanding the weight of responsibilities as a caregiver), Validation (recognizing the impact of grief on sleep quality), Reframing (exploring relaxation techniques to manage emotions), Problem-solving (identifying coping mechanisms and communication skills).
+
+=== THE TRANSCRIPT ===
+User: I've been having trouble sleeping lately, especially when there's worry or a lot on my mind. Sometimes, it takes me a while to fall back asleep if I'm up for even a few minutes. I don't have any specific strategies to help me fall back asleep.
+Counselor: Your sleep disturbances are a reflection of the emotional turmoil you've been experiencing lately... (rest of the transcript)

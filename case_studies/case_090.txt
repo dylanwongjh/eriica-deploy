@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiving stress
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (inferred from the context)
+Clinical Goal: To address the caregiver's emotional distress, explore coping strategies, and ensure optimal pain management for the mother.
+Summary: I've been caring for my mother at home as she battles a serious illness, feeling overwhelmed by the weight of responsibility and struggling to balance her needs with my own emotional well-being.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Helplessness, Frustration, Anxiety
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging feelings), Validation (recognizing the caregiver's emotions as understandable), Reframing (rephrasing the situation to focus on problem-solving), Empathy (expressing understanding of the caregiving experience), Problem-focused coping (exploring alternative pain management options).
+
+=== THE TRANSCRIPT ===
+User: I've been feeling helpless and frustrated as my mother's condition continues to deteriorate. The new nurse's requirement to call before administering pain medication feels like an unnecessary obstacle. I'm worried that it might delay her pain relief and exacerbate her suffering.
+Counselor: Your feelings of helplessness and frustration are understandable given the situation...

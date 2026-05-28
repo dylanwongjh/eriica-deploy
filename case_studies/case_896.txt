@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiving burden
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified, but likely a close friend or family member
+Clinical Goal: To support the caregiver in managing their emotional distress and facilitating an open conversation with the patient's partner about the medical realities of the situation.
+Summary: A concerned friend is struggling to cope with her friend's husband's prolonged vegetative state, feeling helpless and distressed about the potential financial implications for her friend.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Helplessness, Distress, Guilt (implied)
+Cognitive State: Catastrophizing (about the future), Flooding (with emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the user's concern)
+- Validation (recognizing the emotional burden of watching a loved one decline)
+- Reframing (helping the user see the situation from a different perspective, focusing on the importance of open communication with the patient's partner)
+- Empathy (expressing understanding and compassion for both the user and the patient's partner)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling helpless and distressed as my friend's husband has been in a vegetative state for the past seven months. She's been holding on to the hope that he'll recover, despite the doctors' warnings that he's not braindead but close to it. I'm also worried about the financial implications for her, as she's spent all her savings on his care.
+Counselor: Your concern for your friend and her husband's situation is valid...

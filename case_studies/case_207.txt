@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver support for Frontotemporal Dementia (FTD)
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Spouse, likely middle-aged or older, caring for a loved one with FTD.
+Clinical Goal: To develop a therapeutic approach that addresses the caregiver's challenges and supports the patient's emotional well-being.
+Summary: I'm struggling to care for my wife who has Frontotemporal Dementia, feeling frustrated and uncertain as she seems to be unaware of her condition despite being told about it.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Loss, Uncertainty
+Cognitive State: Denial, Disorientation
+Underlying Need: Emotional validation and support
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (e.g., "her emotional responses may manifest differently than before"), Empathy, Problem-focused coping (e.g., discussing strategies for navigating the disease progression).
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to understand my wife's condition, Frontotemporal Dementia (FTD), and whether or not she needs consoling moments. She seems unaware of her condition, even though she was told about it in the beginning. Her main complaint was losing her driving privileges.
+Counselor: Your wife's journey with FTD is a complex and multifaceted experience...

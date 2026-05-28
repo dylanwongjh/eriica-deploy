@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and hospice care management
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified), caring for elderly mother
+Clinical Goal: To support the caregiver in making an informed decision about continuing or discontinuing hospice care, while also addressing potential emotional and psychological factors.
+Summary: I'm caring for my elderly mother who's been on hospice care, but lately she's been showing some unexpected improvements in her health, leaving me wondering if it's time to reevaluate our decision to continue with hospice.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Hope, Uncertainty, Frustration
+Cognitive State: Catastrophizing (about the mother's condition), Optimism (about her recent improvement)
+Underlying Need: Emotional safety and control in managing the caregiving situation
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (through open-ended questions and empathetic responses), Reframing (by highlighting the positive aspects of the patient's vital signs and appetite), Information provision (providing factual information about the patient's vital signs and hydration levels)
+
+=== THE TRANSCRIPT ===
+User: I've been taking care of my mother, who's been ill and on hospice. She's been going downstairs in her chair for hours at a time, then coming back upstairs and appearing to be doing well. I'm considering taking her off hospice.
+Counselor: Your mother's recent improvement in condition is a heartening development. However, the decision to take her off hospice is a complex one that requires careful consideration. Let's delve deeper into her current state to ensure we make an informed decision.
+
+First, let's examine her vital signs. Her heart rate has remained steady at around 80 beats per minute, her blood pressure is consistently around 120/80 mmHg, and her respiration rate is around 18 breaths per minute. These vital signs suggest that her body is functioning relatively well.
+
+Second, let's discuss her appetite and hydration levels. Your mother has been maintaining a healthy appetite, consuming around 1,500 calories per day, and her hydration levels...

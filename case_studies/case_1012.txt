@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Primary caregiver, likely spouse, of a patient in a skilled nursing facility for six years.
+Clinical Goal: To acknowledge and validate the caregiver's experience of sleep disturbances due to frequent nighttime calls from the facility staff.
+Summary: A long-term caregiver is struggling with disrupted sleep patterns due to constant nighttime updates from her husband's care facility, feeling overwhelmed by the demands of her role.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Helplessness, Fatigue
+Cognitive State: Catastrophizing (assuming the worst-case scenario), Rumination (dwelling on the negative aspects)
+Underlying Need: Emotional validation and support to manage caregiving responsibilities
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Normalization (acknowledging that her experience is common among caregivers)
+
+=== THE TRANSCRIPT ===
+User: I've been the primary contact person for my husband [Name], who's been in a skilled nursing facility for six years now. The staff there calls me frequently, especially at night, to update me on his condition. Although I understand the necessity of these calls, they often disrupt my sleep.
+Counselor: I can understand how burdensome it must be for you to receive these calls at night, despite their importance. It's not uncommon for caregivers to experience sleep disturbances due to the constant demands of their role. The fact that you've been in this role for six years and have grown accustomed to the calls doesn't diminish the impact they have on your sleep.

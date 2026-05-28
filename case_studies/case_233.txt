@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Guilt and Futility in End-of-Life Care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (relationship inferred)
+Clinical Goal: Reduce caregiver guilt, promote acceptance of the dying process, and shift focus to comfort and quality of life.
+Summary: "I'm consumed by guilt because I feel like I'm failing my mom by not being able to get her to eat properly, even though I've tried everything from her favorite foods to feeding tubes."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Helplessness, Sadness
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the user's feelings), Validation (accepting the user's emotions as understandable), Reframing (helping the user see the situation from a different perspective), and Problem-focused coping (emphasizing what can be controlled).
+
+=== THE TRANSCRIPT ===
+
+User: But I feel guilty for not being able to ensure she's eating properly. I've tried everything I can think of, from offering her favorite foods to using feeding tubes, but nothing seems to work. It's tearing me apart knowing that she's not getting the nourishment she needs.
+Counselor: Your feelings of guilt are understandable, but it's essential to remember that you cannot control your mom's appetite or her body's natural processes. It's important to recognize that this is a part of the dying process, and focusing on her comfort and quality of life is the most effective way to support her during this time. You've already taken significant steps in trying various methods to encourage her eating, and it's crucial to accept that sometimes, despite our best efforts, we cannot control every aspect of a situation.

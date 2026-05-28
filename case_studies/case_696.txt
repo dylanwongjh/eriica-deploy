@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Choosing a Hospice Facility
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely an adult caregiver making decisions for a loved one)
+Clinical Goal: Assist the caregiver in making an informed decision about which hospice facility to choose, while managing anxiety and uncertainty.
+Summary: A caregiver is struggling with decision fatigue and anxiety when choosing between two hospice facilities for their loved one, seeking guidance on how to make an informed choice that balances continuity of care with practical considerations.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Uncertainty
+Cognitive State: Catastrophizing (focusing on the worst-case scenario), Rumination (repeatedly thinking about the decision)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving (proposing a decision matrix to organize information)
+
+=== THE TRANSCRIPT ===
+User: I've been trying to make a decision about which hospice facility to choose between [Address] and [Address], but I'm finding it difficult to process all the information I need to make an informed choice. I keep forgetting things and have to look them up later. The thought of making a wrong decision and regretting it later is causing me immense anxiety.
+Counselor: ... (see above)

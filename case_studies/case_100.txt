@@ -1,0 +1,24 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and coping with impending loss
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Married female, likely middle-aged (inferred from context)
+Clinical Goal: To help the caregiver cope with anticipatory grief, manage intense emotions, and prepare for her husband's eventual death.
+Summary: I'm consumed by fear and sadness as my husband's terminal illness progresses, and I'm struggling to accept that he may not be here much longer.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Fear, Despair, Helplessness
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the caregiver's distress)
+Validation (normalizing her emotions as a natural response to loss)
+Reframing (encouraging the caregiver to focus on present comfort and joy rather than dwelling on negative aspects of death)
+Empathy (imagining how she feels, using phrases like "I can imagine")
+Education (providing information about grief and coping strategies)
+Supportive suggestions (recommending a support group or grief counselor)
+
+=== THE TRANSCRIPT ===
+User: I've been haunted by the thought of my husband's impending death. The mere mention of the word 'death' sends shivers down my spine, and I can't seem to shake off the feeling of despair that engulfs me. I've tried to distract myself, but the thoughts keep creeping back. I feel helpless and unsure of how to cope when the time comes.
+Counselor: I can imagine how distressing it is for you to confront the reality of your husband's mortality... (and so on)

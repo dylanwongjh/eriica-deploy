@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and bereavement
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Widow (inferred from context)
+Clinical Goal: To help the client process complex emotions related to her husband's passing, explore coping strategies, and promote self-compassion.
+Summary: I've been struggling to find peace since my husband passed away last year, haunted by feelings of guilt and sadness that linger even when I try to focus on happy memories.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the client's feelings), Validation (normalizing her emotions as a natural response to loss), Reframing (offering alternative perspectives on coping with grief), Problem-solving (suggesting specific strategies for managing emotions).
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with feelings of guilt and sadness since my husband passed away last year. I've tried to focus on the happy memories, but I can't seem to shake off these emotions. I feel like I'm stuck in a dark place, and I don't know how to move forward.
+Counselor: I'm deeply sorry for your loss, and I understand how difficult it can be to navigate the complex emotions that come with grief...

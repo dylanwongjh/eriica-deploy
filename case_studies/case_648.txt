@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory Grief and End-of-Life Care Planning
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) of a terminally ill parent
+Clinical Goal: Explore the emotional impact of hospice care on the caregiver, process grief, and examine changes in perspective on death and dying.
+Summary: A family member is reflecting on their experience with end-of-life care planning for their mother's terminal illness, seeking to understand how this journey has affected them emotionally.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Grief, Guilt, Love
+Cognitive State: Reflective, Preoccupied
+Underlying Need: Emotional validation and support
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the caregiver's initiative in researching hospice care)
+Validation (affirming the importance of hospice care as a valuable resource)
+
+=== THE TRANSCRIPT ===
+User: My mother had been diagnosed with a terminal illness several months ago, and her condition had been steadily declining. As her health deteriorated, I began researching end-of-life care options to ensure she received the best possible care. I was introduced to hospice services through a friend who had gone through a similar experience with her own mother. Hospice care offered a comprehensive approach to managing my mother's pain and emotional needs, as well as providing support for the family during this challenging time.
+Counselor: It's commendable that you took the initiative to research and secure hospice services for your mother, given her terminal diagnosis. Your friend's recommendation likely played a significant role in your decision-making process. Hospice care is indeed a valuable resource for individuals facing life-limiting illnesses and their families. It offers a holistic approach to care, addressing not only the physical symptoms of an illness but also the emotional, social, and spiritual needs of the patient and their loved ones.
+
+Given your experience with hospice care, I'd like to explore how this experience has impacted you emotionally. Have you had an opportunity to process your feelings about your mother's passing, or do you find yourself struggling with grief? Additionally, how has this experience influenced your perspective on death and dying, and what, if any, changes have you made in your own life as a result?

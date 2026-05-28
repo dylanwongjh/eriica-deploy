@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and work-life balance
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver in her 30s/40s (not specified), likely a teacher with caregiving responsibilities for a family member or patient in hospice.
+Clinical Goal: To help the caregiver manage stress, reduce anxiety, and improve work-life balance by prioritizing self-care and seeking support.
+Summary: As a dedicated teacher and caregiver for a family member in hospice, I'm exhausted from juggling two demanding roles and struggling to find time for myself amidst the chaos.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Overwhelm, Guilt (implied)
+Cognitive State: Catastrophizing (e.g., "I'll never be able to do this"), Flooding (e.g., feeling overwhelmed by responsibilities)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Empowerment (offering resources and support), Follow-up planning.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to balance my role as a caretaker in hospice with my responsibilities as a teacher. The demands of both roles have been overwhelming, and I've found myself feeling increasingly anxious and drained.
+Counselor: I can see how challenging it must be for you to juggle these two roles... It's understandable that you're feeling overwhelmed.
+User (implied): Expressed difficulties with time management and stress levels
+Counselor: Suggested prioritizing tasks, delegating responsibilities, practicing mindfulness meditation or deep breathing exercises, and seeking support from employer and hospice agency.

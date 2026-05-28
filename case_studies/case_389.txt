@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caregiver (age not specified), caring for a parent with complex health issues, dementia, and hospice care.
+Clinical Goal: To alleviate the caregiver's feelings of overwhelm, isolation, and emotional burden by exploring available resources, support systems, and prioritizing self-care.
+Summary: I've spent five years caring for my ailing mother, who lives with me and is now in hospice care, feeling exhausted and overwhelmed by the constant demands on my time and emotions.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Isolated, Guilty (implied)
+Cognitive State: Catastrophizing (e.g., "I'm drowning"), Flooding (e.g., feeling overwhelmed by caregiving responsibilities)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-solving, Resource provision
+
+=== THE TRANSCRIPT ===
+User: I've been taking care of my mom for the past five years since she moved in with me. It's been a long and arduous journey... (describes caregiving challenges)
+Counselor: I can only imagine how difficult it has been for you to juggle your mom's care needs while also dealing with the emotional toll of her declining health... (acknowledges caregiver's emotions, validates feelings)

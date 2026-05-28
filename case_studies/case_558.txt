@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and sleep disturbances
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caring for elderly parent (relationship not specified)
+Clinical Goal: Improve sleep quality, reduce caregiver burden, and enhance overall well-being
+Summary: A caregiving adult is struggling with persistent insomnia, feeling unrested and frustrated due to disrupted sleep patterns caused by frequent nighttime checks on their elderly mother. They seek help to manage their emotional and mental health while continuing to care for their loved one.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Guilt, Anxiety
+Cognitive State: Catastrophizing (assuming the worst-case scenario), Flooding (overwhelmed by caregiving responsibilities)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy: Counselor acknowledges the patient's emotional weight of caregiving.
+- Problem-focused coping: Counselor suggests strategies to improve sleep quality, such as setting a consistent bedtime and wake-up time.
+- Reframing: Counselor encourages the patient to view taking care of themselves as essential for both their well-being and ability to provide care.
+- Education: Counselor advises discussing sleep concerns with the healthcare provider.
+
+=== THE TRANSCRIPT ===
+User: I've been having trouble sleeping lately. The insomnia has been a persistent issue for the past few months... (full user text)
+Counselor: I empathize with the difficulties you've been experiencing in managing your sleep and caregiving responsibilities... (full counselor text)

@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and hospice care decision-making
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caregiver (age not specified), caring for a parent on hospice
+Clinical Goal: To facilitate an informed decision about continuing or discontinuing hospice care, while addressing the caregiver's emotional needs and concerns.
+Summary: I'm caring for my mother who's been on hospice, but lately she seems to be getting better, making me wonder if it's time to take her off hospice care.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Uncertainty, Frustration
+Cognitive State: Catastrophizing (assuming worst-case scenario), Flooding (overwhelmed by caregiving responsibilities)
+Underlying Need: Emotional safety and control in the face of uncertainty
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Open-ended questioning, Problem-focused approach (breaking down complex decision into manageable parts)
+
+=== THE TRANSCRIPT ===
+User: I've been taking care of my mother, who's been ill and on hospice. She's been going downstairs in her chair for hours at a time, then coming back upstairs and appearing to be doing well. I'm considering taking her off hospice.
+Counselor: Your mother's recent improvement in condition is a heartening development... Let's delve deeper into her current state to ensure we make an informed decision.
+
+Note: The counselor uses a problem-focused approach to break down the complex decision-making process, while also acknowledging the caregiver's emotional concerns and needs.

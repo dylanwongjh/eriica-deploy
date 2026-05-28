@@ -1,0 +1,25 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Widowed male (inferred from the context of planning a memorial service)
+Clinical Goal: To support the client in processing his emotions, managing anticipatory grief, and navigating the practical aspects of planning a memorial service while maintaining self-care.
+Summary: I'm struggling to plan a memorial service for my late wife while being consumed by guilt and regret over past mistakes that I feel are now impossible to make right.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness, Frustration
+Cognitive State: Catastrophizing (inferred from the client's perception of the process as "insurmountable obstacles")
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Normalization, Empowerment
+
+=== THE TRANSCRIPT ===
+User: (With a quivering voice) I've been having these intrusive thoughts about my past mistakes, and I feel like I'm drowning in guilt. I've tried talking to my friends and family, but they don't seem to understand the depth of my remorse.
+Counselor: I'm here to listen and provide a safe and supportive environment for you to explore your feelings... It's essential to understand that intrusive thoughts are a common experience for many individuals, and they don't define who you are as a person.
+
+User: (Contextualizing his situation) As I work through the logistical aspects of planning my wife's memorial service, it's crucial to recognize the emotional weight of this process.
+Counselor: Your experience is a testament to the complexity of the grieving process... By choosing this location for her memorial, you are honoring her legacy and the joy she found in her surroundings.
+
+User: (Expressing his need for support) As your counselor, I want to offer you a safe and supportive space to process your emotions and work through the practical aspects of planning the memorial.
+Counselor: I'm here to help you explore coping strategies, manage your emotions, and navigate the administrative tasks involved in the memorial planning process.

@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief in Alzheimer's disease care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for elderly mother with Alzheimer's disease
+Clinical Goal: To develop a personalized caregiving plan that prioritizes the caregiver's needs, addresses emotional challenges, and prevents burnout
+Summary: I'm an adult child caring for my elderly mother who has Alzheimer's disease, feeling overwhelmed by her memory loss and erratic behavior, and struggling to cope with the constant demands of caregiving without consistent support from my siblings.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Exhausted, Trapped
+Cognitive State: Catastrophizing, Flooding (due to constant memory loss and erratic behavior)
+Underlying Need: Emotional safety and control in the caregiving role
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Empathy, Validation, Reframing, Problem-focused coping (exploring ways to increase support network and delegate tasks)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to cope with the demands of caring for my elderly mother who has Alzheimer's disease. The constant memory loss, erratic behavior, and the increasing need for assistance have left me feeling overwhelmed and exhausted all the time. I've tried to reach out to my siblings for help, but they've been unable to provide consistent support. I feel trapped and alone in this caregiving role, and I'm not sure how much longer I can keep going.
+Counselor: I can empathize with the immense pressure and emotional burden you're carrying as a caregiver for your mother... (rest of the transcript)

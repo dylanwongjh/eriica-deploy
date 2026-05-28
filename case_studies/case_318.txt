@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Effective Communication in Hospice Care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (patient's relationship or context is not mentioned)
+Clinical Goal: Improve effective communication between patient and hospice team, ensuring quality care
+Summary: "I'm struggling to express my feelings and concerns to my hospice team, which I think is affecting the quality of care I'm getting."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Concern
+Cognitive State: Catastrophizing (implied by the struggle to express feelings and concerns)
+Underlying Need: Emotional safety and control in healthcare interactions
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Empathy, Validation, Reframing (emphasizing the importance of patient feedback)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to communicate effectively with my hospice team, and this survey is meant to help them understand my perspective better. I've had some difficulties expressing my feelings and concerns, which I believe is hindering the quality of care I'm receiving.
+Counselor: I can sense the frustration and concern you have regarding your communication with the hospice team... (rest of the transcript remains the same)

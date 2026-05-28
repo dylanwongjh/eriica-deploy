@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult caregiver (relationship not specified), likely middle-aged to older adult
+Clinical Goal: To help the caregiver manage their emotional and physical exhaustion, improve self-care habits, and maintain a healthy relationship with their loved one.
+Summary: A stressed and overwhelmed caregiver is struggling to balance their caregiving duties while taking care of themselves, leading to guilt, stress, and strained relationships.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Frustration, Exhaustion
+Cognitive State: Catastrophizing (assuming the worst-case scenario), Flooding (feeling overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy (acknowledging the caregiver's challenges)
+- Normalization (validating the caregiving experience as emotionally demanding)
+- Reframing (redefining self-care as a necessity rather than a luxury)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed lately, and I'm struggling to find the motivation and energy to keep up with my caregiving duties. I've noticed that my frustration and exhaustion have been impacting my relationship with my loved one, which only adds to my guilt and stress.
+Counselor: I can empathize with the challenges you're facing. Caring for a loved one can be an emotionally and physically demanding experience, especially when you're feeling overwhelmed. It's important to remember that self-care is not a luxury, but a necessity. By taking care of yourself, you'll be better equipped to provide the care and support your loved one needs. We can explore various self-care strategies, such as setting realistic expectations, practicing mindfulness, and seeking support from friends, family, or community resources.

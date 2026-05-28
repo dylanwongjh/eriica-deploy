@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Support and Adult Family Home Selection
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified), likely middle-aged or older, caring for a parent with complex needs.
+Clinical Goal: Assist the caregiver in finding an adult family home that meets their mother's unique care needs while maintaining her engagement and well-being.
+Summary: I'm at my wit's end trying to find an adult family home where my mom can get the care and activities she needs, but every place we've visited seems to focus on quiet hobbies rather than keeping her active and engaged.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Anxiety, Concern
+Cognitive State: Catastrophizing (fear of negative impact on mother's emotional and physical well-being)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-solving, Goal-setting, Self-care promotion.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to find an adult family home that can provide the level of care and engagement my mother needs. I've visited a few places, but they all seem to prioritize sedentary activities, which I fear could negatively impact her emotional and physical well-being.
+Counselor: I understand your concerns, and it's essential to find a place that can cater to your mother's unique needs... (rest of the transcript)

@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Betrayal, Trust Issues, Caregiver Strain due to Stroke
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Elderly individual (inferred from mention of stroke) with a family caregiver role
+Clinical Goal: Help the patient regain trust and autonomy in their life, rebuild relationships with loved ones, and manage feelings of helplessness and betrayal.
+Summary: "After suffering a stroke that left me struggling to communicate, I feel betrayed by my own family who took advantage of my vulnerability, leaving me feeling helpless, alone, and unable to trust anyone."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Betrayal, Helplessness, Sadness
+Cognitive State: Catastrophizing (assuming worst-case scenario), Flooding (overwhelming emotional response)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-focused coping strategies (exploring forgiveness and boundary-setting)
+
+=== THE TRANSCRIPT ===
+User: I've always trusted them, and now I feel like I can't trust anyone. I've been struggling to communicate since my stroke, and I thought my family would be there for me. But instead, they took advantage of my weakness. I feel so helpless and alone.
+Counselor: I can see how devastating this experience has been for you... Your feelings of betrayal are valid...
+User: (not present in the provided transcript)
+Counselor: ...One approach we could take is to explore the concept of forgiveness... Another approach could be to establish clear boundaries and open lines of communication with your family. This might involve setting expectations for honesty and transparency, as well as expressing your feelings and needs in a clear and assertive manner.

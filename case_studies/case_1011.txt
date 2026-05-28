@@ -1,0 +1,24 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for a parent in a nursing home
+Clinical Goal: To help the caregiver manage stress, improve sleep quality, and process emotions related to caregiving and loss
+Summary: A devoted adult child is struggling with overwhelming stress, guilt, and sadness after caring for her mother's rapid decline and subsequent passing, now experiencing worsened sleep patterns and nightmares.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness, Anxiety
+Cognitive State: Catastrophizing (focusing on the negative aspects of caregiving), Flooding (overwhelming emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the caregiver's experiences and emotions)
+- Validation (recognizing the legitimacy of her feelings and situation)
+- Reframing (helping the caregiver see that taking care of herself is not selfish but essential for effective caregiving)
+- Education (providing information on relaxation techniques, sleep routines, and self-care activities)
+- Empowerment (encouraging the caregiver to prioritize her own well-being and seek support)
+
+=== THE TRANSCRIPT ===
+User: I've been dealing with a lot of stress lately. My mother was in the nursing home for several months, and her condition deteriorated rapidly. I was her primary caregiver, and it was a demanding role. I had to make sure she took her medications on time, managed her finances, and arranged for her care when I couldn't be there. It was a constant source of anxiety, and I didn't have much time for myself. I've also been struggling with feelings of guilt and sadness since she passed away. I've tried to process these emotions through journaling and talking to friends, but it's been difficult. I've noticed that my sleep patterns have worsened since then, and I've been having more frequent nightmares.
+Counselor: It's understandable that the loss of a loved one and the responsibilities of caring for them during their final days would take a toll on your emotional and physical well-being... 
+(Counselor continues with suggestions for relaxation techniques, sleep routines, self-care activities, and seeking support)

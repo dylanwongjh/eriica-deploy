@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Decision-Making and Anticipatory Grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (relationship not specified) of a patient in hospice care, likely middle-aged or older.
+Clinical Goal: To support the caregiver in making informed decisions regarding their mother's care, addressing emotional distress, and promoting self-care.
+Summary: A devoted adult child is struggling with guilt and sadness as they consider transferring their mother from hospital to hospice care, seeking guidance on navigating this complex decision-making process.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness
+Cognitive State: Catastrophizing (implied by the caregiver's worry about abandoning their mother)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-focused approach, Empowerment through education.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with the idea of my mother moving from the hospital to hospice care. It's been a difficult transition for her, and I'm unsure if I'm making the right decision. I've spent the last few weeks by her side, watching her struggle to adapt to the new environment. The hospital was her home for six months, and the thought of leaving it behind fills me with a sense of guilt and sadness. I can't help but wonder if I'm abandoning her, despite the best intentions.
+Counselor: I understand that making decisions, especially those related to caregiving, can be challenging. In our previous sessions, we've discussed how familiar environments can make transitions smoother for patients. Your mother's six-month stay in the hospital allowed her to build relationships with caregivers and staff, which may be contributing to an easier adjustment to hospice care. However, I'd like to propose an exercise for our upcoming sessions... (rest of the transcript)

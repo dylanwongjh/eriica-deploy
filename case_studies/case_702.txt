@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burden and decision-making in hospice care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver (relationship to patient not specified), likely middle-aged or older, with two young daughters.
+Clinical Goal: To support the caregiver in making an informed decision about relocating to a new Hospice facility and exploring alternative care arrangements for her family.
+Summary: A female caregiver is struggling with the decision to move to a different Hospice facility, which would require her to leave her two young daughters behind. She is overwhelmed by the thought of managing their schedules while attending sessions at the new facility.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Guilt, Sadness
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control for herself and her family
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Empathic acknowledgment of emotional pain, Exploration of alternative care arrangements.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with the decision to move to a different Hospice facility, [Address], which is further away from my home. The thought of leaving my two young daughters behind and managing their schedules while attending sessions at the new facility has been overwhelming.
+Counselor: Your concerns are valid and understandable...
+(Counselor's response continues as described in the original dialogue)

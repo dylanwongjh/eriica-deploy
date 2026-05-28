@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Burnout and Sleep Disturbances
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Mother in her 30s/40s, likely with young children, experiencing stress due to her husband's work schedule.
+Clinical Goal: To help the caregiver identify strategies for improving sleep quality and managing stress related to caregiving responsibilities.
+Summary: A mother struggling to cope with chronic sleep deprivation and emotional exhaustion while caring for her children alone at night, seeking support to improve her overall well-being.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Exhaustion, Guilt
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control in managing caregiving responsibilities.
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the user's efforts to manage sleep)
+- Validation (emphasizing the normalcy of sleep disturbances for parents)
+- Reframing (suggesting a consistent bedtime routine as an alternative solution)
+- Education (providing information on potential consequences of sleep deprivation and benefits of self-care practices)
+- Empowerment (encouraging the user to explore solutions with her partner and prioritize self-care)
+
+=== THE TRANSCRIPT ===
+User: I've tried various methods to fall back asleep, like listening to calming music, meditation, or reading, but it usually takes me a long time to fall back asleep. My husband works late hours, so he's not always able to help put the kids to bed or wake up earlier to take care of them. I feel like I'm constantly playing catch-up with my sleep, and it's starting to affect my mood and energy levels.
+Counselor: It's understandable that you've tried various methods to help you fall back asleep, but it's essential to remember that everyone's response to sleep interruptions can vary...

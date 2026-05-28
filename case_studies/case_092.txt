@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver support
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (inferred from the context)
+Clinical Goal: Explore alternative pain management options, improve communication with the hospice team, and prioritize self-care for the caregiver.
+Summary: As my mother's primary caregiver, I'm struggling to balance her increasing needs while trying to manage my own emotional exhaustion and uncertainty about how to best support her in these final months.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Relief, Anxiety, Guilt
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the user's concerns), Validation (emphasizing the importance of self-care and effective communication), Reframing (rephrasing the situation to focus on collaborative problem-solving).
+
+=== THE TRANSCRIPT ===
+User: Thank you for your understanding and guidance. I feel a bit more at ease knowing that there are other options for managing my mother's pain without involving the hospice team right away. I'll make sure to communicate more effectively with them and explore alternative pain management methods. And I'll definitely prioritize self-care to ensure I'm in the best possible position to support her.
+Counselor: I'm glad that you feel more at ease with the situation and that we've been able to explore some alternative pain management options together...

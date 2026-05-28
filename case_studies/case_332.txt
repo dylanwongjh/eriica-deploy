@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Grief and bereavement support
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Spouse (age not specified), recently widowed
+Clinical Goal: To acknowledge the client's emotional experience, provide emotional validation, and encourage social support
+Summary: I'm struggling to manage the many practical details after losing my wife, feeling overwhelmed by all the paperwork, planning, and decisions that seem to keep piling up.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Sadness, Grief
+Cognitive State: Catastrophizing, Feeling overwhelmed by tasks
+Underlying Need: Emotional safety and control in a chaotic situation
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the client's experience), Validation (recognizing the difficulty of the situation), Reframing (emphasizing that they don't have to face it alone)
+
+=== THE TRANSCRIPT ===
+User: I've been dealing with a lot of logistical tasks since my wife passed away. I've had to fill out paperwork for her memorial service, manage her financial affairs, and even help arrange for her grave. It's all been very overwhelming.
+Counselor: I want to acknowledge the courage it takes to face these tasks, especially during a time of grief. Losing a loved one is a significant life event, and the administrative tasks that come with it can be overwhelming. It's important to remember that you don't have to go through this alone.

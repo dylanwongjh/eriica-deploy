@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burden and navigating healthcare systems
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caregiver (inferred from user's relationship to their mom)
+Clinical Goal: To empower the caregiver with knowledge, confidence, and resources to effectively manage their mom's dietary needs within the hospice care system.
+Summary: As my 85-year-old mother's health declines, I'm struggling to balance caring for her and navigating the complex hospice care system to ensure she gets the right food and nutrition.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Anxious, Uncertain
+Cognitive State: Catastrophizing (assuming worst-case scenarios), Flooding (feeling overwhelmed by responsibilities)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Acknowledgment of emotions, Problem-solving guidance, Reframing (emphasizing the caregiver's ability to navigate the situation with confidence)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed with the responsibility of caring for my mom and managing her dietary needs. I've never had to navigate the healthcare system in this capacity before, and I'm unsure of the proper protocols and who to contact for these types of changes.
+Counselor: I acknowledge the complexity of your situation and the challenges you're facing in managing your mom's dietary needs. It's essential to remember that taking on a caregiving role can be a daunting experience, especially when dealing with unfamiliar aspects of the healthcare system...

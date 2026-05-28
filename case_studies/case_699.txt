@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and End-of-Life Care Planning
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely a family member or close relative)
+Clinical Goal: To address and validate the patient's concerns about loss of control, being a burden, and the unknown aspects of Hospice care.
+Summary: A loved one is anxious about losing autonomy, becoming a financial burden on her family, and facing a decline in quality of life as she considers Hospice care for [Name], seeking reassurance that there are ways to maintain dignity and comfort.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Fear, Anxiety, Uncertainty
+Cognitive State: Catastrophizing, Flooding (due to the overwhelming nature of her concerns)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Validation: The counselor acknowledges the patient's emotions as understandable and common.
+- Normalization: The counselor explains that these fears are typical in end-of-life care situations.
+
+=== THE TRANSCRIPT ===
+User: She's afraid of losing control, of being a burden, and of being alone. She's worried that she'll be trapped in a room, unable to leave, and that her quality of life will deteriorate rapidly. She's also concerned about the financial implications of Hospice care and how it will impact our family.
+Counselor: It's understandable that [Name] has these concerns. Fear of loss of control, fear of being a burden, and fear of the unknown are common emotions that arise when facing end-of-life care. These emotions can be particularly intense when it comes to the prospect of Hospice care, which is often associated with a focus on symptom management and the potential for a more limited range of activities.

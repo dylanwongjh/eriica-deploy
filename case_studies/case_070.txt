@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver (inferred), likely middle-aged, caring for a terminally ill husband
+Clinical Goal: To alleviate caregiver burnout, reduce feelings of guilt and overwhelm, and promote self-care while ensuring the best possible care for the patient
+Summary: I've been feeling exhausted and guilty as I try to take care of my terminally ill husband, but I'm struggling to keep up with his needs and mine, and I feel like I'm failing him.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Overwhelm, Sadness
+Cognitive State: Catastrophizing (assuming responsibility for everything), Flooding (feeling overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Normalization (acknowledging that many caregivers experience similar emotions)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed and guilty lately. I've been trying to do everything for my husband, but I'm struggling to keep up with his needs and my own. I feel like I'm failing him, and I'm worried that I'm not giving him the best possible care.
+Counselor: It's natural to feel overwhelmed and guilty when caring for a loved one, especially during such a challenging time...
+... (rest of the transcript)

@@ -1,0 +1,24 @@
+=== CASE STUDY PROFILE ===
+Topic: Managing Cancer-Related Stress and Burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult cancer patient (age not specified), likely in their 30s or 40s, with a business to manage.
+Clinical Goal: Help the patient prioritize self-care, build confidence in managing responsibilities, and reduce feelings of overwhelm and burnout.
+Summary: A busy adult cancer patient feels overwhelmed by balancing treatment, work, and personal life, fearing burnout if they don't find a way to manage their time effectively.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelm, Fear, Guilt (implied)
+Cognitive State: Catastrophizing, Flooding (due to excessive responsibilities and fear of burnout)
+Underlying Need: Emotional safety and control over life amidst uncertainty
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Acknowledgment of the patient's challenges
+- Normalization of self-care as a necessity
+- Empathetic validation of the patient's feelings
+- Strategic planning (breaking down tasks, setting realistic goals)
+- Compassionate self-talk and encouragement to move forward gradually
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed lately. Between my cancer treatment, managing my business, and trying to maintain a healthy lifestyle, I feel like I'm constantly playing catch-up.
+Counselor: I can see how challenging it is for you to balance your various responsibilities...
+... (rest of the dialogue)

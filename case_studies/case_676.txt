@@ -1,0 +1,24 @@
+=== CASE STUDY PROFILE ===
+Topic: Suicidal ideation and depression management
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely a mental health professional with experience in crisis intervention)
+Clinical Goal: Assess the patient's suicidal risk, provide emotional support, and explore coping strategies to manage feelings of helplessness and hopelessness.
+Summary: A person struggling with intense emotions of sadness, despair, and hopelessness is seeking help for suicidal thoughts, feeling overwhelmed by their situation, and unsure about how to cope.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Helplessness, Hopelessness, Sadness
+Cognitive State: Catastrophizing (assuming the worst-case scenario), Flooding (overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy (acknowledging and validating the patient's feelings)
+- Normalization (explaining that suicidal thoughts are common among those struggling with mental health challenges)
+- Reframing (focusing on the availability of resources and support rather than the patient's perceived isolation)
+- Problem-focused coping (exploring strategies to manage emotions and find meaning in life)
+- Hope induction (emphasizing the possibility of healing and recovery)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling so helpless and hopeless lately. I can't seem to find joy in anything, and I've been having these thoughts of wanting to end it all. I don't want to be a burden to my family, but I just can't shake this feeling.
+Counselor: I'm truly sorry to hear that you've been feeling this way, and I can understand how overwhelming and isolating these emotions can be... 
+(Counselor's response continues as described above)

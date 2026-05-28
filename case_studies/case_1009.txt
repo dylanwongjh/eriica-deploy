@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Managing Anxiety and Sleep Disturbances
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult, likely in their 20s-40s (not specified)
+Clinical Goal: Reduce anxiety symptoms and improve sleep quality by teaching relaxation techniques and identifying sources of anxiety.
+Summary: A young adult is struggling with overwhelming anxiety that's interfering with their sleep, seeking help to manage their thoughts and emotions.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Overwhelm, Frustration
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy (acknowledging the user's feelings)
+- Education (explaining the goal of deep breathing exercises)
+- Reframing (redefining the goal of relaxation techniques)
+- Problem-solving (offering additional strategies for managing anxiety)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling increasingly anxious and overwhelmed lately, and it's been affecting my sleep. I've tried taking deep breaths before bed, but I find myself getting lost in my thoughts and worrying about all the things I need to do.
+Counselor: It's understandable that you've been feeling anxious and overwhelmed, and it's not uncommon for these feelings to impact your sleep...

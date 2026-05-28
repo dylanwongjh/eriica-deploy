@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief during a loved one's recovery process
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (age, relationship, or context)
+Clinical Goal: To help the caregiver balance their own needs with those of their loved one, manage anxiety related to uncertainty, and prioritize self-care.
+Summary: A caregiver is struggling to cope with memory loss and lucid moments while caring for a loved one during recovery, feeling guilty about neglecting their own needs but also anxious about not being there for her.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Guilt, Frustration
+Cognitive State: Catastrophizing (worried about the future and uncertainty), Flooding (overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-focused coping strategies
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with my memory, especially during the lockdown. Sometimes I have lucid moments, but when I regain consciousness, I'm disoriented and confused about what's been happening for months. Even though these moments of clarity are good, they make me anxious because I don't know when they'll occur or how long they'll last. It's like living on edge, always waiting for the next moment of lucidity. I've been neglecting my own needs during these moments, trying to be present for my loved one at all times. I feel guilty for not being there for her, but I also need time to rest and regain my own clarity.
+Counselor: I can imagine how difficult it is for you to balance your own needs with your loved one's during these moments of uncertainty... (rest of the counselor's response)

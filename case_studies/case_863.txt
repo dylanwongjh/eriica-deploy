@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Managing Anxiety and Improving Sleep Quality in Caregivers
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caregiver (age not specified)
+Clinical Goal: Help the client manage anxiety and improve sleep quality by implementing relaxation techniques, mindfulness meditation, and establishing a consistent bedtime routine.
+Summary: A caregiver is struggling to manage her anxiety and get a good night's sleep due to constant thoughts about her mother's needs and responsibilities, seeking help to find effective strategies to cope with her emotions.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Guilt, Frustration
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the client's challenges)
+- Validation (recognizing that implementing relaxation routines can be challenging for people with anxiety)
+- Education (explaining progressive muscle relaxation and mindfulness meditation techniques)
+- Problem-solving (suggesting practical strategies to create a peaceful sleep environment and establish a consistent bedtime routine)
+- Empowerment (encouraging the client to find a combination of strategies that work best for her)
+
+=== THE TRANSCRIPT ===
+User: I've been trying to implement a relaxation routine before going to bed, but my anxiety still keeps me awake. I find it difficult to focus on calming activities when my mind is racing with thoughts about my mother's needs and the phone calls I have to make.
+Counselor: I understand that implementing a relaxation routine can be challenging when your mind is preoccupied with anxiety...

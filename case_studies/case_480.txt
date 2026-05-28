@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Navigating Quality of Life and Comfort Care in Advanced Illness
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (though likely a patient with advanced illness)
+Clinical Goal: To support the patient in making informed decisions about their care, particularly regarding quality of life and comfort care, while addressing physical symptoms such as constipation.
+Summary: "I'm living with a chronic illness and taking pain medication, but it's causing uncomfortable constipation and I'm struggling to understand how to balance managing my symptoms with what's most important to me in the time I have left."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Guilt, Helplessness
+Cognitive State: Catastrophizing (e.g., "the weight of your illness pressing down on you like a heavy shroud")
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Empathy, Reframing, Person-centered care, Self-determination theory-based guidance.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with constipation whenever I take pain medication, and I've been trying to navigate the concept of quality of life and comfort care on my own. I'm not sure what I mean by quality of life, and I'm the one who has to make that judgment.
+Counselor: [See above for counselor's response]

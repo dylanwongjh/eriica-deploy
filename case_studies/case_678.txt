@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout, Anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Wife of a hospitalized patient (age not specified)
+Clinical Goal: To alleviate feelings of isolation and loneliness in the caregiver, while also addressing potential resentment towards the patient.
+Summary: A wife is feeling overwhelmed by her husband's constant moaning and groaning during his hospitalization, leading to intense feelings of solitude and resentment, making it difficult for her to cope with the situation.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Isolation, Loneliness, Resentment
+Cognitive State: Catastrophizing (assuming worst-case scenarios), Flooding (overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Empowerment (encouraging self-care and seeking help)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling increasingly isolated and lonely since my husband's hospitalization. His constant moaning and groaning during his discomfort only worsens my feelings of solitude. I feel like I can't even leave him for a moment without him becoming agitated, and I'm starting to resent him for it. I know I shouldn't feel this way, but I can't help how I feel.
+Counselor: I want to validate your feelings of isolation and loneliness, as they are a natural response to the stress and uncertainty of your husband's hospitalization... (rest of the transcript)

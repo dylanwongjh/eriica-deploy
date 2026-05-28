@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burden and conflict with patient regarding autonomy and decision-making capacity.
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (relationship not specified) caring for a parent with stroke-related impairments.
+Clinical Goal: To help the caregiver navigate the complex balance between preserving the patient's independence and ensuring her well-being, while also addressing potential risks to health or safety.
+Summary: A daughter is struggling to manage her mother's increasing impulsiveness after a stroke, feeling torn between respecting her autonomy and protecting her from harm.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Guilt, Anxiety
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the caregiver's situation)
+- Education (explaining the concept of decision-making capacity)
+- Problem-focused coping guidance (suggesting strategies for addressing impulsive choices)
+
+=== THE TRANSCRIPT ===
+User: I've been caring for my mother for the past three years since her stroke, and her increasing impulsiveness has made our daily routines challenging. She insists on eating junk food, refuses to take her medication on time, and demands my constant attention. I feel torn between my desire to preserve her independence and my responsibility to ensure her well-being.
+Counselor: Your situation is complex, and it's natural to feel torn between your mother's autonomy and her well-being. The concept of "decision-making capacity" in counseling psychology can help guide our discussion. This term refers to an individual's ability to make informed decisions based on their understanding of the situation and its potential consequences. In your case, it's crucial to assess your mother's ability to make informed decisions regarding her care.
+
+If her impulsive choices pose a risk to her health or safety, it may be necessary to intervene. However, if her choices do not significantly impact her well-being, it's essential to respect her autonomy. In these situations, you can offer alternatives or suggestions, but ultimately, the decision should be hers.

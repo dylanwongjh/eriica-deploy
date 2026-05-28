@@ -1,0 +1,26 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for terminally ill parent
+Clinical Goal: To help the caregiver manage anticipatory grief, reduce feelings of guilt and sadness, and develop coping strategies to maintain their own well-being while caring for their father.
+Summary: I've been caring for my terminally ill father for months, feeling overwhelmed by guilt and sadness as I struggle to balance his needs with my own emotional well-being.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness, Overwhelm
+Cognitive State: Catastrophizing (fear of being overwhelmed by caregiving responsibilities), Flooding (emotional overwhelm)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Education, Problem-solving, Supportive counseling.
+
+=== THE TRANSCRIPT ===
+
+User: I've been struggling with feelings of guilt and sadness since my father's passing. I can't seem to shake these emotions, and they're affecting my work and relationships. I feel like I'm stuck in a dark cloud, and I don't know how to move forward.
+Counselor: (Acknowledging the complexity of the situation, validating the caregiver's feelings, and introducing therapeutic approaches)
+...
+User: As a counselor, I acknowledge the complexity of your situation and the emotional toll it has taken on you. Your feelings of being overlooked and under-supported as a caregiver are valid, especially given the unique demands of caring for a terminally ill loved one.
+Counselor: (Empathizing with the caregiver's experience, highlighting the importance of open communication and collaboration between healthcare providers and caregivers)
+...
+User: In our next session, we can explore coping strategies and techniques to help you manage the emotional demands of caregiving and maintain your own well-being. We can also discuss ways to effectively communicate your needs and concerns to the hospice team and other healthcare providers.
+Counselor: (Problem-solving, offering support and resources)

@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout in a hospital setting
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Partner (relationship) living in the hospital, likely middle-aged or older
+Clinical Goal: To help the caregiver find ways to prioritize self-care and set boundaries while caring for their partner
+Summary: A caregiver is struggling to balance their own needs with their partner's needs in a hospital setting, feeling overwhelmed by constant demands on their time and energy.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Frustration, Sadness
+Cognitive State: Catastrophizing (assuming the worst-case scenario), Overwhelm
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy (acknowledging the caregiver's difficulty in balancing their own needs with their partner's)
+- Normalization (explaining that it's common for caregivers to put their own needs aside)
+- Problem-solving (suggesting ways to prioritize self-care, such as setting boundaries and seeking assistance)
+- Reframing (encouraging the caregiver to view prioritizing their own needs as essential for effective caregiving)
+
+=== THE TRANSCRIPT ===
+User: I've been having a hard time finding time for myself in the hospital. My partner lives here, and I miss our sailing trips and our time together. I've been trying to focus on self-care activities like walking and gardening, but her needs often take priority. Last night, for instance, she called me during dinner, and I had to leave my meal to attend to her. I've had to sacrifice my own time and activities numerous times to accommodate her needs.
+Counselor: I can appreciate how difficult it is for you to balance your own needs with your partner's in the hospital setting...

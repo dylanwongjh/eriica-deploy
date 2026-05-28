@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and end-of-life care decisions
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (mother's son or daughter)
+Clinical Goal: To support the caregiver in making an informed decision about their mother's hospice care, weighing the benefits of her recent improvement against potential risks.
+Summary: I'm struggling to decide whether to take my mother out of hospice care now that she seems to be improving, but I know I need to carefully weigh the benefits against potential risks before making a decision.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Guilt
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (paraphrasing), Validation (acknowledging the caregiver's concerns)
+
+=== THE TRANSCRIPT ===
+User: I understand the potential risks and challenges associated with taking her off hospice. I believe that my mother's recent improvement in condition and her overall quality of life justify the decision. However, I also recognize the importance of ensuring that her decision is an informed one.
+Counselor: It's important to acknowledge your mother's improvement in condition and the positive impact it has had on her quality of life. However, it's equally crucial to consider the potential risks and challenges associated with taking her off hospice and to ensure that her decision is an informed one. Let's continue our conversation next time, focusing on these aspects in more detail to ensure we make the best decision for her care.

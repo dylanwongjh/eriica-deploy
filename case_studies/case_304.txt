@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burden and anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified), caring for elderly parent
+Clinical Goal: Help the caregiver manage caregiving responsibilities, estate management tasks, and maintain emotional and mental health while anticipating their mother's passing.
+Summary: "I'm struggling to balance caring for my elderly mom with managing her estate, feeling overwhelmed by the weight of responsibility and worried that I'll regret not doing enough when she passes."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Guilt, Sadness
+Cognitive State: Catastrophizing (fear of regret), Flooding (feeling overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Empowerment (encouraging the caregiver to take control and seek external support)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed by the responsibility of caring for my mom and managing her estate. I keep putting off important tasks, like sorting through her belongings, and I'm worried that I'll regret not having done more when she passes. I've been dealing with this for months now, and it's starting to affect my work and personal life.
+Counselor: I can see how this situation is taking a toll on you... (acknowledging the caregiver's emotions)
+...
+Counselor: To help you manage your time effectively, I suggest creating a schedule that prioritizes your caregiving responsibilities and estate management tasks. Breaking down larger tasks into smaller, manageable steps can help reduce feelings of overwhelm and make the process more manageable. (problem-solving and reframing)
+...

@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Managing caregiver stress and setting boundaries
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely a family member or close relative)
+Clinical Goal: To help the caregiver manage stress, set healthy boundaries, and prioritize self-care while maintaining relationships with loved ones.
+Summary: A caregiver is feeling overwhelmed by constant hospital visitors, struggling to balance their own needs with the demands of caring for others, but has begun to shift their perspective on the positive intentions behind these visits.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Guilt, Appreciation
+Cognitive State: Catastrophizing (initially), Reframing (recently)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (counselor acknowledges the caregiver's efforts to shift perspective)
+- Validation (counselor recognizes the positive intentions behind family visits)
+- Empowerment (counselor encourages setting boundaries and prioritizing self-care)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed by the constant stream of visitors to the hospital. My family members, despite their good intentions, seem oblivious to my schedule and my need for rest. Their visits leave me feeling burdened and forced to be the hostess, catering to their needs while neglecting my own. But recently, I've been trying to shift my perspective. Instead of focusing on the inconvenience, I've been reminding myself that their visits are a sign of love and concern. I've even started to look forward to their company, finding joy in the simple moments we share.
+Counselor: Your ability to recognize the positive intentions behind your family's visits is a significant step forward. However, it's essential to remember that your well-being is just as important as theirs. Communicating your boundaries and expressing your need for consideration when they visit can help you maintain a balance between caring for your loved ones and caring for yourself. It's also crucial to acknowledge your own progress and successes, even in small ways, as a means of self-care and maintaining a positive perspective.

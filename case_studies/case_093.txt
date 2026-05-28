@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Managing Memory Loss in a Spouse with Neurological Disorder
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Husband, likely middle-aged to elderly (inferred from context)
+Clinical Goal: Educate the caregiver on how to manage his wife's memory loss and improve her quality of life, while reducing frustration and anxiety for both.
+Summary: "My wife's worsening memory loss is affecting every aspect of our lives, causing frustration and worry as she forgets important tasks and responsibilities."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Anxiety, Sadness
+Cognitive State: Catastrophizing (inferred from caregiver's concerns about impact on daily life)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Education, Reframing, Problem-solving, Empathy-building
+
+=== THE TRANSCRIPT ===
+
+User: I've noticed that my wife's memory seems to have worsened since her crisis. It's impacting her day-to-day life. She forgets things often and even forgets about simple tasks like making dinner plans or taking her medications. I've been trying to help her, but sometimes it can be frustrating.
+Counselor: Your concern for your wife's memory issues is understandable, given the significant impact they've had on her daily life...
+... (rest of the transcript)

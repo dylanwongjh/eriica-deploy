@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Widow in her 50s (inferred)
+Clinical Goal: Help the client manage symptoms of grief, anxiety, and depression by exploring coping strategies and seeking professional counseling.
+Summary: A widow in her 50s is struggling with overwhelming emotions, exhaustion, and difficulty sleeping months after her husband's passing, feeling lost and unsure where to turn for help.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Exhausted, Anxious
+Cognitive State: Catastrophizing, Flooding (inferred)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-focused coping strategies, Education about mindfulness meditation and physical activity.
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed and exhausted lately, even though my husband passed away a few months ago. I've been having trouble sleeping, and I find myself constantly worrying about things that I shouldn't. I feel like I can't turn off my mind, and I'm having a hard time focusing on anything else. I know I need help, but I don't know where to start.
+Counselor: ... (see above)

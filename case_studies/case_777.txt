@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Palliative Care Challenges for Caregivers
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely a healthcare professional or family member)
+Clinical Goal: To explore alternative solutions and interventions to address the patient's sleep issues while considering her unique needs and preferences.
+Summary: A caregiver is struggling to balance their terminally ill patient's comfort and well-being, particularly with regards to sleep, and seeks guidance on finding an optimal solution.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Concern, Helplessness
+Cognitive State: Catastrophizing (e.g., worrying about the patient's overall rest), Flooding (e.g., feeling overwhelmed by the situation)
+Underlying Need: Emotional safety and control in managing the patient's care.
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Empathy, Collaborative goal-setting
+
+=== THE TRANSCRIPT ===
+User: I've been taking care of a terminally ill patient, and she's been having trouble sleeping at night. I've tried giving her medication, but she refuses to take it because it makes her sleep during the day. She's already sleeping most of the day away, and I'm worried about her not getting enough rest overall.
+Counselor: Your situation is indeed intricate, as you're balancing your patient's comfort and well-being while addressing her sleep issues...

@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Overcoming Depression and Sleep Disturbances with Cognitive-Behavioral Therapy (CBT)
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified
+Clinical Goal: To help the client identify and challenge negative thought patterns contributing to depression, hopelessness, and insomnia using CBT.
+Summary: A person struggling with persistent feelings of sadness, hopelessness, and sleep disturbances is seeking professional help after trying various self-help methods without success.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Sadness, Hopelessness, Frustration
+Cognitive State: Catastrophizing, Flooding (due to the overwhelming nature of their emotional distress)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Education (explaining CBT as an evidence-based therapeutic approach), Empowerment (encouraging the client's active participation in the therapeutic process)
+
+=== THE TRANSCRIPT ===
+User: I've tried talking to my friends and family about my feelings, but they don't seem to understand. I feel like I'm burdening them with my problems. I've also tried reading self-help books and practicing relaxation techniques, but nothing seems to help. I've felt this way for so long that I've started to believe that this is just how my life is supposed to be.
+Counselor: It's understandable that you've tried reaching out to your support system and seeking out self-help resources... (rest of the transcript)

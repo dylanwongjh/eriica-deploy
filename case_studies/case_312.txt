@@ -1,0 +1,24 @@
+=== CASE STUDY PROFILE ===
+Topic: Managing Estate and Hoarding Problem after Sibling's Passing
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult sibling (age not specified) managing estate and dealing with hoarding problem of deceased sister.
+Clinical Goal: To support the caregiver in navigating the complexities of their sister's estate, addressing financial stress, and coping with grief while prioritizing self-care.
+Summary: I'm overwhelmed by managing my late sister's estate, including her extensive hoarding problem, and struggling to pay for her senior living facility expenses.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Grief, Financial Stress, Overwhelm
+Cognitive State: Catastrophizing (anticipating worst-case scenarios), Flooding (feeling overwhelmed by emotions)
+Underlying Need: Emotional safety and control in managing the estate and dealing with hoarding problem.
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Empathy, Reframing (acknowledging the caregiver's emotional experience), Problem-solving (exploring alternative living facilities and resources).
+
+=== THE TRANSCRIPT ===
+
+User: I've been tasked with managing my late sister's estate, which includes dealing with her extensive hoarding problem. I've been struggling to pay for her rent at [Facility], a senior living facility, and was hoping Medicaid or Medicare could help cover some of the expenses.
+Counselor: I'm truly sorry for the burden you've been carrying since your sister's passing... (counselor response omitted for brevity)
+...
+Counselor: ...It might be helpful to explore your feelings about your sister's hoarding problem and how it relates to your own experiences and beliefs. This reflection could provide valuable insights and help you cope with the situation more effectively.
+User: [No additional user input provided]
+Counselor: In summary, while dealing with the financial aspects of your sister's estate and her living situation, it's crucial to prioritize self-care and seek support from various resources... (counselor response omitted for brevity)

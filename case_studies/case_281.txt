@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Chronic Pain Management
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (assuming patient is the primary caregiver)
+Clinical Goal: Explore alternative treatment options for chronic pain management and identify stress/emotional triggers.
+Summary: I'm struggling with persistent pain that no treatment seems to fully alleviate, leaving me feeling frustrated and unsure about what else I can do.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Uncertainty, Hopelessness
+Cognitive State: Catastrophizing, Helplessness
+Underlying Need: Emotional safety and control over pain management
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging efforts to manage pain), Validation (acknowledging frustration and uncertainty), Reframing (exploring alternative treatment options), Empathy (understanding the emotional impact of chronic pain).
+
+=== THE TRANSCRIPT ===
+User: I've tried to manage my pain through various methods, but nothing seems to work consistently. I've been taking medication, practicing relaxation techniques, and even trying acupuncture, but the pain still lingers. I feel like I'm at a loss and don't know what to do next.
+Counselor: It's clear that you've been making significant efforts to manage your pain through various methods, and it's understandable that you feel frustrated and uncertain when these methods don't yield consistent results...

@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burnout in end-of-life care decisions
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Spouse of a terminally ill patient, likely male, mid-to-late 50s or older
+Clinical Goal: To alleviate the client's feelings of guilt and anxiety related to transitioning his wife to Hospice care
+Summary: A devoted husband is struggling with overwhelming emotions as he considers transferring his wife's care to Hospice, fearing abandonment and worrying about her reaction.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Anxiety, Sadness
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control in the face of uncertainty
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Validation (acknowledging the client's feelings as understandable)
+- Reframing (reinterpreting the decision to transition care as a proactive and compassionate choice rather than abandonment)
+- Education (providing information about Hospice care and its focus on comfort and support)
+
+=== THE TRANSCRIPT ===
+User: I've been caring for my wife at home for the past year, and I've been doing my best to provide her with the care she needs. But lately, her condition has deteriorated, and I'm feeling overwhelmed. I know that Hospice care might be the best option, but I can't shake this feeling of guilt. I feel like I'm abandoning her, and I'm worried about how she'll react.
+Counselor: Your feelings of guilt are understandable, given the deep bond you share with your wife and the role you've played in her care for the past year. It's essential to recognize that this decision is not about abandoning her, but rather about ensuring that she receives the best possible care in her current condition. The transition to Hospice care is not a failure, but rather an acknowledgement that her needs have changed and that there are resources available to help manage her care. It's important to remember that Hospice care is focused on providing comfort and support for both the patient and their family.

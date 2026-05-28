@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Coping with anxiety-related financial stress in a caregiving relationship
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Husband of a woman experiencing anxiety; likely middle-aged or older given the context of managing finances and caregiving responsibilities.
+Clinical Goal: To alleviate the emotional and financial burden on both partners, improve communication, and explore alternative healthcare coverage options for the wife's anxiety treatment.
+Summary: A husband is overwhelmed by the constant stress of his wife's anxiety, particularly regarding their finances, and feels a sense of responsibility to help her manage her condition while also taking care of himself.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Helplessness, Frustration
+Cognitive State: Catastrophizing, Overwhelm
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathetic understanding
+- Validation of feelings
+- Reframing (encouraging the husband to see his role as a supporter rather than solely responsible for fixing the problem)
+- Problem-solving (exploring alternative healthcare coverage options)
+- Goal-setting (helping the couple set personal goals to cope with anxiety and navigate their situation)
+
+=== THE TRANSCRIPT ===
+User: My wife's anxiety has been a constant source of stress for both of us, especially when it comes to our finances. She's been unable to secure proper healthcare coverage, and the cost of her treatments falls on us. This burden has taken a toll on our relationship and our savings.
+Counselor: I understand how challenging this situation must be for you and your wife... (rest of the transcript)

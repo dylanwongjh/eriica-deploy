@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory Grief and Caregiver Burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caregiver (inferred from the context)
+Clinical Goal: To alleviate caregiver distress, promote understanding of the patient's behavior, and explore options for managing behavioral changes.
+Summary: "I'm at my wit's end with my mother's increasingly agitated behavior, feeling overwhelmed by her disapproval and worried that I'm not doing enough to help her manage her pain and distress."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Agitation, Disapproval, Suffering
+Cognitive State: Catastrophizing, Flooding (inferred from the caregiver's emotional state)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (by acknowledging the patient's suffering as a manifestation of their internal pain)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with my mother's behavior for months now. She's been increasingly agitated and disapproving, and it's causing me a great deal of emotional distress. I've tried to manage it with patience and understanding, but it's becoming unbearable. I've been trying to avoid using the morphine for her behavior, but I'm worried that I'm not doing enough to help her.
+Counselor: I understand how difficult it is to see your mother in pain and struggling, both physically and emotionally. It's important to remember that her behavior is a manifestation of her internal suffering, and that she's not intentionally causing you distress. The use of morphine for managing behavioral changes is a common practice in hospice care, and it's essential to consider all available options to ensure her comfort and well-being.

@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief, Terminal illness adjustment
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (patient is the primary individual)
+Clinical Goal: Assist patient in coping with terminal diagnosis, finding meaning in remaining time, and developing acceptance
+Summary: I've just been diagnosed with a terminal illness and I'm struggling to come to terms with the thought of my own mortality, feeling lost and out of control as I try to adjust to this new reality.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Helplessness, Loss of control, Sadness
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging patient's emotions), Validation (recognizing common reactions to terminal diagnosis), Reframing (focusing on coping strategies and finding meaning)
+
+=== THE TRANSCRIPT ===
+User: I've recently been diagnosed with a terminal illness, and I've been admitted to a hospice facility. I've always believed that I'd never end up in such a place, and the thought of my impending mortality has left me feeling helpless and out of control.
+Counselor: I understand that this is a difficult and overwhelming time for you. Your feelings of helplessness and loss of control are common reactions to a terminal diagnosis. It's essential to acknowledge these emotions and process them in a healthy way. Let's explore ways to help you cope with your diagnosis and find meaning in your remaining time. We can work on developing a sense of acceptance, setting personal goals, and finding ways to connect with your loved ones.

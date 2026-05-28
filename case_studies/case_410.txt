@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burden and skill acquisition in palliative care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Spouse caregiver, likely middle-aged or older (inferred from context)
+Clinical Goal: Enhance caregiver confidence and competence in administering medication through a feeding tube, while addressing emotional toll of caregiving
+Summary: "I'm struggling to care for my husband after his heart attack, feeling overwhelmed by the responsibility of administering medication through a feeding tube and worried I'll make a mistake."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Daunted, Anxious
+Cognitive State: Catastrophizing, Flooding (inferred from user's description of feeling "daunting")
+Underlying Need: Emotional safety and control in the face of uncertainty and responsibility
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empowerment through resource identification
+
+=== THE TRANSCRIPT ===
+User: I'm feeling overwhelmed with my current responsibilities as a caregiver for my spouse who has had a heart attack. The hospital discharge team suggested that I learn how to administer medication through a feeding tube, but I'm struggling to understand the instructions and I'm not confident I can do it correctly. I'm already dealing with the emotional toll of caring for my spouse, and the thought of learning a new skill feels daunting.
+Counselor: I can relate to how you're feeling. Learning a new skill, especially during a time of crisis, can be overwhelming. It's like trying to learn a new language while dealing with a personal loss. The words and grammar might seem unfamiliar, and the process of learning might feel slow and frustrating. However, it's important to remember that learning a new skill doesn't have to be a solitary endeavor. You have resources available to you, such as the hospital discharge team, who can provide guidance and support. Additionally, there are online resources and support groups specifically designed for caregivers in your situation. We can explore these options further and discuss how they might help you feel more confident and prepared to learn this new skill. It's also essential to consider the potential benefits of learning this skill, such as increased independence and improved quality of life for both you and your spouse. Would you be open to discussing this further next week?

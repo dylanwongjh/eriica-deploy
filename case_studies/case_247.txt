@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver dependency and loss of identity due to chronic illness or disability
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (assuming a patient with a caregiver)
+Clinical Goal: Help the patient regain independence, motivation, and sense of self through goal-setting and adaptive coping strategies
+Summary: "I've been feeling trapped in my own life for months, stuck in a cycle of dependence on my caregiver and struggling to find the motivation or energy to do things for myself."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Loss, Sadness
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the patient's feelings), Validation (normalizing the experience), Reframing (focusing on small, achievable goals), Problem-solving (exploring new ways to engage in activities)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling trapped in my own life for months now. I've grown increasingly dependent on my caregiver, and I can't seem to find the motivation or energy to do things for myself. I used to love painting, but now even the thought of picking up a brush exhausts me. I feel like I've lost touch with who I am, and I'm not sure how to get back on track.
+Counselor: Your situation is understandably frustrating, and it's natural to feel a sense of loss when you're unable to engage in activities that once brought you joy. It's important to remember that this is a common experience for many people dealing with chronic illness or disability. The key to regaining your independence and sense of self is to focus on small, achievable goals. This might involve setting aside time each day for self-care activities, such as taking a warm bath, reading a book, or practicing mindfulness meditation. It's also essential to explore new ways of engaging in activities that you love, such as painting with adaptive tools or seeking out online communities of artists with similar challenges. By breaking down your goals into manageable steps and focusing on the process rather than the end result, you'll be able to build up your confidence and energy levels over time.

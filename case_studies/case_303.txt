@@ -1,0 +1,34 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: 35-year-old single woman, caring for aging mother with chronic illness
+Clinical Goal: To help the patient manage her finances, prioritize expenses, and balance caregiving responsibilities with personal needs while anticipating her mother's passing.
+Summary: I'm a 35-year-old single woman struggling to balance my own life while caring for my aging mother with chronic illness, feeling overwhelmed by the financial burden and uncertain about what will happen when she's no longer able to care for herself.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Anxiety, Sadness
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Empathy-building, Self-care promotion.
+
+=== THE TRANSCRIPT ===
+User: I'm struggling to manage my finances, especially with the added expense of taking care of my mother. I'm paying for her healthcare, and it's a significant amount. I'm at a crossroads, trying to decide where to allocate my resources, but the future is uncertain. I don't know what the future holds, and that's the problem.
+
+Counselor: I can see how challenging this situation is for you... It's essential to consider your long-term goals and the potential impact of various decisions on your financial situation and your relationship with your mother.
+
+User: (background information)
+
+Counselor: ...It's also crucial to consider the emotional and ethical implications of your choices. For instance, how might your decisions affect your relationship with your mother? What are your values and priorities in this situation?
+
+... (summary of counselor's approach)
+
+User: Your feelings of guilt and the impending loss of your mother are complex emotions that require a thoughtful and compassionate response.
+
+Counselor: ...It's essential to acknowledge the significance of your role as a caregiver and the emotional investment you've made in your mother's well-being. However, it's equally important to recognize the importance of self-care and maintaining a balance between your responsibilities and personal needs.
+
+... (summary of counselor's approach)
+
+Note: The counselor uses a combination of active listening, validation, reframing, problem-solving, empathy-building, and self-care promotion techniques to address the patient's complex emotional and financial situation.

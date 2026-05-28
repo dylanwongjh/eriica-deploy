@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (relationship), likely middle-aged or older, caring for an aging parent.
+Clinical Goal: Recognize the signs of caregiver burnout and take proactive steps to prevent it.
+Summary: A middle-aged adult child is struggling with feelings of overwhelm and helplessness as their mother's health declines, unsure if they're experiencing caregiver burnout and seeking guidance on how to cope.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Helpless, Sadness
+Cognitive State: Catastrophizing (assuming the worst-case scenario), Flooding (feeling overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Validation: The counselor acknowledges the user's feelings as valid.
+- Education: The counselor provides information about caregiver burnout, its signs, and prevention strategies.
+- Reframing: The counselor reframes asking for help as a necessary aspect of maintaining one's own health and well-being.
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed and helpless as my mother's health continues to decline. I've tried to be there for her, but the emotional burden is becoming unbearable. I've read about caregiver burnout and how common it is, but I didn't think it would happen to me.
+Counselor: Your feelings are entirely valid. Caregiving can be a rewarding experience, but it's also a demanding role that can take a toll on one's emotional and physical well-being. It's essential to recognize the signs of caregiver burnout, such as feelings of exhaustion, irritability, and detachment, and to take proactive steps to prevent it. This might include setting boundaries, seeking respite care, or engaging in self-care activities. It's also crucial to remember that asking for help is not a sign of weakness but a necessary aspect of maintaining your own health and well-being.

@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) of a parent with Alzheimer's disease, possibly experiencing significant emotional strain due to caregiving responsibilities.
+Clinical Goal: To help the caregiver manage their emotional toll, develop coping strategies, and improve communication with their sister regarding shared caregiving responsibilities.
+Summary: A dedicated adult child has been caring for their mother with Alzheimer's disease for three years, feeling isolated, guilty, and resentful towards their less involved sister, seeking support to cope with the emotional strain of caregiving.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Resentment, Isolation
+Cognitive State: Catastrophizing (assuming worst-case scenarios), Flooding (overwhelming emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Normalization (acknowledging the commonality of caregiving challenges)
+- Empathy (acknowledging feelings of isolation, guilt, and resentment)
+- Problem-focused coping (exploring strategies for managing emotional toll and improving communication with sister)
+
+=== THE TRANSCRIPT ===
+User: I've been caring for my mother for the past three years since her diagnosis with Alzheimer's disease. It's been a challenging journey, and I've had to put my life on hold to ensure she's comfortable and safe. My sister, who lives in another state, has been less involved in our mother's care. I've felt a deep sense of isolation and loneliness as a result. I've tried reaching out to her, but she's been distant and unresponsive. I've also struggled with feelings of guilt and resentment towards her for not being there more.
+Counselor: Your experiences as a caregiver are common among individuals in similar situations. The emotional toll of caregiving can be immense, and it's essential to acknowledge and address the feelings of isolation, guilt, and resentment that come with it. We'll explore various coping strategies, such as practicing self-care, seeking support from friends and family, and engaging in activities that bring you joy. I'll also encourage you to communicate openly with your sister about your feelings and needs. This may help you both find ways to work together more effectively in caring for your mother.

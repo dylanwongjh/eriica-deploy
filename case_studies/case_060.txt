@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Parent-Adult Child Relationship Changes
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Mother of adult children (inferred from the context)
+Clinical Goal: To help the caregiver adapt to her child's growing independence and maintain a strong relationship.
+Summary: As my adult children start making their own decisions and pursuing their own lives, I'm struggling to accept that they don't need me as much anymore and feeling like I'm losing the close connection we once had.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Sadness, Fear, Loss
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control in the parent-child relationship
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the caregiver's feelings), Validation (recognizing the naturalness of her emotions), Reframing (interpreting the situation as a healthy development), and Problem-solving (suggesting alternative ways to engage with her son).
+
+=== THE TRANSCRIPT ===
+
+User: I've always been close to my kids, and it's hard for me to accept that my older one doesn't want to involve me in his activities anymore. I feel like I'm losing him, and I don't know how to navigate this new phase in our relationship.
+Counselor: Your feelings of loss and concern are natural, especially as your children grow older and become more independent. It's essential to recognize that this phase represents a healthy development in their lives, and it's crucial to adapt to these changes while maintaining a strong bond. Instead of focusing on the activities themselves, try to find other ways to engage with your son. Ask about his interests, his friends, and his goals. Showing genuine interest and support can help strengthen your relationship.

@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief related to chronic illness.
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult sibling (age not specified) caring for a younger sister with cerebral palsy.
+Clinical Goal: To help the caregiver recognize and manage her emotional response to her sister's increasing needs, explore alternative care methods, and maintain a healthy balance in their relationship.
+Summary: A devoted adult sibling is struggling to cope with the escalating demands of caring for her younger sister with cerebral palsy, feeling overwhelmed by the emotional toll and seeking support to redefine their caregiving dynamic.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Overwhelm, Guilt
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control in her caregiving role
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the emotional weight of the situation), Validation (recognizing the complexity of feelings towards her sister's needs), Reframing (exploring alternative methods to maintain independence and dignity).
+
+=== THE TRANSCRIPT ===
+User: [Name] has always been close to her younger sister, [Name], who was born with cerebral palsy. Growing up, [Name] took pride in helping [Name] with daily tasks, like getting dressed, as a way to show her love and support. However, as [Name] aged, her limited mobility became more pronounced, and the once simple task of helping her dress transformed into a time-consuming and emotionally taxing experience. [Name] found herself feeling frustrated and overwhelmed by the mounting pile of clothes that accumulated after each dressing session.
+Counselor: In recognizing the emotional weight of this situation, it's essential to acknowledge the complexity of your feelings towards your sister's needs and the impact it has on your relationship. It's natural to feel a sense of responsibility and love towards your sister, but it's also important to recognize the emotional and physical toll this task takes on you. By exploring alternative methods to help your sister maintain her independence and dignity, we can work towards finding a balance that benefits both of you. This may involve implementing new routines, seeking outside help, or even redefining the role of caregiver in your relationship.

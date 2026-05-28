@@ -1,0 +1,25 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver-Hospice Team Relationship Strain
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult caregiver of a loved one in hospice care (relationship not specified)
+Clinical Goal: To address the caregiver's feelings of mistrust, powerlessness, and disconnection from the hospice team, and to improve communication and decision-making processes.
+Summary: I'm struggling to trust and connect with my loved one's hospice team, feeling uneasy about their decisions and left out of important discussions about her care, which has made me feel powerless and disconnected.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Disheartenment, Powerlessness
+Cognitive State: Catastrophizing (assuming worst-case scenarios), Flooding (feeling overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-solving, Self-awareness exploration, Assertiveness encouragement.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to trust and connect with my hospice team... 
+Counselor: ...I can imagine how frustrating and disheartening it must feel...
+User (not present in this transcript): The team has been very responsive to my requests and concerns, but I still feel uneasy about their decisions and communication. I've noticed that they don't always involve me in discussions about my loved one's care, and I feel left out of important decisions.
+Counselor: ...It's essential to address this issue to ensure a positive outcome for both you and your loved one... 
+User (not present in this transcript): This has left me feeling powerless and disconnected.
+Counselor: ...Open communication is the foundation of trust. I encourage you to express your concerns to your hospice team...
+User (not present in this transcript): I've noticed that they don't always involve me in discussions about my loved one's care, and I feel left out of important decisions.
+Counselor: ...Have there been instances in the past where you felt unheard or unsupported? Understanding these emotions can help you approach the situation with your hospice team from a place of self-awareness and compassion.

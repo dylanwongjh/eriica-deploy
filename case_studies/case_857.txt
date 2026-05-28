@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Guilt, Shame, and Post-Traumatic Stress
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (assuming the user is a family member or sibling of someone affected by the accident)
+Clinical Goal: To help the user process and manage their guilt and shame related to the brother's accident, and to facilitate personal growth and healing.
+Summary: A person struggling with intense feelings of guilt and shame for years after their brother's accident, affecting their relationships and work, seeks help to understand and overcome these emotions.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Shame, Sadness
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Acknowledgment (counselor acknowledges the user's emotions)
+- Reframing (counselor suggests focusing on more productive emotions like empathy, compassion, and resilience)
+
+=== THE TRANSCRIPT ===
+User: I've been carrying a deep sense of guilt and shame for years, ever since my brother's accident. I feel like I've failed him, even though I wasn't the one driving the car that day. I can't shake off these feelings, and they've been affecting my relationships and my work.
+Counselor: I'm sorry to hear that you've been dealing with such intense emotions for a long time. It's essential to acknowledge the impact of your brother's accident on your life and the emotions that come with it. However, it's also crucial to recognize that guilt and shame are not productive emotions in this situation. They can prevent you from moving forward and healing. Instead, consider focusing on the emotions that can help you grow and learn from this experience, such as empathy, compassion, and resilience.

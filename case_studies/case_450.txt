@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver emotional support and self-care during end-of-life care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult caregiver for a loved one receiving hospice care (age not specified)
+Clinical Goal: To help the caregiver manage their anxiety, sadness, and emotional challenges related to caregiving, while prioritizing their own emotional well-being.
+Summary: "I've been caring for my loved one through hospice and feel overwhelmed by anxiety and sadness as their condition worsens, struggling to find a way to manage these emotions while keeping them safe."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Sadness
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Exploration of triggers, Identification of coping strategies, Self-care promotion, Collaboration with hospice team.
+
+=== THE TRANSCRIPT ===
+User: I've been caring for my loved one through hospice, and I've found their support invaluable. They've helped me manage the emotional challenges of the situation. But lately, I've been feeling increasingly anxious and sad. I can't seem to shake these feelings, no matter what I do.
+Counselor: I'm sorry to hear that you've been experiencing such intense emotions lately... (rest of the transcript is not provided in the original interaction)

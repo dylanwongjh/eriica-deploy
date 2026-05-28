@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout, Anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age and relationship inferred)
+Clinical Goal: To acknowledge the emotional toll of caregiving and encourage self-compassion to prevent burnout.
+Summary: A daughter is exhausted from constantly worrying about her mother's health and feels helpless in managing their unpredictable needs, impacting her ability to plan personal activities.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Helpless, Drained
+Cognitive State: Catastrophizing, Flooding (inferred)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the user's feelings with "I can imagine how overwhelming it must be")
+- Validation (acknowledging the legitimacy of the user's emotions)
+- Reframing (highlighting the importance of self-care in caregiving)
+
+=== THE TRANSCRIPT ===
+User: My mother's health condition has been unstable for years. The constant worry about her wellbeing and the unpredictability of her needs leaves me feeling drained and helpless. I can't even plan a simple outing with friends without considering her needs and potential emergencies.
+Counselor: I can imagine how overwhelming it must be to juggle your own life with your mother's health concerns. It's essential to acknowledge the emotional toll that caregiving can take on you. Given your situation, it might be helpful to explore the concept of self-compassion. Self-compassion involves treating yourself with kindness, understanding, and empathy, especially during challenging times. You're not alone in feeling drained and helpless. Many caregivers experience similar emotions. It's important to remember that taking care of yourself is not a luxury but a necessity. You can't effectively support your mother if you're not taking care of your own needs.

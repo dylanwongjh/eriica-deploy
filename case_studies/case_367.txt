@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for a parent with Alzheimer's disease
+Clinical Goal: To help the caregiver manage their emotional response to the diagnosis, develop coping strategies, and maintain a sense of normalcy in their life while providing care.
+Summary: I'm struggling to balance caring for my mother with Alzheimer's disease while also taking care of myself, feeling overwhelmed by the constant worry about her condition and losing touch with my own life.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Sadness, Frustration, Loss, Overwhelm
+Cognitive State: Catastrophizing, Flooding (due to constant worry about mother's condition)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Education (explaining coping skills and strategies), Empathy-building (acknowledging the caregiver's emotions and experiences)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to cope with my mother's recent diagnosis of Alzheimer's disease. The news hit me like a ton of bricks, and I've been trying to maintain a normal routine ever since. I've been unable to attend a cruise that I had planned with a friend of mine for seven years due to my mother's increasing needs. I've been feeling overwhelmed and disconnected from my social circle. I've tried to keep up with my daily activities, but the constant worry about my mother's condition has left me drained and emotionally drained. I've been unable to focus on anything else, and I feel like I'm losing touch with my own identity.
+Counselor: ...
+... (counselor response explaining coping skills, predicting consequences, self-compassion, and building a support network)

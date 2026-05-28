@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Supporting Family Members through Mental Health Challenges
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Mother/Primary Caregiver (inferred from context)
+Clinical Goal: To support the caregiver in maintaining emotional well-being while managing the needs of her children and niece, who are dealing with their mother's mental instability.
+Summary: A mother is struggling to balance her own emotional needs with those of her children and niece as they cope with their mother's mental health issues, feeling overwhelmed by disrupted plans and seeking help to navigate this challenging situation.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Guilt, Overwhelm
+Cognitive State: Catastrophizing (focusing on worst-case scenarios), Flooding (feeling overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy
+- Validation
+- Reframing (interpreting the situation in a more positive or constructive light)
+- Problem-focused coping (exploring alternative methods of connection to strengthen bonds with children and niece)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to support my kids and my niece through their emotional turmoil as they deal with their mom's mental instability. Last week, we talked about strategies to help them cope, and I even reached out to their therapist to discuss my niece's situation. But last night, our plans to have one-on-one time with each of them were disrupted, causing more frustration and tension.
+Counselor: I can empathize with the challenges you face in providing emotional support for your kids and niece during this trying time... (continues)

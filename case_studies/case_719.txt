@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Social Isolation and Burden Perception
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely an adult individual)
+Clinical Goal: To help the client recognize that their feelings of disconnection are internal rather than a reflection of their relationships, and to explore strategies for building a support system.
+Summary: A person struggling with emotional distress feels disconnected from loved ones and perceives themselves as a burden, seeking help to understand and address this sense of isolation.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Sadness, Guilt, Shame
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and validation
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Validation (acknowledging the client's feelings as normal)
+- Reframing (interpreting the client's situation in a more positive or neutral light)
+- Problem-focused coping (suggesting specific actions to address the problem)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling disconnected from my family and friends for months now. I've tried reaching out, but it feels like they're too busy or not interested in my life anymore. I've started to feel like I'm a burden to them.
+Counselor: It's common to feel disconnected from loved ones during times of emotional distress, and it's essential to remember that these feelings are often a result of your internal struggle rather than a reflection of your relationships...

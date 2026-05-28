@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burden and conflict resolution in Alzheimer's disease
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caregiver (inferred)
+Clinical Goal: To help the caregiver manage feelings of frustration and burden, and find ways to adapt to the changing dynamics of their relationship with their loved one.
+Summary: I'm an adult child caregiver struggling to manage my feelings of frustration and resentment as I constantly navigate conflicts with my parent who has Alzheimer's disease, feeling like I'm shouldering the entire burden of communication and conflict resolution.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Helplessness
+Cognitive State: Catastrophizing, Over-responsibility
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the user's feelings), Validation (recognizing the user's emotions as valid), Reframing (helping the user see the situation from a different perspective)
+
+=== THE TRANSCRIPT ===
+User: I understand that, but sometimes it feels like I'm the only one putting in effort to make things work. My loved one's memory loss makes it difficult for them to remember past disagreements or even recognize their part in the conflict. I feel like I'm constantly walking on eggshells, afraid of triggering an argument or causing more distress.
+Counselor: Your feelings are valid, and it's natural to feel frustrated when it seems like the burden of resolving conflicts falls solely on your shoulders. However, it's essential to recognize that the situation is not entirely within your control. The Alzheimer's disease affects your loved one's ability to communicate effectively and remember past interactions. This dynamic can be challenging, but it's essential to find ways to adapt and communicate in a way that is sensitive to their condition.

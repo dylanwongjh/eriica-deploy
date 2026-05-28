@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Betrayal by family members, Trust issues after stroke
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely an older adult with communication challenges due to stroke)
+Clinical Goal: Help the patient regain a sense of control and autonomy in life, rebuild trust with family members
+Summary: A person who had a stroke and struggles with communication is feeling betrayed by their family's actions, leading to feelings of helplessness and isolation.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Betrayal, Helplessness, Sadness
+Cognitive State: Catastrophizing (assuming the worst about their family's intentions), Flooding (overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the patient's feelings with phrases like "I can see how devastating this experience has been for you")
+- Validation (recognizing the patient's emotions as valid, e.g., "Your feelings of betrayal are valid")
+- Reframing (presenting a different perspective on forgiveness and rebuilding trust)
+- Empathy (expressing understanding and compassion, e.g., "It's natural to feel helpless and alone in the face of such betrayal")
+- Problem-solving (suggesting approaches for rebuilding trust and communication with family members)

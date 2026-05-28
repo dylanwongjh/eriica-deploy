@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory Grief and Complicated Bereavement
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (inferred from the context of losing a parent at age 15)
+Clinical Goal: To help the client process their grief, reduce avoidance behaviors, and increase emotional acceptance and resilience.
+Summary: I'm still reeling from my dad's sudden death when I was 15 and now, years later, I'm struggling to manage overwhelming anxiety and depression that feels like a constant weight.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Depression, Sadness, Fear
+Cognitive State: Avoidance coping mechanism (avoiding difficult emotions and situations), possibly experiencing flooding or overwhelming emotions.
+Underlying Need: Emotional safety, control over their emotional experience, and support during the grieving process.
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy statement ("I'm deeply sorry for the loss you've experienced...").
+- Validation of the client's feelings and experiences ("Losing a loved one at such a young age can be incredibly traumatic...").
+- Reframing (encouraging the client to view their emotions as part of the healing process).
+- Problem-focused coping suggestions (emphasizing the importance of embracing and working through emotions).
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with feelings of anxiety and depression for years now. It all started when my father passed away suddenly when I was just 15. I've tried to cope by avoiding difficult emotions and situations, but it feels like I'm drowning in a sea of sadness and fear.
+Counselor: I'm deeply sorry for the loss you've experienced and the pain it's caused you...

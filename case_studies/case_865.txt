@@ -1,0 +1,24 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (likely in their 40s or 50s) caring for a parent with significant needs, possibly including financial management.
+Clinical Goal: To help the caregiver manage their emotional toll, improve sleep quality, and maintain their overall well-being while continuing to care for their loved one.
+Summary: A devoted adult child is struggling to cope with the added responsibilities of caregiving after their father's passing, feeling overwhelmed by managing their mother's care, finances, and their own health concerns, leading to significant sleep disturbances.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Anxiety, Sadness
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the patient's feelings and validating their experiences)
+- Empathy (recognizing the complexity of the situation and its emotional toll)
+- Problem-focused coping (suggesting specific strategies to address sleep disturbances, such as establishing a consistent sleep schedule and practicing relaxation techniques)
+- Self-efficacy enhancement (encouraging the caregiver to prioritize their own self-care and well-being)
+
+=== THE TRANSCRIPT ===
+User: I've been having trouble sleeping due to my fear of leaving my mom and taking care of my dog alone. My anxiety stems from a deep-rooted sense of responsibility and a fear of abandonment, which has been exacerbated by my recent health concerns.
+Counselor: Your concerns about leaving your loved ones behind and your fear of abandonment are valid and deeply rooted... (and subsequent dialogue)
+User: Your description of the challenges you face as a caregiver is both poignant and insightful. The loss of your father and the added responsibilities of managing your mom's care have created a perfect storm of stressors that have impacted your sleep.
+Counselor: It's essential to acknowledge the grief you're experiencing over the loss of your father and the added responsibilities that have come with his absence... (and subsequent dialogue)

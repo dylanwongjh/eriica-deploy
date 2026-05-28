@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Burnout and Sleep Disturbances
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult family member (age not specified), likely in a caregiving role for themselves or others.
+Clinical Goal: Improve sleep quality, address caregiver burnout, and enhance communication with family members regarding sleep needs.
+Summary: A family member is struggling to get adequate rest due to the demands of their life, feeling unheard by their loved ones, and seeking help to prioritize their own well-being.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Helplessness, Anxiety
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control over sleep schedule
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the user's frustration), Reframing (suggesting a different approach to communication), Problem-solving (offering practical suggestions for improving sleep and involving a mediator).
+
+=== THE TRANSCRIPT ===
+User: I've tried talking to my family about my sleep issues, but they don't seem to understand the gravity of the situation. I feel like I'm constantly battling to get even a few hours of uninterrupted rest, and it's taking a toll on my mental and emotional health.
+Counselor: I can understand how frustrating it is to feel unheard and undervalued when it comes to your sleep needs...

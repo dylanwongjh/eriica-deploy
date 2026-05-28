@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout, Anticipatory grief, End-of-life decision-making
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Middle-aged male caregiver for his terminally ill wife; relationship context is specified.
+Clinical Goal: To support the caregiver in navigating the emotional and practical challenges of end-of-life care, while promoting effective communication with his partner and prioritizing self-care.
+Summary: As a devoted husband caring for his terminally ill wife of 25 years, I'm struggling to express my own needs and feelings amidst the stress of her illness, feeling unheard and increasingly isolated in our relationship.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness, Fear
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-solving, Education (explaining the concept of Hospice care), Supportive counseling.
+
+=== THE TRANSCRIPT ===
+User: I've been trying to navigate my current situation, especially when my sisters are around, but I've found it difficult to have conversations about my needs with my partner, [Name]. The tension between us has been growing for months, and I feel like I'm constantly walking on eggshells around her. I've tried expressing my feelings directly, but it always ends up in an argument. I feel like I'm not being heard, and I'm starting to doubt if our relationship can survive this.
+Counselor: ... (see above for counselor's response)

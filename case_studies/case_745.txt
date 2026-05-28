@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver concerns about addiction in end-of-life care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult caregiver, likely a family member (relationship not specified), caring for a loved one with a terminal illness.
+Clinical Goal: To alleviate the caregiver's concerns and fears about addiction related to pain medication, while promoting trust in the hospice nurse's expertise and encouraging self-care practices.
+Summary: A dedicated caregiver is worried about their family member becoming addicted to prescribed pain medication, despite clear instructions from the hospice nurse, and seeks reassurance on how to manage this concern.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Concern, Fear, Anxiety
+Cognitive State: Catastrophizing (assuming the worst-case scenario), Overthinking (ruminating about addiction)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Education, Empathy, Problem-solving, Self-care promotion
+
+=== THE TRANSCRIPT ===
+User: I've been caring for my family member for two years and a month now, and I've noticed that they've been prescribed pain medication. I've read about addiction being a concern, but I don't think my family member would get addicted. I can tell when they're in pain, and we've been given clear instructions from the hospice nurse about the side effects and how to manage them.
+Counselor: Your dedication to your family member's wellbeing is truly commendable... (rest of the transcript)

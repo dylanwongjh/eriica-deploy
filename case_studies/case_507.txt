@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Adjusting to life after hospitalization; Managing responsibilities and emotions.
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely an individual who has been hospitalized)
+Clinical Goal: Assist the client in managing daily tasks, reducing feelings of guilt and inadequacy, and developing coping strategies for administrative challenges.
+Summary: "I've been out of the hospital for a few weeks now, but I'm still struggling to get back on top of things - managing my daily tasks, paying bills, and just feeling like myself again."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Inadequacy, Frustration
+Cognitive State: Catastrophizing (assuming worst-case scenarios), Flooding (overwhelmed by tasks)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Cognitive restructuring, Mindfulness.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to manage my daily tasks and appointments since being hospitalized. Last night, I managed to get some paperwork sorted out, but today I've been unable to focus on my tasks despite expecting to have more energy. Instead, I spent hours trying to set up an auto-payment system for my health insurance. I feel like I'm failing myself and my responsibilities, and I can't shake this sense of guilt and inadequacy.
+Counselor: [Counselor's response as provided above]

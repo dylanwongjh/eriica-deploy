@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Hospice Care Decision-Making
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (inferred from "my mother")
+Clinical Goal: To facilitate a thoughtful and informed decision regarding hospice care for the patient, weighing progress against potential risks.
+Summary: My mother is stable but needs help with daily tasks, and I'm trying to decide whether to keep her on hospice care or take her off, weighing the benefits of comfort against potential risks.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Hope, Frustration
+Cognitive State: Optimism, Anxiety
+Underlying Need: Emotional stability and reassurance
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging progress), Reframing (highlighting potential risks), Problem-focused coping (focusing on decision-making).
+
+=== THE TRANSCRIPT ===
+User: She's been maintaining a stable vital sign rate, her appetite and hydration levels have been good, and she hasn't shown any signs of confusion, agitation, or depression. However, she has required assistance with personal hygiene and moving around. Her pain levels have been manageable with medication.
+Counselor: It's essential to acknowledge the progress your mother has made and the improvements in her condition. However, it's equally crucial to consider the potential risks and challenges associated with taking her off hospice. Let's continue our conversation next time, focusing on these aspects in more detail to ensure we make the best decision for her care.

@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver (inferred), likely middle-aged, caring for her husband with lung cancer.
+Clinical Goal: To help the caregiver manage her emotional burden, reduce feelings of guilt and shame, and develop coping strategies to deal with the challenges of caregiving.
+Summary: I'm exhausted from caring for my husband with lung cancer, feeling like I'm losing myself in the process and struggling to cope with his anger and frustration towards me.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Frustration, Sadness
+Cognitive State: Catastrophizing (assuming she is responsible for her husband's mood swings), Flooding (feeling overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Education (providing information on mindfulness meditation and professional resources)
+
+=== THE TRANSCRIPT ===
+User: I feel overwhelmed caring for my husband, who's suffering from lung cancer, and I often seek comfort in talking to my sister-in-law, who lost her husband to the same disease a few years ago. However, when I express my feelings to her, she tells me not to take it personally when my husband gets angry and snappy, and to calm down. I find it difficult to accept her advice, as it feels very personal to me.
+Counselor: ... (see above)

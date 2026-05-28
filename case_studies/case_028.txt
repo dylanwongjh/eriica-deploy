@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief, Caregiver burden, and Unmet expectations in relationships
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver (inferred from "my husband's illness" and "my sister-in-law"), likely middle-aged or older, with a caregiving role for her husband.
+Clinical Goal: To help the caregiver process her emotions, manage her burden, and find ways to cope with the challenges of caring for her husband during his illness.
+Summary: I'm struggling to care for my husband through his illness while feeling unsupported by my sister-in-law, who had the means to help but chose not to.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Hurt, Abandonment
+Cognitive State: Catastrophizing (assuming her sister-in-law's lack of support is a personal rejection), Rumination (dwelling on the situation and its impact)
+Underlying Need: Emotional validation, Support, Control over the caregiving situation
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the caregiver's emotions and experiences)
+Empathic understanding (recognizing the complexity of her feelings and the impact of her sister-in-law's absence)
+Reframing (suggesting alternative explanations for her sister-in-law's behavior, focusing on potential emotional struggles rather than personal rejection)
+Problem-focused coping (encouraging the caregiver to seek additional support systems and practice self-care)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to help my sister-in-law through my husband's illness, but she wasn't interested in being there for him. I've given her every opportunity to visit and support us, but she couldn't bring herself to do it. I've felt frustrated and upset about this, especially since she had the means and the opportunity to help. Her lack of support has left me feeling alone and abandoned, adding to the emotional burden of caring for my husband during his illness.
+Counselor: ... (see above)

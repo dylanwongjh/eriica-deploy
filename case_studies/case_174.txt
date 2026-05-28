@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burden
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child or family member, likely middle-aged (inferred from context)
+Clinical Goal: To empower the caregiver with a sense of control and agency in managing their loved one's care, while acknowledging the emotional toll of caregiving.
+Summary: I'm struggling to care for my terminally ill parent whose condition has worsened suddenly, feeling overwhelmed by a sense of helplessness and unsure about how to advocate for their needs.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Helplessness, Overwhelm, Anxiety
+Cognitive State: Catastrophizing (inferred from concern about missing crucial information)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empowerment through education and self-advocacy.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to find the words to articulate my feelings to the hospice team. My loved one's condition has deteriorated rapidly, and I feel helpless and overwhelmed. I'm worried that I'll miss something crucial if I'm not fully informed.
+Counselor: Your concerns are valid. It's natural to feel a sense of loss of control when a loved one is ill, especially during the end stages of their life. It's important to remember that while you may not have control over your loved one's health, you do have control over how you respond and cope with the situation...

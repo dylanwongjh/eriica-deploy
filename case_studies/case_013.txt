@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burden
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female family member (sister-in-law) caring for her husband, with the patient (female) acting as primary caregiver.
+Clinical Goal: To help the patient process her emotions related to her sister-in-law's lack of support, manage her caregiving burden, and develop coping strategies.
+Summary: I've been shouldering the bulk of caregiving responsibilities for my husband while feeling abandoned and unsupported by my sister-in-law, who had the means to help but chose not to.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Hurt, Abandonment
+Cognitive State: Catastrophizing (assuming the worst about her sister-in-law's intentions), Flooding (overwhelmed by emotions related to caregiving)
+Underlying Need: Emotional support and validation from others, control over the caregiving situation
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the patient's feelings and experiences)
+Empathy (putting herself in the patient's shoes)
+Validation (acknowledging the complexity of the situation and the patient's emotions)
+Reframing (exploring alternative explanations for her sister-in-law's behavior, rather than assuming malice or neglect)
+Problem-focused coping (focusing on things the patient can control, such as seeking additional support)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to help my sister-in-law through my husband's illness, but she wasn't interested in being there for him. I've given her every opportunity to visit and support us, but she couldn't bring herself to do it. I've felt frustrated and upset about this, especially since she had the means and the opportunity to help. Her lack of support has left me feeling alone and abandoned, adding to the emotional burden of caring for my husband during his illness.
+Counselor: I can imagine how challenging it must be for you to navigate this situation, especially given the added emotional weight of your husband's illness...

@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and emotional processing in terminal illness
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child of terminally ill parent (age not specified)
+Clinical Goal: To help the client process their emotions, acknowledge the grieving process, and develop coping strategies for dealing with a loved one's terminal illness.
+Summary: A young adult struggling to express feelings about their mother's terminal illness feels overwhelmed by emotions and seeks guidance on how to cope with this difficult situation.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Sadness, Guilt, Overwhelm
+Cognitive State: Catastrophizing, Emotional avoidance
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Validation (acknowledging the client's emotions as a natural response to their situation)
+- Reframing (interpreting emotional avoidance as a coping mechanism rather than a personal failing)
+- Education (providing information on the grieving process and suggesting healthy coping strategies)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to find the right words to express my feelings about my mother's terminal illness. I feel like I'm constantly trying to hold back tears, and I can't seem to find the strength to truly process what's happening.
+Counselor: Your experience of grief and loss is a complex and deeply personal one...

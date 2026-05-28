@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (inferred from the context of providing emotional support to a sister)
+Clinical Goal: To help the client recognize and prioritize their own emotional needs amidst caregiving responsibilities
+Summary: "I'm exhausted from supporting my sister through her father's illness and death, feeling like I've lost myself in the process."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Overwhelm, Sadness
+Cognitive State: Catastrophizing, Flooding (inferred from the feeling of being "caught up in chaos")
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the client's emotional state), Validation (recognizing the validity of the client's emotional labor), Reframing (proposing a new perspective on the situation)
+
+=== THE TRANSCRIPT ===
+User: I guess I've been so focused on my father's passing and the financial burden that I've neglected my own needs. I've been so caught up in the chaos that I've lost sight of my own emotions and feelings.
+Counselor: It's natural to feel overwhelmed when dealing with the loss of a loved one and the responsibilities that come with it. I'd like to propose a few strategies to help you navigate this situation and prioritize your emotional well-being. First, let's explore the concept of emotional labor. You've been providing significant emotional support to your sister, which can be draining and exhausting. It's essential to recognize that this emotional labor is valid and important, but it's also crucial to set boundaries and ensure that you're not neglecting your own emotional needs.

@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burden in end-of-life care planning
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for a parent with terminal illness
+Clinical Goal: To alleviate the caregiver's anxiety, uncertainty, and feelings of overwhelm related to preparing for their father's potential transition to inpatient hospice care.
+Summary: I'm struggling to prepare for my father's potential transition to inpatient hospice care, unsure how long to plan ahead or whether a bed will be available when he needs it.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Uncertainty, Overwhelm
+Cognitive State: Catastrophizing (focusing on worst-case scenarios), Flooding (experiencing a sense of being overwhelmed by the situation)
+Underlying Need: Emotional safety and control in the face of uncertainty
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Education, Empowerment
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed and anxious about my father's end-of-life care. I'm trying to decide how long to prepare for his needs, but the uncertainty of when he might need inpatient hospice care and whether a bed will be available when we need it is making it difficult.
+Counselor: It's understandable that you're feeling overwhelmed and anxious about your father's end-of-life care...
+... (rest of the transcript)

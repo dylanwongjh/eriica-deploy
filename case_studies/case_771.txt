@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and Insomnia
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for a parent, likely in their 40s or 50s
+Clinical Goal: To help the client manage insomnia and caregiver burnout by improving sleep habits, reducing stress, and finding balance between caregiving responsibilities and personal needs.
+Summary: A daughter overwhelmed by balancing her mother's laundry and her own life is struggling with insomnia, feeling guilty and exhausted, and seeking help to regain control over her sleep patterns.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Overwhelm, Exhaustion
+Cognitive State: Catastrophizing (assuming the worst-case scenario), Flooding (feeling overwhelmed by responsibilities)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy
+- Validation of physical activity's positive impact on sleep quality
+- Reframing (encouraging a more balanced perspective on caregiving responsibilities)
+- Cognitive-behavioral therapy principles (challenging negative thoughts, practicing mindfulness and relaxation techniques)
+- Problem-solving (exploring alternative methods for unwinding before bed and adjusting daily routines)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with insomnia for a while now. The lack of sleep has started to affect my daily life, making it difficult for me to focus and function effectively. I've tried various sleep aids, but they only seem to keep me awake. I've noticed that my sleep improves when I'm more physically active, like when I ride my bike. However, my days are filled with balancing my mom's laundry and my own, leaving me with little time for rest. I've been feeling overwhelmed and exhausted, which only worsens my insomnia.
+Counselor: I empathize with the challenges you're facing in managing your insomnia and the added stress of balancing your mom's laundry and your own responsibilities... (continues)

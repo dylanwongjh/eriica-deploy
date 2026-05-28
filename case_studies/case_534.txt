@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and family dynamics
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for a parent with Alzheimer's
+Clinical Goal: To help the caregiver manage stress, set boundaries, and explore additional support options
+Summary: A primary caregiver is overwhelmed by her siblings' demands and lack of respect for her time and her mother's needs, leading to burnout and emotional exhaustion.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Guilt, Exhaustion
+Cognitive State: Catastrophizing (assuming the worst-case scenario), Feeling overwhelmed
+Underlying Need: Emotional safety and control over caregiving responsibilities
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (by acknowledging the caregiver's distress and offering alternative solutions)
+
+=== THE TRANSCRIPT ===
+User: My mom has Alzheimer's, and I've been her primary caregiver for the past few years. I've been trying to maintain a routine for her, but my siblings keep calling me for favors or emergencies, which disrupts my schedule and leaves me feeling drained. I've tried setting boundaries, but they don't seem to respect my time or my mom's needs.
+Counselor: I'm sorry to hear that your siblings' demands are causing you such distress. It's not uncommon for caregivers to face these challenges, and it's essential to establish clear communication with your family members about your responsibilities and limitations. You might consider setting specific times for responding to their requests or delegating tasks to others. It's also essential to remember that you're not alone in this situation and that seeking additional support, such as respite care or community resources, can be beneficial for both you and your mom.

@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burden
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (inferred from the user's statement about their mother passing away)
+Clinical Goal: To help the client recognize the value of having a support system and encourage them to accept help during this challenging time.
+Summary: As an adult child who lost her mother to cancer at a young age, I'm struggling to accept help from others because my ingrained sense of self-reliance is making it hard for me to ask for support when I need it most.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Shame, Sadness
+Cognitive State: Catastrophizing, Self-reliance
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the client's past experience), Validation (acknowledging the client's struggles with asking for help), Reframing (highlighting the benefits of having a support system)
+
+=== THE TRANSCRIPT ===
+User: I understand that, but it's not that simple. My mother passed away from cancer when I was young, and I've always felt that I should be able to handle things on my own. This mindset has made it hard for me to accept help from others.
+Counselor: It's common for people to struggle with the idea of asking for help, especially when they've experienced loss or have a history of independence. However, it's essential to recognize that having a strong support system can significantly improve your quality of life during this challenging time.

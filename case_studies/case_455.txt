@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and decision-making in end-of-life care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (relationship not specified), likely middle-aged or older, caring for a parent with a terminal illness.
+Clinical Goal: To support the caregiver in making an informed decision about continuing or discontinuing hospice care, while also addressing their emotional needs and concerns.
+Summary: I'm struggling to balance my desire to keep caring for my ailing mother with the reality that her condition is terminal, and I'm not sure what the best decision is for her or for me.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Hope, Frustration, Uncertainty
+Cognitive State: Catastrophizing (focusing on potential negative outcomes), Optimism (hope for improvement)
+Underlying Need: Emotional safety and control in the face of uncertainty
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (summarizing vital signs and other medical information), Reframing (highlighting positive aspects of the patient's condition), Education (providing information about potential risks and challenges associated with discontinuing hospice care)
+
+=== THE TRANSCRIPT ===
+User: I've been taking care of my mother, who's been ill and on hospice. She's been going downstairs in her chair for hours at a time, then coming back upstairs and appearing to be doing well. I'm considering taking her off hospice.
+Counselor: Your mother's recent improvement in condition is a heartening development... Let's delve deeper into her current state to ensure we make an informed decision.
+
+Note: The counselor's approach focuses on providing information, education, and support for the caregiver's decision-making process. However, it may be beneficial to explore the caregiver's emotional needs and concerns more explicitly, as they are likely experiencing anticipatory grief and uncertainty about their mother's future care.

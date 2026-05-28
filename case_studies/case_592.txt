@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Suicidal ideation and intrusive thoughts management
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely a mental health professional)
+Clinical Goal: Develop a safety plan, explore underlying causes of suicidal ideation, and teach coping strategies to manage intrusive thoughts.
+Summary: A person experiencing intrusive thoughts about harming themselves is seeking help due to fear of acting on these thoughts and burdening loved ones.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Fear, Anxiety, Shame
+Cognitive State: Catastrophizing, Flooding (due to the overwhelming nature of intrusive thoughts)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the user's concerns and fears)
+- Validation (emphasizing that the user is not alone in experiencing these thoughts and that seeking help is a courageous step)
+- Reframing (highlighting that intrusive thoughts do not define one's worth or strength, but rather an opportunity for growth and healing)
+- Empathy (acknowledging the user's fear of burdening loved ones)
+
+=== THE TRANSCRIPT ===
+User: I've been having intrusive thoughts about harming myself, and I'm scared that I might act on them. I've tried to distract myself, but the thoughts keep coming back. I don't want to burden my loved ones with this, but I can't keep living in fear.
+Counselor: I'm glad that you've reached out for help, and I want to assure you that you're not alone in experiencing these thoughts...

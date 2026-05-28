@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Spiritual Disconnection in Palliative Care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (patient is likely a palliative care patient, but specific details about age, relationship, or context are not provided)
+Clinical Goal: To help the patient maintain a sense of spiritual connection and well-being despite the chaplain's reduced visits.
+Summary: A patient in palliative care feels disconnected from their spirituality since the chaplain's visits have become less frequent, seeking guidance on how to maintain a sense of community and comfort.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Disconnection, Sadness, Frustration
+Cognitive State: Catastrophizing (assuming that without the chaplain's presence, their spirituality is lost forever)
+Underlying Need: Emotional safety and control through spiritual connection
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the patient's feelings and experiences)
+- Validation (empathizing with the patient's attachment to the chaplain and the challenges of maintaining a spiritual practice without her presence)
+- Reframing (encouraging the patient to consider alternative resources and practices that can help maintain a sense of spiritual connection)
+- Problem-solving (suggesting specific actions, such as exploring support groups or practicing meditation, to address the patient's concerns)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling disconnected from my spirituality since the chaplain's visits have become less frequent. I've always found comfort in our conversations and the sense of community that her presence brought to my hospital room. I've tried to read spiritual texts and pray, but it just doesn't feel the same without her guidance. I've also considered attending support groups, but the long drive and the time commitment make it difficult for me to attend regularly.
+Counselor: [See counselor's response above]

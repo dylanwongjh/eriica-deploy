@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory Grief and Complicated Bereavement
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (assuming the user is an adult child)
+Clinical Goal: To help the client process their grief, reduce avoidance behaviors, and increase emotional acceptance.
+Summary: A young adult struggling with long-standing anxiety and depression since her father's sudden death at age 15, now seeking to cope with overwhelming sadness and fear.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Sadness, Fear, Anxiety
+Cognitive State: Catastrophizing, Flooding (avoidance behaviors)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (normalizing the client's experience), Empathy (acknowledging the pain of loss)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with feelings of anxiety and depression for years now. It all started when my father passed away suddenly when I was just 15. I've tried to cope by avoiding difficult emotions and situations, but it feels like I'm drowning in a sea of sadness and fear.
+Counselor: I'm deeply sorry for the loss you've experienced and the pain it's caused you...

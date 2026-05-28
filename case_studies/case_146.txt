@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and anxiety management in the context of loss
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (assuming the user is an adult child or family member)
+Clinical Goal: To help the user manage their anxiety, reduce avoidance behaviors, and explore alternative therapeutic methods to cope with anticipatory grief.
+Summary: "I'm struggling to cope with the loss of my mom, and my anxiety is getting worse - I feel overwhelmed by panic attacks and avoid social situations, leaving me feeling isolated and helpless."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Guilt, Sadness
+Cognitive State: Catastrophizing, Flooding (due to overwhelming thoughts)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-focused coping, Education, Supportive counseling
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with anxiety for years, but it's been especially bad since my mom passed away last year. I've tried therapy and medication, but nothing seems to help. I've started to avoid social situations and even simple errands because I'm so afraid of having a panic attack. I've been feeling isolated and helpless, like I'm drowning in my own thoughts.
+Counselor: [Long response providing empathy, understanding, and suggestions for alternative therapeutic methods]
+...

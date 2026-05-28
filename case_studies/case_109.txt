@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and financial stress in the context of caregiving (specifically, dealing with loss and mortgage payments)
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (inferred from the user's relationship to their mother)
+Clinical Goal: To help the client manage anticipatory grief, reduce anxiety related to financial uncertainty, and develop a plan to navigate complex situations
+Summary: I'm struggling to cope with the weight of my mother's passing while also dealing with the overwhelming stress of keeping up with her mortgage payments, which feels like it's slipping away from me.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Helpless, Terrorized
+Cognitive State: Catastrophizing (focusing on worst-case scenarios)
+Underlying Need: Emotional safety and control in the face of uncertainty
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (acknowledging the client's emotions and experiences), Empowerment (encouraging self-care and seeking resources)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to keep up with my mortgage payments since my mother passed away. The weight of her loss, coupled with the financial burden, has left me feeling overwhelmed and helpless. I'm waiting to hear back from the mortgage company about what I need to do next, and I'm also waiting for decisions from the VA and Social Security regarding my disability claim. I have six months to sell the house, refinance it, or start paying on the loan, but I'm unsure about what will happen to the mortgage during this time. The thought of losing my home, the only place where I've ever felt truly at peace, is terrifying.
+Counselor: Your loss and the financial burden you're facing are indeed a challenging combination... (rest of the transcript)

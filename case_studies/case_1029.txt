@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) of a deceased parent, likely in their 40s or 50s based on the context.
+Clinical Goal: To help the client manage anticipatory grief, reduce feelings of responsibility and burden, and improve emotional regulation.
+Summary: A grieving adult child is overwhelmed by the weight of caring for her mother during her illness and now struggles to cope with her absence, feeling responsible for making things right.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness, Responsibility
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the client's burden), Validation (recognizing the complexity of the situation), Reframing (helping the client see their perception as a contributor to their emotions), Education (explaining cognitive-behavioral principles), Suggestion (encouraging gratitude and mindfulness practices).
+
+=== THE TRANSCRIPT ===
+User: I've been carrying a heavy burden on my shoulders for years. It feels like everything is on me, and I can't escape the feeling that I'm the only one who can make things right. I've been struggling to focus on anything else, especially since my mother passed away.
+Counselor: I understand how much weight you've been carrying... The first healthy thinking rule suggests that a situation doesn't make you feel a certain way; it's how you perceive it and react to it...
+Counselor (continued): You've been carrying a heavy burden of responsibility for a long time. It's not uncommon for people to take on more than they should, especially when they've been in caregiving roles... One way to help you focus on the positive aspects of the situation is to practice gratitude... Another helpful technique is mindfulness meditation...
+Counselor (final encouragement): I encourage you to try these techniques and see how they help you feel more balanced and less burdened by the weight of the situation.

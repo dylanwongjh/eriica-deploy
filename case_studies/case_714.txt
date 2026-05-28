@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Living with a chronic illness (ALS) and feelings of burden on family members
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified, but likely an adult in their 40s or older given the context of ALS diagnosis
+Clinical Goal: To help the client manage feelings of guilt, loss of control, and burden on family members, while maintaining a sense of independence and autonomy.
+Summary: A person with rapidly progressing ALS feels overwhelmed by dependence on family for basic tasks, experiencing guilt and loss of control, and seeks to find ways to contribute and maintain some level of independence.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness, Frustration
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the client's feelings), Validation (recognizing the natural response to a chronic illness), Reframing (highlighting the positive aspects of family support), Empathy (expressing understanding of the client's situation).
+
+=== THE TRANSCRIPT ===
+User: I've been feeling like a burden to my family ever since I was diagnosed with ALS. The disease has progressed rapidly, and I'm now dependent on them for even the most basic tasks. I can't help but feel like I'm taking away their time, energy, and resources.
+Counselor: I can see how you might feel that way, given the significant changes in your life. It's natural to experience feelings of guilt and loss of control when faced with a chronic illness. However, it's essential to remember that your family chose to be there for you, and their support is a testament to the depth of your relationships. We can explore ways to help you communicate your feelings with them, and perhaps find ways to contribute to the household or your care in a meaningful way. Additionally, we can discuss strategies for managing your emotions and finding ways to maintain a sense of independence and autonomy despite your physical limitations.

@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief in Alzheimer's caregiving
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for a parent with Alzheimer's disease
+Clinical Goal: To reduce caregiver burden, promote self-care, and enhance coping strategies for managing emotional distress related to caregiving responsibilities.
+Summary: A devoted adult child is struggling to balance work, family life, and caregiving duties while witnessing her mother's gradual decline due to Alzheimer's disease, leading to overwhelming feelings of guilt, sadness, and helplessness.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness, Helplessness
+Cognitive State: Catastrophizing (fear of making mistakes), Flooding (overwhelmed by caregiving responsibilities)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy: The counselor acknowledges the caregiver's emotional experience and validates her feelings.
+- Education: The counselor provides information about common caregiver emotions, resources available for support, and strategies for managing stress.
+- Problem-solving: The counselor offers practical suggestions for prioritizing self-care, establishing a routine, and seeking help when needed.
+- Normalization: The counselor helps the caregiver understand that her experiences are common among caregivers and that it's okay to ask for help.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with feelings of guilt and sadness ever since my mother was diagnosed with Alzheimer's two years ago. The sight of her forgetting simple things, losing her independence, and becoming increasingly reliant on me has left me feeling helpless and overwhelmed.
+Counselor: I understand that caring for a loved one with Alzheimer's can be an emotionally taxing experience... (rest of the transcript)

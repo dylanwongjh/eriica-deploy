@@ -1,0 +1,27 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiving challenges
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (relationship inferred from context)
+Clinical Goal: To help the caregiver navigate anticipatory grief, address challenges with the mother's resistance to increased care, and prioritize self-care.
+Summary: I'm struggling to cope with my mom's dementia diagnosis and impending loss, feeling overwhelmed by sadness, frustration, and a sense of powerlessness as I watch her decline.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Sadness, Frustration, Anger
+Cognitive State: Catastrophizing (inferred from concerns about loss of control and impact on daily life)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-focused coping, Self-efficacy enhancement, Emotional regulation support.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to come to terms with my grandmother's passing. The sadness and emptiness I feel is all-consuming, and I'm having a hard time focusing on anything else. I've tried to distract myself with work and other activities, but nothing seems to help. I feel stuck and unable to move forward.
+Counselor: [Response 1]
+User: First, let's acknowledge the grief you're experiencing. Losing a loved one to dementia is a unique kind of loss, as you're watching them change before your eyes. It's normal to feel a sense of sadness, frustration, and even anger as you witness the decline in your mother's abilities. Anticipatory grief, the feeling of grief before the loss actually occurs, can be particularly intense in situations like this.
+Counselor: [Response 2]
+User: One approach that might be helpful is to focus on maintaining her sense of control and independence as much as possible. This could involve involving her in decision-making processes, allowing her to make choices about her care, and creating a routine that is familiar and comforting to her.
+Counselor: [Response 3]
+User: Additionally, it may be helpful to explore the reasons behind her resistance to increased care. Is she feeling a loss of control? Is she worried about the cost or the impact on her privacy? Understanding her perspective can help you approach the situation more effectively and compassionately.
+Counselor: [Response 4]
+User: Lastly, it's essential to take care of yourself during this process. Caring for a loved one with dementia can be emotionally and physically taxing, and it's crucial to prioritize your own well-being. This might involve seeking out support from friends, family, or support groups, practicing self-care activities, or seeking professional help if needed.
+Counselor: [Response 5]

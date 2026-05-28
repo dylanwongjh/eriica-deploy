@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Sleep Disturbance and Insomnia
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely an adult individual)
+Clinical Goal: Identify the root causes of sleep disturbance, develop a personalized plan to improve sleep patterns, and enhance overall well-being.
+Summary: A person is struggling with persistent sleep disturbances, including difficulty falling asleep and staying asleep, leading to exhaustion and impaired daily functioning. They are seeking help to regain control over their sleep patterns.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Exhaustion, Anxiety
+Cognitive State: Catastrophizing (implied by the user's mention of "far-reaching consequences" of sleep disturbance)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathic acknowledgment (e.g., "I can see how frustrating and debilitating this sleep disturbance has become for you.")
+- Validation (acknowledging the importance of sleep and its impact on overall health)
+- Education (explaining the role of environment, daily habits, and underlying causes in sleep disturbances)
+- Problem-focused approach (identifying potential contributors to sleep issues and developing a personalized plan)
+- Establishing a therapeutic relationship (creating a safe, empathetic, and non-judgmental space)
+
+=== THE TRANSCRIPT ===
+User: I've been having trouble sleeping for months now. Some nights, I can barely close my eyes, and other nights, I wake up in the middle of the night and can't fall back asleep. This is leaving me feeling exhausted and unable to focus during the day. I've tried various things, like reading before bed or taking warm baths, but nothing seems to help.
+Counselor: [See above]

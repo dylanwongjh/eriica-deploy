@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for a terminally ill parent
+Clinical Goal: To help the caregiver manage anticipatory grief, reduce feelings of guilt and sadness, and develop coping strategies to maintain their own well-being.
+Summary: A daughter struggling with overwhelming emotions since her father's terminal diagnosis is seeking support to navigate caregiving responsibilities while managing her own emotional toll.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness, Overwhelm
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-solving (exploring coping strategies), Education (providing information on evidence-based practices)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with feelings of guilt and sadness since my father's passing. I can't seem to shake these emotions, and they're affecting my work and relationships. I feel like I'm stuck in a dark cloud, and I don't know how to move forward.
+Counselor: [Insert Counselor Text]

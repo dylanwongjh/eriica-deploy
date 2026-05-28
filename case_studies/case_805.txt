@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief in Alzheimer's disease
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caregiver (age not specified) for a parent with Alzheimer's disease
+Clinical Goal: To reduce the caregiver's emotional distress, promote self-care, and improve their ability to manage their loved one's behavior changes.
+Summary: A devoted adult child is struggling to cope with her mother's rapidly progressing Alzheimer's disease, feeling overwhelmed by guilt, frustration, and worry about negatively impacting her mom's remaining days.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Frustration, Worry
+Cognitive State: Catastrophizing (worried that her frustration might harm her mom), Flooding (overwhelmed by the situation)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (explaining the disease's impact on behavior), Empathy building (acknowledging the caregiver's efforts and emotions), Education (providing information about Alzheimer's and caregiving strategies).
+
+=== THE TRANSCRIPT ===
+User: I've been caring for my mom who's been diagnosed with Alzheimer's for the past five years. Lately, her memory loss has been progressing rapidly, and she's become increasingly demanding and difficult to manage. I've been trying to be patient and understanding, but it's taking a toll on me emotionally and physically. I feel guilty for losing my temper sometimes, and I worry that my frustration might negatively impact her remaining days.
+Counselor: Your situation is indeed complex, and it's essential to acknowledge the immense effort and dedication you've shown in caring for your mom... (rest of the transcript)

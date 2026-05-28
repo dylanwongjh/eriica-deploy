@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief in a hospice setting
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver (inferred from the use of "my two young daughters" and "my wife") with caregiving responsibilities for both her wife and children.
+Clinical Goal: To explore the patient's concerns about relocating to a different Hospice facility, address potential challenges, and provide guidance on managing caregiving responsibilities while maintaining emotional well-being.
+Summary: As a single mother caring for my wife who's terminally ill and our two young daughters, I'm torn between finding a new hospice facility that can better support us all while worrying about leaving my kids behind.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Overwhelmed, Guilt, Sadness
+Cognitive State: Catastrophizing (e.g., "the thought of leaving my two young daughters behind... has been overwhelming")
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Empathy, Education (providing information about family-centered care programs)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with the decision to move to a different Hospice facility... The thought of leaving my two young daughters behind and managing their schedules while attending sessions at the new facility has been overwhelming.
+Counselor: Your concerns are valid and understandable...
+[The counselor's response is extensive, but key points include validation of the patient's emotions, exploration of potential benefits and challenges, and suggestions for alternative care arrangements.]

@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Managing Caregiver Burnout in Hospital Settings
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult caregiver (relationship not specified), likely a family member of a patient in the hospital
+Clinical Goal: To help the caregiver manage their emotional and physical burden while maintaining relationships with loved ones
+Summary: A hospital visitor is overwhelmed by her family's unplanned visits, feeling burdened by hosting duties, but trying to see their love behind these actions.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Frustration, Overwhelmed
+Cognitive State: Catastrophizing (assuming worst-case scenarios), Flooding (feeling overwhelmed)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Validation (acknowledging the caregiver's insight as commendable)
+- Empathy (understanding the emotional toll of hospital visits)
+- Problem-solving (suggesting strategies to manage boundaries and delegate tasks)
+
+=== THE TRANSCRIPT ===
+User: Lately, I've been grappling with the visits from my family members to the hospital. Their unplanned arrivals disrupt my routine and leave me feeling burdened, as I'm often forced to play the role of the hostess. But I've been making an effort to see their visits in a different light. I've come to understand that their visits are a manifestation of their love and concern for me. However, this new perspective doesn't negate the fact that their visits can be emotionally and physically draining.
+Counselor: Your insight into the underlying intentions behind your family's visits is commendable. However, it's essential to remember that your well-being is a priority. Communicating your boundaries and expressing your need for consideration when they visit can help you maintain a balance between caring for your loved ones and caring for yourself. It's also crucial to acknowledge the emotional and physical toll their visits can take on you. Consider implementing strategies such as setting clear expectations, delegating tasks, or even seeking help from hospital staff to manage the visits more effectively.

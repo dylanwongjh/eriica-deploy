@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief, Caregiver burnout, Family conflict during end-of-life care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified), primary caregiver for mother with terminal illness
+Clinical Goal: Support the patient in managing family conflicts, practicing self-care, and navigating the grieving process while caring for their mother
+Summary: As I care for my terminally ill mother, I'm feeling overwhelmed by my sister's constant criticism and interference, making it hard to focus on supporting Mom during her final days.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Sadness, Guilt, Shock
+Cognitive State: Catastrophizing (e.g., "I couldn't have done anything to prevent my mom's death")
+Underlying Need: Emotional safety and control in a chaotic family situation
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation of feelings, Empathy, Reframing (e.g., "Your sister's behavior may be driven by her concern for your mom"), Problem-solving (e.g., involving a family mediator or therapist), Self-compassion and self-care encouragement
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to care for my mom during her final days due to my older sister's interference and judgment. My husband has been supportive, but my brother-in-law is now distant due to my sister's actions... (full user text provided above)
+Counselor: ...I can only imagine how difficult and emotional this situation must be for you... (full counselor response provided above)

@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout prevention and self-care strategies
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caregiver (relationship not specified), likely middle-aged or older, caring for a parent.
+Clinical Goal: To help the caregiver recognize the emotional toll of caregiving, acknowledge their achievements, and prioritize self-care to prevent burnout.
+Summary: A family member is overwhelmed by the responsibilities of caregiving, feeling focused on the future and neglecting personal accomplishments, seeking guidance on how to balance care with self-preservation.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Relief, Guilt, Frustration
+Cognitive State: Catastrophizing, Overwhelm
+Underlying Need: Emotional validation and support
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (counselor acknowledges the user's perspective), Validation (counselor recognizes the user's feelings of relief and guilt), Reframing (counselor shifts focus from future-oriented thinking to acknowledging accomplishments).
+
+=== THE TRANSCRIPT ===
+User: I've never thought of it that way, but it makes a lot of sense. I've been so focused on the future and what's next that I've forgotten to celebrate my achievements.
+Counselor: It's essential to remember that caregiving is a complex and challenging experience...

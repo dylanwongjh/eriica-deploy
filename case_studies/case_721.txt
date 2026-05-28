@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout, Decision-making style, Shared decision-making
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult son in a caregiving role for his aging father; likely married with responsibilities towards his wife as well.
+Clinical Goal: To help the caregiver recognize the signs of burnout and develop strategies to balance his decision-making style with self-care, while also exploring shared decision-making approaches for his father's medical care.
+Summary: A devoted son is overwhelmed by the emotional burden of making all decisions regarding his aging father's medical care, neglecting his own well-being in the process. He seeks guidance on finding a balance between caring for others and prioritizing his own needs.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Overwhelm, Frustration
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (acknowledging the value of his decision-making style while also highlighting its potential limitations), Problem-solving (exploring shared decision-making as a solution to reduce emotional burden).
+
+=== THE TRANSCRIPT ===
+User: I've been juggling my responsibilities towards my aging father and my wife, and I've been relying on my ability to manage stress by considering everyone's opinions before making decisions. However, I've been questioning my decision-making style lately.
+Counselor: Your dedication to your loved ones is commendable, but it's essential to recognize that taking on too much responsibility can lead to burnout and stress...
+... (rest of the transcript)

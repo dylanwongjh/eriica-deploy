@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and stress management
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for aging mother
+Clinical Goal: To help the caregiver manage their anxiety, stress, and caregiving responsibilities through self-care strategies.
+Summary: A daughter is feeling overwhelmed by her caregiving duties and personal tasks, struggling to keep up with demands and seeking support to prioritize her own well-being.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Stress, Guilt (implied)
+Cognitive State: Catastrophizing (feeling constantly behind), Flooding (overwhelmed by caregiving responsibilities)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (acknowledging the challenge of caregiving and normalizing feelings of anxiety and stress)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling increasingly anxious and stressed lately, especially when it comes to managing my caregiving responsibilities for my aging mother and keeping up with my own personal tasks. I feel like I'm constantly behind and can't seem to catch up.
+Counselor: I can see how challenging it must be for you to juggle your caregiving responsibilities for your mother and your personal tasks...

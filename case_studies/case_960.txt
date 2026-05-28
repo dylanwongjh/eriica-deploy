@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Ethical Dilemmas in Friendship
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (friendship context)
+Clinical Goal: To help the client navigate a complex moral dilemma and find a solution that aligns with their personal values while considering the potential consequences for all parties involved.
+Summary: A person is struggling to balance their loyalty to a friend who has asked them to engage in an unethical behavior, causing feelings of conflict and uncertainty about how to proceed.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Conflict, Uncertainty, Guilt
+Cognitive State: Catastrophizing (anticipating the worst-case scenario), Flooding (feeling overwhelmed by the situation)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Exploration of options, Setting boundaries, Problem-solving, Empowerment (encouraging the client to take ownership of their decision-making process)
+
+=== THE TRANSCRIPT ===
+User: I've been dealing with a moral dilemma concerning a close friend. They've confided in me about their deep-rooted addiction to a substance that's been wreaking havoc on their life. They've asked me to help them acquire it, knowing it's illegal and dangerous. I've tried to dissuade them, but they've become increasingly desperate and manipulative. I've always prided myself on my ethical standards, and this situation has left me feeling conflicted and uncertain.
+Counselor: I understand the gravity of your situation... (rest of the transcript)

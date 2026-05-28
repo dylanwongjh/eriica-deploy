@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caring for aging parents (relationship not specified)
+Clinical Goal: To help the patient recognize the importance of self-care, delegate tasks, and accept help from others to alleviate caregiver burnout.
+Summary: A devoted adult child is overwhelmed by feelings of responsibility towards their aging parents, struggling with guilt and helplessness as they see others receive support that they believe they should be providing.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Helplessness, Sadness
+Cognitive State: Catastrophizing (assuming they are the only ones who can provide care)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the patient's feelings and dedication to their family)
+- Validation (recognizing the patient's sense of responsibility as natural)
+- Reframing (emphasizing the importance of self-care in maintaining support for others)
+- Empathy (acknowledging the patient's emotional state and offering practical advice)
+
+=== THE TRANSCRIPT ===
+User: I've always felt a deep sense of responsibility towards my family, especially my aging parents. I've taken on the role of caretaker, and it's left me feeling drained and helpless when I see others receiving help that I believe I should be providing.
+Counselor: Your dedication to your family is commendable, and it's natural to feel a strong sense of responsibility towards those we love. However, it's crucial to remember that self-care is just as important as caring for others. In fact, by taking care of ourselves, we're better equipped to provide support to those around us.

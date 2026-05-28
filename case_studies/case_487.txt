@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout, Anticipatory grief, Guilt in hospice care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver (inferred from context)
+Clinical Goal: Explore and address feelings of guilt, develop strategies for self-care and effective tool implementation in hospice care
+Summary: "I've been caring for my terminally ill mother at home, feeling guilty about not being able to do more to save her, and now I'm struggling to connect with anything or anyone after she passed away."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Numbness, Helplessness
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-solving, Solution-focused approach
+
+=== THE TRANSCRIPT ===
+User: I've been feeling numb for months, and I can't seem to connect with anything or anyone. I've tried reaching out to friends and family, but they don't seem to understand what I'm going through. I feel like I'm just going through the motions, and I don't know how to break free from this emotional freeze.
+Counselor: I'm here to listen and support you, and I can see how deeply you're struggling right now... (rest of the transcript is about addressing guilt in hospice care)
+
+Note that there are two distinct conversations in the provided transcript. The first part appears to be a standard counseling session where the counselor is trying to help the client address their feelings of numbness and emotional disconnection. The second part seems to be an unrelated conversation or perhaps a separate case study, as it focuses on guilt in hospice care and involves a different topic altogether. To maintain consistency with the requested format, I have only analyzed the first part of the transcript.

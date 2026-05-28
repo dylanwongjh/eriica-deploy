@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and loss of personal fulfillment
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caring for a parent (age not specified)
+Clinical Goal: To help the caregiver find ways to incorporate activities that bring them joy and fulfillment into their busy caregiving schedule.
+Summary: A person overwhelmed by caregiving responsibilities is struggling to make time for personal interests, such as stargazing and nature photography, which they feel are essential to their emotional wellbeing.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Sadness, Frustration, Guilt
+Cognitive State: Catastrophizing (assuming the situation will continue indefinitely), Flooding (feeling overwhelmed by responsibilities)
+Underlying Need: Emotional safety and control through self-care activities
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Validation: The counselor acknowledges the importance of nature to the caregiver's emotional wellbeing.
+- Reframing: The counselor suggests adapting a familiar technique (brainstorming) to address the caregiver's specific needs.
+- Problem-solving: The counselor offers potential solutions, such as seeking help with caregiving tasks or exploring alternative arrangements.
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed with my responsibilities and the loss of my connection to nature. I used to find joy in stargazing and taking pictures of sunsets, but now I'm consumed by caring for my mother. I've tried to focus on smaller projects, working out, and budgeting my time better, but I can't seem to make time for the things that bring me happiness.
+Counselor: Your longing for nature and the joy it brings you is a valid and important aspect of your emotional wellbeing...

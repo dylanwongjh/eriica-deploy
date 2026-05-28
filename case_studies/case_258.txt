@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and bereavement processing
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (inferred from context)
+Clinical Goal: Assist the client in developing a more balanced and nuanced understanding of their relationship with their mother, promoting emotional healing and self-compassion.
+Summary: I'm struggling to find happiness again after losing my mother, and every memory of her seems bittersweet or painful.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Sadness, Guilt, Frustration
+Cognitive State: Catastrophizing (e.g., "nothing can truly lift my spirits")
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Normalization, Problem-focused coping suggestions.
+
+=== THE TRANSCRIPT ===
+User: Yes, that's right. I've been trying to follow the manual's suggestions, but I've been feeling stuck. I've been trying to focus on the memories of my mother, but they all seem to be tinged with sadness. I've been trying to engage in activities that bring me joy, but it feels like nothing can truly lift my spirits.
+Counselor: It's important to remember that grief is a complex and multifaceted emotion... (continues)

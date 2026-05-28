@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="ERIICA — AI-powered clinical training chatbot for practising end-of-life conversations.">
+    <title>ERIICA — Clinical Training Chatbot</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <!-- Google Fonts: display (Cormorant Garamond) + body (Jost) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+    <!-- Font Awesome icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body class="welcome-active">
+
+    <!-- =====================================================
+         Welcome / Splash Screen
+         Fades out after 4 s (or on click). Removed by JS.
+    ====================================================== -->
+    <div class="welcome-screen" id="welcomeScreen">
+        <div class="logo-container">
+            <!-- BUG FIX: was src="static/…" (relative, breaks in sub-routes).
+                 Changed to Flask's url_for so the path is always correct. -->
+            <img src="{{ url_for('static', filename='projecteriica.png') }}"
+                 alt="ERIICA logo"
+                 class="welcome-logo">
+        </div>
+
+        <div class="welcome-text">
+            <h1>ERIICA</h1>
+            <p>Empathy &amp; Reassurance in Illness Conversation Assistant</p>
+        </div>
+
+        <div class="loading-dots" aria-hidden="true">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+    </div>
+
+
+    <!-- =====================================================
+         Main App Container
+    ====================================================== -->
+    <div class="container" id="mainContainer">
+
+        <header>
+            <h1>ERIICA</h1>
+            <p>Empathy &amp; Reassurance in Illness Conversation Assistant</p>
+        </header>
+
+        <!-- Patient Profile Bar (hidden until a session starts) -->
+        <!-- BUG FIX: corrected broken nesting — profileContent's closing tag
+             was in the wrong place, leaving profile-sim-note outside profileCard. -->
+        <div id="patientProfileBar" style="display: none;">
+            <div class="profile-toggle-bar" id="profileToggleBar">
+                <span><i class="fas fa-user-circle"></i> Patient Profile</span>
+                <i class="fas fa-chevron-down" id="profileChevron"></i>
+            </div>
+            <div class="profile-card" id="profileCard" style="display: none;">
+                <div id="profileContent">
+                    <div class="profile-loading">Loading profile…</div>
+                </div>
+                <div class="profile-sim-note">
+                    Drawn from reference case — use to guide your approach, not as a script.
+                </div>
+            </div>
+        </div>
+
+        <!-- -----------------------------------------------
+             Scenario Selection Screen
+        ------------------------------------------------ -->
+        <div id="scenarioScreen" class="scenario-panel">
+            <h3>What conversation are we preparing for?</h3>
+            <p>Choose a scenario or describe your own situation.</p>
+
+            <div class="scenario-filter-row" id="scenarioFilterRow">
+                <button class="sc-filter active" data-filter="all">All</button>
+                <button class="sc-filter" data-filter="beginner">Beginner</button>
+                <button class="sc-filter" data-filter="intermediate">Intermediate</button>
+                <button class="sc-filter" data-filter="advanced">Advanced</button>
+                <button id="refreshScenarios" title="Load new scenarios" aria-label="Refresh scenarios">
+                    <i class="fas fa-rotate-right"></i>
+                </button>
+            </div>
+
+            <div class="scenario-card-grid" id="scenarioCardGrid"></div>
+
+            <div class="sc-divider"><span>or describe your own</span></div>
+
+            <textarea id="scenarioInput"
+                      placeholder="e.g. Discussing palliative care with a family…"
+                      aria-label="Describe your scenario"></textarea>
+            <p id="scenarioError" class="scenario-error" role="alert" aria-live="polite"></p>
+            <button id="beginChat">Start with ERIICA</button>
+        </div>
+
+        <!-- -----------------------------------------------
+             Chat Interface (hidden until scenario submitted)
+        ------------------------------------------------ -->
+        <div id="chatInterface" style="display: none;">
+
+            <div class="chat-container">
+                <div class="chat-messages" id="chatMessages" aria-live="polite" aria-label="Chat messages"></div>
+            </div>
+
+            <div class="input-area">
+                <div class="typing-indicator" id="typingIndicator" aria-hidden="true">
+                    <span></span><span></span><span></span>
+                </div>
+                <textarea id="userInput"
+                          placeholder="Type your message here…"
+                          aria-label="Your message"></textarea>
+                <button id="sendButton">
+                    <i class="fas fa-paper-plane"></i> Send
+                </button>
+            </div>
+
+            <!-- Framework reference panel (toggled by Show Frameworks button) -->
+            <div class="resources-panel" id="frameworkPanel" style="display: none;">
+                <div class="framework-tabs">
+                    <button class="fw-tab active" data-fw="spikes">SPIKES</button>
+                    <button class="fw-tab" data-fw="nurse">NURSE</button>
+                </div>
+                <div class="framework-content" id="frameworkContent"></div>
+            </div>
+
+            <div class="resources-toggle-bar">
+                <button id="resourcesButton">
+                    <i class="fas fa-book-open"></i> Show Frameworks
+                </button>
+                <button id="endSessionButton">
+                    <i class="fas fa-flag-checkered"></i> End Session
+                </button>
+            </div>
+
+        </div><!-- /#chatInterface -->
+
+    </div><!-- /.container -->
+
+
+    <!-- =====================================================
+         Debrief Modal (rendered outside .container so it
+         overlays the full viewport via position: fixed)
+    ====================================================== -->
+    <div id="debriefOverlay" class="debrief-overlay" style="display: none;" role="dialog" aria-modal="true" aria-labelledby="debriefTitle">
+        <div class="debrief-modal">
+
+            <div class="debrief-header">
+                <h2 id="debriefTitle">Session Debrief</h2>
+                <p id="debriefScenarioLabel"></p>
+            </div>
+
+            <!-- Loading state -->
+            <div id="debriefLoading" class="debrief-loading" aria-live="polite">
+                <div class="debrief-dots" aria-hidden="true">
+                    <div class="dot"></div>
+                    <div class="dot"></div>
+                    <div class="dot"></div>
+                </div>
+                <p>Analysing your conversation…</p>
+            </div>
+
+            <!-- Results -->
+            <div id="debriefResults" style="display: none;">
+                <div class="debrief-summary-box">
+                    <p id="debriefSummary"></p>
+                </div>
+
+                <h3 class="debrief-section-title">Performance Dimensions</h3>
+                <div id="debriefDimensions" class="debrief-dimensions"></div>
+
+                <h3 class="debrief-section-title">Framework Checklist</h3>
+                <div class="framework-tabs debrief-fw-tabs">
+                    <button class="fw-tab active" data-debrief-fw="SPIKES">SPIKES</button>
+                    <button class="fw-tab" data-debrief-fw="NURSE">NURSE</button>
+                </div>
+                <div id="debriefChecklist" class="debrief-checklist"></div>
+            </div>
+
+            <!-- Error state -->
+            <div id="debriefError" class="debrief-error" style="display: none;" role="alert">
+                <p>Something went wrong generating the debrief. Please try again.</p>
+            </div>
+
+            <div class="debrief-actions">
+                <button id="debriefContinueSession">
+                    <i class="fas fa-comment-dots"></i> Continue Session
+                </button>
+                <button id="debriefNewSession">
+                    <i class="fas fa-redo"></i> Start New Session
+                </button>
+            </div>
+
+        </div>
+    </div><!-- /#debriefOverlay -->
+
+
+    <!-- =====================================================
+         Welcome Animation Script
+         Kept inline (runs before script.js) so the splash
+         screen transitions correctly on first paint.
+
+         BUG FIX: overflow is now managed via the
+         body.welcome-active CSS class (added in style.css)
+         rather than toggling body.style.overflow directly.
+         This is safer if JS errors occur mid-animation.
+    ====================================================== -->
+    <script>
+        (function () {
+            var welcomeScreen  = document.getElementById('welcomeScreen');
+            var mainContainer  = document.getElementById('mainContainer');
+
+            function dismissWelcome() {
+                welcomeScreen.classList.add('fade-out');
+                document.body.classList.remove('welcome-active');
+                mainContainer.classList.add('show');
+            }
+
+            // Auto-dismiss after 4 s
+            setTimeout(function () {
+                dismissWelcome();
+                // Ensure correct panel visibility after transition
+                setTimeout(function () {
+                    document.getElementById('chatInterface').style.display = 'none';
+                    document.getElementById('scenarioScreen').style.display = 'flex';
+                }, 500);
+            }, 4000);
+
+            // Click anywhere on splash to skip
+            welcomeScreen.addEventListener('click', dismissWelcome);
+        }());
+    </script>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout, Anticipatory grief, and Decision-making in palliative care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Middle-aged male caregiver for his wife, likely with a long-term caregiving history (inferred from the context)
+Clinical Goal: To support the caregiver in making an informed decision about bringing in additional caregivers to meet his wife's needs, while addressing his feelings of guilt and burnout
+Summary: I'm struggling to balance my work and caregiving responsibilities, and I'm torn about whether to bring in extra help for my wife, who needs more support than ever.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Overwhelm, Concern
+Cognitive State: Catastrophizing (e.g., "I've failed her if I can't meet all of her needs myself")
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Education, Empowerment
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed lately, trying to balance my work responsibilities with my wife's care. I've been thinking about finding additional caregivers for her, but I'm not sure if it's the right decision... (omitted for brevity)
+Counselor: It's understandable that you're feeling overwhelmed and concerned about your wife's care... (omitted for brevity)

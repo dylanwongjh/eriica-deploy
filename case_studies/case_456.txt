@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and end-of-life care decision-making
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (relationship not specified), likely middle-aged or older, caring for a parent with a terminal illness
+Clinical Goal: To support the caregiver in making an informed decision about discontinuing hospice care and to ensure that the patient's wishes are respected
+Summary: I'm caring for my ailing mother who's been on hospice care, but lately she's shown some unexpected improvements in energy and mobility, leaving me wondering if it's time to reconsider her treatment plan.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Hope, Frustration, Anxiety
+Cognitive State: Catastrophizing (about potential risks of taking her off hospice), Flooding (with emotions related to caregiving)
+Underlying Need: Emotional safety and control in the face of uncertainty and loss
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (by highlighting positive aspects of the patient's condition), Education (providing information about vital signs, appetite, hydration, mental state, daily activities, pain levels, and potential risks), Exploration (delving deeper into the caregiver's concerns and motivations)
+
+=== THE TRANSCRIPT ===
+User: I've been taking care of my mother, who's been ill and on hospice. She's been going downstairs in her chair for hours at a time, then coming back upstairs and appearing to be doing well. I'm considering taking her off hospice.
+Counselor: Your mother's recent improvement in condition is a heartening development... Let's delve deeper into her current state to ensure we make an informed decision.
+...
+(Counselor provides detailed information about the patient's vital signs, appetite, hydration, mental and emotional state, daily activities, pain levels, potential risks, and ethical implications of taking her off hospice)

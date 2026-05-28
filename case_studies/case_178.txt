@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Managing Caregiver Scheduling Inconsistency in Hospice Care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely a family caregiver or informal caregiver)
+Clinical Goal: To reduce the client's anxiety and helplessness related to inconsistent hospice caregiver scheduling, while promoting effective communication and self-advocacy.
+Summary: I'm a family member struggling to plan my day because I never know when or if the hospice caregivers will show up, leaving me feeling anxious and helpless about meeting my own needs.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Helplessness
+Cognitive State: Catastrophizing (anticipating negative outcomes), Flooding (feeling overwhelmed by uncertainty)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Empowerment through self-advocacy.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling with the inconsistency in the scheduling of the hospice caregivers, making it difficult for me to plan my day effectively. The uncertainty of when they'll arrive leaves me feeling anxious and helpless, as I'm unable to make plans or commitments beyond my immediate needs.
+Counselor: I can only imagine how frustrating and overwhelming it must be for you to deal with this inconsistency in your caregiver's scheduling. Your feelings of anxiety and helplessness are understandable given the circumstances. It's important to remember that communication is key in addressing this issue...

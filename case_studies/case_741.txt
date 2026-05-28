@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Overcoming emotional barriers to completing mental health assessments
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (assuming a client in a therapeutic relationship)
+Clinical Goal: To facilitate the completion of mental health surveys and assessments, promoting honest self-expression and tailoring therapy sessions to individual needs.
+Summary: A client is struggling with the emotional burden of completing mental health surveys, feeling like they're reliving painful memories each time they try to answer honestly.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Guilt, Sadness
+Cognitive State: Catastrophizing, Flooding (implied by the client's difficulty in confronting past experiences and emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy
+- Validation
+- Reframing (by highlighting the purpose of the surveys as a means to tailor therapy sessions to individual needs)
+- Problem-solving (offering alternatives for completing the surveys, such as step-by-step guidance or email completion)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to complete the mental health surveys you provided during our previous sessions. The questions about my past experiences and emotions are difficult to answer honestly. I feel like I'm reliving painful memories and emotions every time I try to fill them out.
+Counselor: I can empathize with how challenging it can be to confront past experiences and emotions, especially when they bring up painful memories...

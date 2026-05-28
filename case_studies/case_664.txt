@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Coping with Chronic Illness and Relationship Strains
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Married individual (husband) supporting a partner with a chronic illness; likely middle-aged or older given the context of past experiences and relationship dynamics.
+Clinical Goal: To address the emotional toll of the patient's chronic illness on both individuals, improve communication skills, and develop strategies to manage stress and anxiety in the relationship.
+Summary: A married individual is struggling to cope with their partner's anger and anxiety since receiving a diagnosis of a long-term illness, feeling overwhelmed by stress and unable to sleep, and seeking help to repair their relationship.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Fear, Sadness, Frustration
+Cognitive State: Catastrophizing (anticipating the worst-case scenario), Flooding (overwhelmed by emotions)
+Underlying Need: Emotional safety and control in the face of uncertainty
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the patient's emotional toll and past experiences)
+- Validation (recognizing the patient's feelings as normal and understandable)
+- Empathy (putting oneself in the patient's shoes to understand their emotions and struggles)
+- Reframing (highlighting the benefits of seeking professional help and couple's therapy)
+- Education (providing information about coping mechanisms, self-care, and effective communication skills)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to cope with my husband's anger and anxiety since we received the news that my illness might take a long time to recover. His anger and my inability to sleep due to stress have been causing significant distress in our relationship.
+Counselor: [See counselor's response above]

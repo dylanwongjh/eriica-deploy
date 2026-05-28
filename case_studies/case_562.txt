@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caregiver (age not specified), likely in their 40s or 50s, caring for a parent with declining health.
+Clinical Goal: To help the caregiver manage burnout, prioritize self-care, and explore resources to alleviate physical and emotional burdens.
+Summary: A devoted adult child is overwhelmed by the physical and emotional demands of caregiving, struggling to balance her own needs with those of her mother's, and seeking guidance on how to maintain her well-being without feeling guilty or neglectful.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Anxiety, Overwhelm
+Cognitive State: Catastrophizing (fear of leaving mother alone), Flooding (emotional exhaustion)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (acknowledging the caregiver's dedication while emphasizing self-care importance), Problem-solving (exploring strategies for managing pain, exhaustion, and caregiving responsibilities).
+
+=== THE TRANSCRIPT ===
+User: I've been taking care of my mother for quite some time now, and the physical demands of the job have been taking a toll on me. Despite the pain and exhaustion, I push through it to ensure she's well taken care of.
+Counselor: I can only imagine the immense pressure you're under, both emotionally and physically. Your dedication to your mother is commendable, but it's vital that you don't lose sight of your own well-being...
+... (rest of the transcript)

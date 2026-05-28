@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for a parent with cancer, including recent lung transplant and ICU readmission.
+Clinical Goal: To help the caregiver manage stress, maintain emotional well-being, and find support during this challenging time.
+Summary: A devoted adult child is overwhelmed by the caregiving responsibilities of her mother's complex medical situation, feeling the weight of responsibility and struggling to cope with the emotional toll on herself and her sister.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Anxiety, Sadness
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-focused coping (exploring strategies for managing stress), Solution-focused approach (emphasizing the availability of support resources).
+
+=== THE TRANSCRIPT ===
+User: I've been caring for my mom through her cancer treatment for the past 17 months... Recently, she's had a lung transplant, but she's not doing well and has been readmitted to the ICU.
+Counselor: Your dedication to caring for your mom throughout her cancer treatment is truly commendable... It's essential to remember that caring for a loved one during a critical illness is an intricate and demanding process. You've been carrying a heavy load for a long time, and it's crucial that you take care of yourself as well.
+Counselor: Given the current circumstances, it might be helpful to explore some strategies to manage your stress and maintain your emotional well-being... It may be beneficial to have open and honest conversations with your sister about how you're both feeling and how you can support each other during this difficult time.

@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Managing Caregiver Burden in End-of-Life Care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Spouse of a hospice patient (age not specified)
+Clinical Goal: To explore alternatives to medicating the wife and to manage caregiver burden while maintaining her dignity and comfort.
+Summary: As a devoted husband caring for his terminally ill wife, he's struggling with feelings of guilt and frustration as she resists his efforts to help with intimate care tasks.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Guilt, Frustration
+Cognitive State: Catastrophizing, Overwhelmed
+Underlying Need: Emotional safety and control in caregiving situation
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the patient's concerns), Empathy (understanding the emotional toll of the situation), Reframing (presenting a more comprehensive approach to managing care), Validation (emphasizing the importance of compassionate decision-making).
+
+=== THE TRANSCRIPT ===
+User: I've been finding it difficult to persuade my wife to let me change her in bed. The hospice suggested that if she continues to refuse, I might have to resort to medicating her to make it possible for me or the aides to help her.
+Counselor: I can only imagine how challenging it must be for you to contemplate the prospect of medicating your wife to change her in bed...

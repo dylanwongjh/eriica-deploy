@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burden and anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver (inferred), likely spouse or close family member, caring for her husband during his illness.
+Clinical Goal: To help the patient process her feelings of frustration, hurt, and abandonment related to her sister-in-law's lack of support, while also acknowledging the complexity of the situation and exploring ways to cope with caregiving responsibilities.
+Summary: A female caregiver is struggling to manage her emotions as she cares for her husband during his illness, feeling frustrated and abandoned by her sister-in-law's lack of support, and seeking help to navigate this challenging situation.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Hurt, Abandonment
+Cognitive State: Catastrophizing (assuming the worst about her sister-in-law's intentions), Flooding (overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-focused coping strategies (e.g., seeking additional support systems, practicing self-care)
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to help my sister-in-law through my husband's illness, but she wasn't interested in being there for him. I've given her every opportunity to visit and support us, but she couldn't bring herself to do it. I've felt frustrated and upset about this, especially since she had the means and the opportunity to help. Her lack of support has left me feeling alone and abandoned, adding to the emotional burden of caring for my husband during his illness.
+Counselor: ... (see above)

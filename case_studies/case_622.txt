@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Burnout and Emotional Strangulation
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) struggling with mother's disapproval and anxiety, impacting their life significantly.
+Clinical Goal: To help the patient establish independence, communicate effectively with their mother, prioritize self-care, and seek professional support to manage emotional challenges.
+Summary: A young adult is feeling trapped in their own home due to their mother's disapproval and anxiety, leading to feelings of guilt, isolation, and a loss of personal freedom.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Anxiety, Sadness
+Cognitive State: Catastrophizing (feeling like they're letting their mother down), Flooding (overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-focused coping strategies, Self-compassion, Empathy
+
+=== THE TRANSCRIPT ===
+User: I've been feeling trapped in my own home for months now. My mother's disapproval and anxiety make it impossible for me to go out and live my life. I've lost touch with my friends, and I feel like I'm missing out on so much. But every time I try to leave, I'm met with resistance and guilt. I can't help but feel like I'm letting her down, even though I know she's just acting out of love and concern.
+Counselor: Your feelings of being trapped and the guilt you experience when trying to leave the house are valid... It's essential to recognize that while her actions come from a place of love and concern, they are still limiting your ability to live your life as you see fit. I'd like to propose a few strategies to help you navigate this situation.
+Counselor: ...It's not uncommon for individuals to develop strong emotional connections to their work or hobbies... This emotional response is a natural part of the grieving process, and it's essential that we acknowledge and respect your feelings.
+Counselor: As a counselor, my role is to provide you with a safe and supportive environment to explore your feelings and develop strategies for coping with your emotions. I'm here to listen, validate your experiences, and offer guidance and support as you navigate this transition.

@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Financial concerns in mental health treatment
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely a healthcare professional or counselor)
+Clinical Goal: To address the patient's concerns about the cost of mental health treatment and explore alternative options that balance financial situation with mental health needs.
+Summary: A patient struggling with depression for years is worried about affording further hospital stays and seeks help to find more affordable mental health care.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Frustration, Hopelessness
+Cognitive State: Catastrophizing (assuming the worst-case scenario), Flooding (overwhelmed by financial concerns)
+Underlying Need: Emotional safety and control over financial situation
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Empowerment (offering choices and encouraging patient autonomy)
+
+=== THE TRANSCRIPT ===
+User: I've been in the hospital for five days now, and I'm not feeling much better. I'm worried that I won't be able to afford another round of treatment if I need it.
+Counselor: I understand your concerns about the cost of mental health treatment... 
+(Continues with exploring options, validating feelings, and reframing perspective)

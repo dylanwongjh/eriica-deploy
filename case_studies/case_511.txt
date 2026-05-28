@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Coping with Disappointment and Uncertainty
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult individual (age not specified), likely experiencing stress related to social plans and daily routine adjustments.
+Clinical Goal: Assist the patient in managing disappointment, anxiety, and uncertainty while promoting self-care practices and maintaining social connections.
+Summary: I'm struggling to adjust to cancelled plans with friends and feeling overwhelmed by disappointment and anxiety about how to fill my evenings now that my usual routine is disrupted.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Disappointment, Anxiety
+Cognitive State: Catastrophizing (anticipating negative outcomes), Flooding (overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Cognitive restructuring
+
+=== THE TRANSCRIPT ===
+User: I've been having trouble sleeping lately and I've been trying to readjust my schedule by going to bed earlier. The weather has been nice, so I've been taking long walks in the evenings and practicing deep breathing exercises to help me unwind. I was really looking forward to meeting up with some friends for dinner this weekend, but it seems like that might not happen due to scheduling conflicts. I'm feeling quite disappointed and anxious about it, as I've been looking forward to this for a while.
+Counselor: [Response provided in the analysis]

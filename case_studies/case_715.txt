@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and anxiety related to a life-altering diagnosis
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (assuming patient is an individual facing a serious health issue)
+Clinical Goal: Help the patient manage anxiety, develop coping strategies, and address fears about becoming a burden to family members
+Summary: A person struggling with a life-threatening condition is plagued by nightmares, impending doom feelings, and fear of being a burden to their loved ones.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Fear, Guilt
+Cognitive State: Catastrophizing, Flooding (with intrusive thoughts)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (acknowledging the patient's concerns as valid but not factual), Problem-focused coping strategies (offering specific techniques to manage anxiety)
+
+=== THE TRANSCRIPT ===
+User: I've been having trouble sleeping lately. I keep having nightmares about my future, and I can't seem to shake the feeling of impending doom. I'm afraid that I'll become a burden to my family, and that they'll regret their decision to support me.
+Counselor: It's common for individuals facing a life-altering diagnosis to experience anxiety and fear about the future. Your concerns about becoming a burden to your family are valid, but it's important to remember that these are emotions, not facts. We can work together to develop coping strategies for managing your anxiety, such as relaxation techniques, cognitive restructuring, and mindfulness practices. Additionally, we can explore ways to address your fears through open communication with your family, setting realistic expectations, and focusing on the present moment rather than dwelling on the future.

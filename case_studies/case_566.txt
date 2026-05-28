@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified) caring for widowed mother
+Clinical Goal: To help the caregiver manage their responsibilities, prioritize self-care, and maintain overall well-being while continuing to care for their mother.
+Summary: A devoted adult child is overwhelmed by the demands of caregiving, feeling guilty about neglecting their own needs, and struggling to balance their responsibilities with maintaining their own physical and emotional health.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Overwhelm, Sadness
+Cognitive State: Catastrophizing (assuming they are the only one who can care for their mother), Flooding (feeling overwhelmed by responsibilities)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (acknowledging the caregiver's feelings while also offering a new perspective), Education (explaining concepts such as self-care and setting boundaries), Empowerment (encouraging the caregiver to prioritize their own needs).
+
+=== THE TRANSCRIPT ===
+User: I've been taking care of my widowed mother in my house for over three years, dedicating an entire week to her care each week. We buy a lot of supplies to help her, especially since she has certain medical needs. I feel like I'm drowning in responsibilities, and I don't have time for myself or my own family. I've lost touch with my friends, and I've gained a significant amount of weight due to the stress and lack of time for exercise. I feel guilty for neglecting my own needs, but I can't abandon my mother.
+Counselor: I hear your concerns, and I want to validate the immense pressure and guilt you're feeling... (rest of the transcript)

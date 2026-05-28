@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver emotional burden, anticipatory grief, and self-care in palliative care context
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver (inferred), likely spouse or partner of the patient
+Clinical Goal: To address the caregiver's emotional burden, promote mindfulness and self-care, and encourage exploration of grief counseling to enhance overall well-being.
+Summary: As my husband's primary caregiver, I'm exhausted from constantly worrying about his pain and comfort, feeling like I'm losing myself in the process of caring for him.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Worry, Concern, Overwhelm
+Cognitive State: Catastrophizing (inferred), Flooding (inferred)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+* Empathy
+* Validation
+* Reframing (labeling emotions as natural and understandable)
+* Education (explaining the role of mindfulness and self-care in caregiving)
+* Resource provision (suggesting grief counseling and referring to hospice team for support)
+
+=== THE TRANSCRIPT ===
+User: I've been receiving hospice care for at least six months now, and it's been a blessing for my husband and me. We were recommended by our doctor, and I'm glad we followed up. I didn't realize hospice had such a comprehensive role in our care. The physical therapists have been instrumental in helping my husband maintain his mobility, and the discussions about care options have given us peace of mind. But lately, I've been feeling overwhelmed by the emotional toll of his illness. I find myself constantly worrying about his pain and discomfort, and I can't seem to shake these feelings, no matter how hard I try.
+Counselor: I can empathize with the emotional burden you're carrying...

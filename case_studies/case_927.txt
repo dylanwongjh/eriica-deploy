@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver guilt
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child of a terminally ill parent (inferred)
+Clinical Goal: To validate the patient's feelings, reduce guilt, and encourage self-compassion
+Summary: A daughter feels overwhelming guilt for not being present during her father's final moments, consumed by fear of his discomfort, and now struggles with regret.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Regret, Sadness
+Cognitive State: Catastrophizing (assuming worst-case scenario), Rumination (dwelling on past decisions)
+Underlying Need: Emotional safety and self-compassion
+
+=== COMMUNICATION TECHNIQUES USED ===
+Validation, Reframing (explaining the purpose of hospice care to reframe her perspective)
+
+=== THE TRANSCRIPT ===
+User: But now, I can't help but feel a deep sense of guilt. I couldn't be there for him during his final moments. I was so consumed by my fear of his discomfort that I allowed the hospice staff to take over. I feel like I failed him in his time of need.
+Counselor: Your feelings of guilt are understandable, given the circumstances. It's natural to feel a sense of responsibility and regret when we're unable to be present for a loved one during their final moments. However, it's essential to remember that hospice care is designed to provide specialized care for terminally ill patients, ensuring their comfort and dignity during their end-of-life journey.

@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Accessing Medical Records as a Caregiver
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Widow (inferred from the context)
+Clinical Goal: Assist the client in accessing her late husband's medical records, addressing emotional distress and promoting self-care.
+Summary: I've been struggling to get access to my late husband's hospital records, which is causing me a lot of emotional pain and making it hard for me to focus on taking care of myself.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Helplessness, Anxiety
+Cognitive State: Catastrophizing, Flooding
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-solving, Mindfulness-based interventions (deep breathing exercises and progressive muscle relaxation), Cognitive restructuring.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to access my medical records due to my late husband's numerous hospitalizations. I've been locked out of My Chart and can't get back in, even after contacting the records department and providing them with my Power of Attorney. I've tried calling his last doctor, but she's hesitant to send me the dates of his hospitalizations. I'm overwhelmed with this issue, and it's preventing me from focusing on my own health and well-being.
+Counselor: I can only imagine how distressing it must be for you to encounter these obstacles when trying to access your medical records... (rest of the transcript)

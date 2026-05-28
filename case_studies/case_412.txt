@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Depression
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (age, relationship, or context unknown)
+Clinical Goal: Identify and acknowledge symptoms of depression to establish a foundation for further exploration and treatment.
+Summary: "I'm struggling with persistent feelings of sadness, a lack of energy, and trouble sleeping, which have made everyday activities feel like a chore."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Sadness, Loss, Frustration
+Cognitive State: Rumination, Hopelessness
+Underlying Need: Emotional validation and understanding
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the user's feelings), Education/psychoeducation (explaining symptoms of depression)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling really down lately, and I can't seem to shake it. I've been having trouble sleeping, and I've lost interest in things that used to bring me joy. I feel like I'm just going through the motions every day.
+Counselor: I'm sorry to hear that you've been feeling this way, [Name]. It sounds like you're experiencing symptoms of depression. Depression can manifest in various ways, and it's essential to remember that everyone's experience is unique. Your feelings of sadness, loss of interest, and difficulty sleeping are common symptoms of depression.

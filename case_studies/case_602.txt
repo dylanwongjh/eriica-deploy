@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Managing Chronic Pain in a Family Member
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Mother of an adult child (age not specified)
+Clinical Goal: To empower the caregiver to find effective solutions for her son's chronic foot pain and reduce her emotional distress.
+Summary: A mother is struggling to help her son manage his chronic foot pain, feeling frustrated, helpless, and worried about his ongoing suffering, and seeking guidance on how to provide him with relief.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Helplessness, Worry
+Cognitive State: Catastrophizing (fearing the worst for her son's pain), Uncertainty
+Underlying Need: Emotional safety and control in caring for her son
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy: The counselor acknowledges and validates the caregiver's emotions.
+- Normalization: The counselor explains that seeking answers can be a long and arduous process, making it more manageable for the caregiver.
+- Reframing: The counselor encourages the caregiver to view each step taken as progress towards finding a solution.
+- Problem-solving: The counselor suggests exploring alternative therapies and seeking professional guidance.
+- Self-compassion: The counselor advises the caregiver to practice patience and self-compassion during this challenging journey.
+
+=== THE TRANSCRIPT ===
+User: I've been struggling to help my son [Name] manage his foot pain, but I can't seem to find the right solution. It's frustrating and overwhelming for me, as I try different methods without success... (full transcript provided above)

@@ -1,0 +1,21 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and bereavement
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely a family member or close friend)
+Clinical Goal: To acknowledge the client's distressing experience, validate their emotions, and begin exploring coping strategies.
+Summary: A person is struggling to cope with the memory of a loved one's final days in the hospital, overwhelmed by the vivid recollection of their suffering.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Sadness, Fear, Helplessness
+Cognitive State: Catastrophizing (implied by the intense focus on the distressing experience)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Empathy statement ("I'm deeply sorry...")
+- Validation of emotions ("it's natural for you to feel a range of emotions")
+- Acknowledgment of the client's experience ("the sight and sounds... would understandably be distressing")
+
+=== THE TRANSCRIPT ===
+User: I last saw [Name] in person on Saturday, December 17th. The memory of that day still haunts me. His labored breathing and groans of pain were palpable, even through the mask he wore. The sight of him, lying motionless on the hospital bed, was a stark reminder of the cancer that had taken over his body.
+Counselor: I'm deeply sorry for the distressing experience you had with [Name] during your last in-person encounter on December 17th. The sight and sounds of his labored breathing and groans of pain would understandably be distressing for anyone. Given the context of [Name]'s cancer diagnosis, it's natural for you to feel a range of emotions, including fear, sadness, and helplessness.

@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Palliative Care Challenges - Balancing Sleep Medication for Terminally Ill Patient
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely a family member or healthcare professional)
+Clinical Goal: To find an effective sleep solution for the terminally ill patient while considering her unique needs and preferences.
+Summary: I'm caring for a terminally ill loved one who can't sleep at night but sleeps too much during the day, making it hard to find a balance that works for both her comfort and my own.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Concern, Helplessness
+Cognitive State: Catastrophizing, Flooding (due to the complexity of the situation)
+Underlying Need: Emotional safety and control in managing the patient's care
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Problem-solving, Empathy, Collaborative goal-setting
+
+=== THE TRANSCRIPT ===
+User: I've been taking care of a terminally ill patient, and she's been having trouble sleeping at night. I've tried giving her medication, but she refuses to take it because it makes her sleep during the day. She's already sleeping most of the day away, and I'm worried about her not getting enough rest overall.
+Counselor: Your situation is indeed intricate, as you're balancing your patient's comfort and well-being while addressing her sleep issues... (rest of the transcript)

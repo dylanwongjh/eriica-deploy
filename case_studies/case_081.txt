@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burden
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult (inferred from the context), diagnosed with ALS, dependent on family for care
+Clinical Goal: To alleviate feelings of guilt, loss of control, and burden on the patient's relationships, while promoting emotional well-being and maintaining a sense of autonomy.
+Summary: A 40-year-old ALS patient struggles with feelings of guilt and loss of control as he becomes increasingly dependent on his family, fearing he's a burden to them. He yearns for emotional safety and control amidst the rapid progression of his disease.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Loss, Sadness
+Cognitive State: Catastrophizing (assuming worst-case scenarios), Flooding (overwhelmed by emotions)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (by acknowledging the patient's feelings and reframing their perspective to focus on support and autonomy)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling like a burden to my family ever since I was diagnosed with ALS. The disease has progressed rapidly, and I'm now dependent on them for even the most basic tasks. I can't help but feel like I'm taking away their time, energy, and resources.
+Counselor: I can see how you might feel that way, given the significant changes in your life. It's natural to experience feelings of guilt and loss of control when faced with a chronic illness. However, it's essential to remember that your family chose to be there for you, and their support is a testament to the depth of your relationships. We can explore ways to help you communicate your feelings with them, and perhaps find ways to contribute to the household or your care in a meaningful way. Additionally, we can discuss strategies for managing your emotions and finding ways to maintain a sense of independence and autonomy despite your physical limitations.

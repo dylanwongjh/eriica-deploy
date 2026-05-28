@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Burnout due to Communication Challenges in Hospice Care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult caregiver, likely a family member (relationship not specified), possibly middle-aged or older
+Clinical Goal: To reduce the caregiver's stress and frustration by exploring communication strategies and potential organizational issues within the hospice agency.
+Summary: I've been trying to care for my loved one in hospice, but it feels like we're constantly hit with unexpected changes and unclear information from the agency, leaving me feeling overwhelmed and frustrated.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Stress
+Cognitive State: Catastrophizing (assuming worst-case scenarios)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing (by acknowledging the caregiver's feelings and reframing the situation to focus on potential solutions)
+
+=== THE TRANSCRIPT ===
+User: I've tried reaching out to them multiple times, but I often don't receive a response, or they give me conflicting information. I feel like I'm constantly having to adjust my plans and my family's plans around their schedules, which is causing a lot of stress and frustration.
+Counselor: I can imagine how frustrating and stressful this situation must be for you. It's important to remember that effective communication is a two-way street...

@@ -1,0 +1,1352 @@
+/* ============================================================
+   ERIICA — Clinical Training Chatbot
+   Stylesheet
+   ============================================================
+
+   Table of Contents:
+    1.  Design Tokens
+    2.  Base & Body
+    3.  Layout: Container
+    4.  Header
+    5.  Scenario Panel
+    6.  Scenario Cards & Filters
+    7.  Chat Interface
+    8.  Chat Messages
+    9.  Input Area
+   10.  Typing Indicator
+   11.  Resources Panel
+   12.  Patient Profile Card
+   13.  Resources Toggle Bar & End Session Button
+   14.  Debrief Modal
+   15.  Welcome / Splash Screen
+   16.  Animation Keyframes
+   17.  Mobile Responsive (max-width: 600px)
+   ============================================================ */
+
+
+/* ============================================================
+   1. Design Tokens
+   ============================================================ */
+   :root {
+    font-size: 100%; /* 1rem = 16px */
+
+    /* Colour palette — pastel blue */
+    --color-primary:        #C2D9F0; /* primary blue tint */
+    --color-primary-light:  #D6E8F7; /* lighter blue tint */
+    --color-primary-deep:   #A8C8E8; /* deeper blue accent */
+    --color-surface:        #EEF5FC; /* very light blue surface */
+    --color-text:           #1A2E42; /* deep blue-navy for body text */
+    --color-text-muted:     #2E4A62; /* muted blue-grey for secondary text */
+    --color-action:         #4A90C4; /* interactive accent */
+    --color-action-hover:   #3578AD; /* interactive hover */
+    --color-bg:             #F4F9FE; /* page background — near-white blue */
+    --color-bg-subtle:      #E6F0FA; /* subtle surface tint */
+    --color-border:         #C8DDF0; /* border colour */
+
+    /* Semantic status colours (used by debrief checklist) */
+    --color-success:        #5A9E6F;
+    --color-warning:        #C0714A;
+
+    /* Typography */
+    --font-display: 'Cormorant Garamond', Georgia, serif;
+    --font-body:    'Jost', system-ui, sans-serif;
+
+    /* Shadows */
+    --shadow-card: 0 8px 40px rgba(20, 40, 80, 0.10);
+    --shadow-msg:  0 1px 4px  rgba(20, 40, 80, 0.08);
+}
+
+
+/* ============================================================
+   2. Base & Body
+   ============================================================ */
+body {
+    font-family: var(--font-body);
+    background-color: var(--color-bg);
+    background-image:
+        radial-gradient(circle at 20% 20%, rgba(194, 217, 240, 0.22) 0%, transparent 55%),
+        radial-gradient(circle at 80% 80%, rgba(168, 200, 232, 0.16) 0%, transparent 50%),
+        url('grid-background.png');
+    background-size: auto, auto, 80px 80px;
+    background-repeat: no-repeat, no-repeat, repeat;
+    background-attachment: fixed;
+    color: var(--color-text);
+    line-height: 1.65;
+    min-height: 100vh;
+    padding: 1.5rem;
+    /* BUG FIX: was overflow: hidden as a default, which permanently locks the page
+       if JS fails. Now uses a class so the default state is always scrollable. */
+    overflow: visible;
+}
+
+/* JS adds this class during the welcome animation to lock scroll temporarily. */
+body.welcome-active {
+    overflow: hidden;
+}
+
+
+/* ============================================================
+   3. Layout: Container
+   ============================================================ */
+.container {
+    max-width: 54rem; /* ~864px */
+    margin: 0 auto;
+    background: white;
+    border-radius: 1rem;
+    box-shadow: var(--shadow-card);
+    border: 1px solid var(--color-border);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 3rem);
+
+    /* Initial state for entrance animation */
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.9s ease 0.4s, transform 0.9s ease 0.4s;
+}
+
+.container.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+
+/* ============================================================
+   4. Header
+   ============================================================ */
+header {
+    background: linear-gradient(160deg, #CCDFF4 0%, var(--color-primary) 60%, #A8C8E8 100%);
+    padding: 1.75rem 2rem 2.75rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Decorative arc behind the header text */
+header::after {
+    content: '';
+    position: absolute;
+    bottom: -2.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 140%;
+    height: 5rem;
+    background: white;
+    border-radius: 50%;
+    pointer-events: none;
+}
+
+header h1 {
+    font-family: var(--font-display);
+    font-size: 2.8rem;
+    font-weight: 700;
+    font-style: italic;
+    letter-spacing: 0.04em;
+    color: var(--color-text);
+    margin-bottom: 0.25rem;
+    position: relative;
+    z-index: 1;
+}
+
+header p {
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 900;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    opacity: 0.85;
+    position: relative;
+    z-index: 1;
+    margin-top: -0.4rem;
+}
+
+.disclaimer {
+    background: var(--color-bg-subtle);
+    border-bottom: 1px solid var(--color-border);
+    padding: 0.45rem 1rem;
+    font-size: 0.68rem;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: var(--color-text-muted);
+    opacity: 0.9;
+}
+
+
+/* ============================================================
+   5. Scenario Panel
+   ============================================================ */
+.scenario-panel {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 2.5rem;
+    text-align: center;
+    background: white;
+    gap: 0.25rem;
+}
+
+.scenario-panel h3 {
+    font-family: var(--font-display);
+    font-size: 1.8rem;
+    font-weight: 600;
+    font-style: italic;
+    color: var(--color-text);
+    margin-bottom: 0.4rem;
+}
+
+.scenario-panel > p {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    opacity: 0.8;
+    max-width: 42rem;
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    white-space: nowrap;
+}
+
+#scenarioInput {
+    width: 100%;
+    max-width: 36rem;
+    height: 130px;
+    margin: 1rem 0;
+    padding: 1rem 1.25rem;
+    border: 1.5px solid var(--color-border);
+    border-radius: 0.75rem;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    resize: none;
+    color: var(--color-text);
+    background: var(--color-bg);
+    transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+#scenarioInput::placeholder {
+    color: var(--color-primary-deep);
+    opacity: 0.9;
+}
+
+#scenarioInput:focus {
+    outline: none;
+    border-color: var(--color-action);
+    box-shadow: 0 0 0 3px rgba(74, 144, 196, 0.12);
+    background: white;
+}
+
+#beginChat {
+    background: var(--color-action);
+    color: white;
+    border: none;
+    padding: 0.8rem 2.25rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    transition: background 0.25s ease, transform 0.15s ease, box-shadow 0.25s ease;
+    box-shadow: 0 3px 12px rgba(74, 144, 196, 0.30);
+}
+
+#beginChat:hover {
+    background: var(--color-action-hover);
+    transform: translateY(-1px);
+    box-shadow: 0 5px 18px rgba(74, 144, 196, 0.35);
+}
+
+#beginChat:active {
+    transform: translateY(0);
+}
+
+.scenario-error {
+    font-size: 0.82rem;
+    color: var(--color-action);
+    margin: 0.25rem 0 0;
+    min-height: 1.2em;
+}
+
+
+/* ============================================================
+   6. Scenario Cards & Filters
+   ============================================================ */
+.scenario-card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 0.625rem;
+    margin-bottom: 1.25rem;
+    width: 100%;
+    max-width: 36rem;
+}
+
+.sc-card {
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 0.75rem;
+    padding: 0.8rem 1rem;
+    cursor: pointer;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    text-align: left;
+}
+
+.sc-card:hover {
+    border-color: var(--color-action);
+    box-shadow: 0 2px 10px rgba(74, 144, 196, 0.12);
+}
+
+.sc-card.selected {
+    border-color: var(--color-action);
+    background: var(--color-surface);
+    box-shadow: 0 2px 10px rgba(74, 144, 196, 0.18);
+}
+
+.sc-card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.375rem;
+}
+
+.sc-card-title {
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: var(--color-text);
+    line-height: 1.4;
+}
+
+.sc-card-tag {
+    font-size: 0.72rem;
+    color: var(--color-text-muted);
+    opacity: 0.6;
+}
+
+.sc-card-summary {
+    font-size: 0.78rem;
+    color: var(--color-text-muted);
+    margin: 0.3rem 0 0.2rem;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Difficulty badges */
+.sc-diff {
+    font-size: 0.65rem;
+    padding: 2px 7px;
+    border-radius: 20px;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.sc-diff-beginner     { background: #d1fae5; color: #065f46; }
+.sc-diff-intermediate { background: #fef3c7; color: #92400e; }
+.sc-diff-advanced     { background: #fee2e2; color: #991b1b; }
+
+/* Filter row */
+.scenario-filter-row {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.sc-filter {
+    font-size: 0.78rem;
+    padding: 4px 14px;
+    border-radius: 20px;
+    border: 1px solid var(--color-border);
+    background: transparent;
+    color: var(--color-text-muted);
+    cursor: pointer;
+    font-family: var(--font-body);
+    transition: background 0.2s, border-color 0.2s, color 0.2s;
+}
+
+.sc-filter:hover {
+    border-color: var(--color-action);
+    color: var(--color-action);
+}
+
+.sc-filter.active {
+    background: var(--color-surface);
+    color: var(--color-action);
+    border-color: var(--color-action);
+    font-weight: 500;
+}
+
+/* Refresh button */
+#refreshScenarios {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    border: 1px solid var(--color-border);
+    background: transparent;
+    color: var(--color-text-muted);
+    cursor: pointer;
+    transition: border-color 0.2s, color 0.2s;
+    flex-shrink: 0;
+}
+
+#refreshScenarios:hover {
+    border-color: var(--color-action);
+    color: var(--color-action);
+}
+
+#refreshScenarios:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+#refreshScenarios.spinning i {
+    animation: spin 0.6s linear infinite;
+}
+
+/* "or describe your own" divider */
+.sc-divider {
+    text-align: center;
+    font-size: 0.78rem;
+    color: var(--color-text-muted);
+    opacity: 0.5;
+    margin: 1rem 0;
+    position: relative;
+    width: 100%;
+    max-width: 36rem;
+}
+
+.sc-divider::before,
+.sc-divider::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 38%;
+    height: 1px;
+    background: var(--color-border);
+}
+
+.sc-divider::before { left: 0; }
+.sc-divider::after  { right: 0; }
+
+
+/* ============================================================
+   7. Chat Interface
+   ============================================================ */
+#chatInterface {
+    flex: 1;
+    display: none; /* Shown via JS after scenario is submitted */
+    flex-direction: column;
+    min-height: 500px;
+    background: white;
+}
+
+.chat-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 1.75rem 2rem;
+    min-height: 40vh;
+    /* BUG FIX: was url("../static/chat-bg.png") which resolves incorrectly
+       when the CSS is already served from /static/. Corrected to a root-relative path. */
+    background-image: url("/static/chat-bg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+
+/* Subtle custom scrollbar */
+.chat-container::-webkit-scrollbar       { width: 4px; }
+.chat-container::-webkit-scrollbar-track { background: transparent; }
+.chat-container::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 2px; }
+
+
+/* ============================================================
+   8. Chat Messages
+   ============================================================ */
+.chat-messages {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.chat-message {
+    display: flex;
+    max-width: 78%;
+}
+
+.chat-message.bot-message  { align-self: flex-start; }
+.chat-message.user-message { align-self: flex-end; }
+
+.message-content {
+    padding: 0.8rem 1.1rem;
+    border-radius: 1.1rem;
+    font-size: 0.9rem;
+    line-height: 1.55;
+    word-wrap: break-word;
+    box-shadow: var(--shadow-msg);
+}
+
+/* Bot bubble: white card with a left accent bar */
+.bot-message .message-content {
+    background: white;
+    color: var(--color-text);
+    border: 1px solid var(--color-border);
+    border-left: 3px solid var(--color-action);
+    border-bottom-left-radius: 0.2rem;
+}
+
+/* User bubble: gradient, right-aligned tail */
+.user-message .message-content {
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-deep) 100%);
+    color: var(--color-text);
+    border-bottom-right-radius: 0.2rem;
+}
+
+
+/* ============================================================
+   9. Input Area
+   ============================================================ */
+.input-area {
+    display: flex;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    background: white;
+    border-top: 1px solid var(--color-border);
+    gap: 0.75rem;
+}
+
+#userInput {
+    flex-grow: 1;
+    border: 1.5px solid var(--color-border);
+    border-radius: 1.75rem;
+    padding: 0.7rem 1.25rem;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    line-height: 1.5;
+    resize: none;
+    color: var(--color-text);
+    background: var(--color-bg);
+    transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+#userInput::placeholder {
+    color: var(--color-primary-deep);
+}
+
+#userInput:focus {
+    outline: none;
+    border-color: var(--color-action);
+    box-shadow: 0 0 0 3px rgba(74, 144, 196, 0.10);
+    background: white;
+}
+
+#sendButton {
+    background: var(--color-action);
+    color: white;
+    border: none;
+    border-radius: 1.75rem;
+    padding: 0.7rem 1.35rem;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 0.88rem;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+    transition: background 0.25s ease, transform 0.15s ease;
+    box-shadow: 0 2px 8px rgba(74, 144, 196, 0.25);
+}
+
+#sendButton:hover {
+    background: var(--color-action-hover);
+    transform: translateY(-1px);
+}
+
+#sendButton:active {
+    transform: translateY(0);
+}
+
+
+/* ============================================================
+   10. Typing Indicator
+   ============================================================ */
+.typing-indicator {
+    display: none;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0 0.25rem;
+}
+
+.typing-indicator span {
+    width: 0.45rem;
+    height: 0.45rem;
+    background: var(--color-action);
+    border-radius: 50%;
+    display: inline-block;
+    animation: bounce 1.3s infinite ease-in-out;
+    opacity: 0.7;
+}
+
+.typing-indicator span:nth-child(2) { animation-delay: 0.22s; }
+.typing-indicator span:nth-child(3) { animation-delay: 0.44s; }
+
+
+/* ============================================================
+   11. Resources Panel
+   ============================================================ */
+.resources-panel {
+    padding: 1rem 1.5rem;
+    border-top: 1px solid var(--color-border);
+    text-align: center;
+    background: var(--color-bg-subtle);
+}
+
+.resources-panel h3 {
+    font-family: var(--font-display);
+    font-size: 1.15rem;
+    font-style: italic;
+    font-weight: 600;
+    margin-bottom: 0.65rem;
+    color: var(--color-text);
+}
+
+#resourcesContent {
+    display: none;
+    margin-bottom: 0.75rem;
+    padding: 1rem 1.25rem;
+    background: white;
+    border: 1px solid var(--color-border);
+    border-radius: 0.6rem;
+    text-align: left;
+    white-space: pre-wrap;
+    color: var(--color-text);
+    font-size: 0.875rem;
+    line-height: 1.7;
+}
+
+.framework-tabs {
+    display: flex;
+    gap: 0.5rem; /* BUG FIX: was "o.5rem" (letter-o typo) — corrected to 0.5rem */
+    margin-bottom: 1rem;
+}
+
+.fw-tab {
+    padding: 0.35rem 1rem;
+    border-radius: 2rem;
+    border: 1.5px solid var(--color-border);
+    background: transparent;
+    color: var(--color-text-muted);
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s, border-color 0.2s;
+}
+
+.fw-tab.active {
+    background: var(--color-action);
+    color: white;
+    border-color: var(--color-action);
+}
+
+.fw-step {
+    display: grid;
+    grid-template-columns: 2rem 1fr;
+    gap: 0.75rem;
+    padding: 0.65rem 0.85rem;
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    margin-bottom: 0.4rem;
+    background: white;
+}
+
+.fw-letter {
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-style: italic;
+    color: var(--color-action);
+    line-height: 1;
+    padding-top: 2px;
+}
+
+.fw-step-title {
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: var(--color-text);
+    margin-bottom: 0.15rem;
+}
+
+.fw-step-desc {
+    font-size: 0.78rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
+}
+
+
+/* ============================================================
+   12. Patient Profile Card
+   ============================================================ */
+#patientProfileBar {
+    margin-bottom: 1rem;
+}
+
+.profile-toggle-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.6rem 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    background: var(--color-bg-subtle);
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--color-text);
+    transition: background 0.15s;
+}
+
+.profile-toggle-bar:hover {
+    background: var(--color-border);
+}
+
+#profileChevron {
+    transition: transform 0.2s;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+}
+
+.profile-card {
+    border: 1px solid var(--color-border);
+    border-top: none;
+    border-radius: 0 0 0.5rem 0.5rem;
+    background: white;
+    overflow: hidden;
+}
+
+.profile-section {
+    padding: 0.6rem 1rem;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.profile-section:last-child {
+    border-bottom: none;
+}
+
+.profile-label {
+    font-size: 0.7rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-text-muted);
+    margin-bottom: 3px;
+}
+
+.profile-value {
+    font-size: 0.82rem;
+    color: var(--color-text);
+    line-height: 1.5;
+}
+
+.badge-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-top: 3px;
+}
+
+.badge {
+    font-size: 0.75rem;
+    padding: 2px 10px;
+    border-radius: 99px;
+    font-weight: 500;
+}
+
+.badge-emotion   { background: #DDEEFA; color: #1A4A7A; }
+.badge-cognitive { background: #EEEDFE; color: #3C3489; }
+
+.profile-sim-note {
+    padding: 0.5rem 1rem;
+    font-size: 0.72rem;
+    color: var(--color-text-muted);
+    font-style: italic;
+    border-top: 1px solid var(--color-border);
+    background: var(--color-bg-subtle);
+}
+
+.profile-loading {
+    padding: 0.75rem 1rem;
+    font-size: 0.82rem;
+    color: var(--color-text-muted);
+}
+
+
+/* ============================================================
+   13. Resources Toggle Bar & End Session Button
+   ============================================================ */
+.resources-toggle-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.75rem 1.5rem;
+    border-top: 1px solid var(--color-border);
+    background: white;
+}
+
+#resourcesButton {
+    flex: 1;
+    background: transparent;
+    border: 1.5px solid var(--color-border);
+    color: var(--color-text-muted);
+    padding: 0.55rem 1rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 0.82rem;
+    font-weight: 500;
+    transition: background 0.2s, border-color 0.2s;
+}
+
+#resourcesButton:hover {
+    background: var(--color-bg-subtle);
+    border-color: var(--color-primary-deep);
+}
+
+#endSessionButton {
+    background: var(--color-action);
+    border: none;
+    color: white;
+    padding: 0.55rem 1.25rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 0.82rem;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+    transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+    box-shadow: 0 2px 10px rgba(74, 144, 196, 0.28);
+}
+
+#endSessionButton:hover {
+    background: var(--color-action-hover);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 14px rgba(74, 144, 196, 0.35);
+}
+
+
+/* ============================================================
+   14. Debrief Modal
+   ============================================================ */
+.debrief-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(20, 40, 80, 0.50);
+    backdrop-filter: blur(3px);
+    z-index: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+}
+
+.debrief-modal {
+    background: var(--color-bg);
+    border-radius: 1rem;
+    box-shadow: 0 16px 60px rgba(20, 40, 80, 0.20);
+    border: 1px solid var(--color-border);
+    width: 100%;
+    max-width: 42rem;
+    max-height: 88vh;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.debrief-modal::-webkit-scrollbar       { width: 4px; }
+.debrief-modal::-webkit-scrollbar-track { background: transparent; }
+.debrief-modal::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 2px; }
+
+.debrief-header {
+    background: linear-gradient(160deg, #CCDFF4 0%, var(--color-primary) 60%, #A8C8E8 100%);
+    padding: 1.5rem 2rem 1.75rem;
+    text-align: center;
+    border-radius: 1rem 1rem 0 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.debrief-header::after {
+    content: '';
+    position: absolute;
+    bottom: -2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 140%;
+    height: 4rem;
+    background: var(--color-bg);
+    border-radius: 50%;
+}
+
+.debrief-header h2 {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    font-weight: 600;
+    font-style: italic;
+    color: var(--color-text);
+    letter-spacing: 0.04em;
+    position: relative;
+    z-index: 1;
+    margin-bottom: 0.3rem;
+}
+
+.debrief-header p {
+    font-size: 0.78rem;
+    color: var(--color-text-muted);
+    opacity: 0.85;
+    font-style: italic;
+    position: relative;
+    z-index: 1;
+    max-width: 34rem;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+.debrief-loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.25rem;
+    padding: 4rem 2rem;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+.debrief-dots {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.debrief-summary-box {
+    margin: 1.5rem 2rem 1rem;
+    padding: 1rem 1.25rem;
+    background: white;
+    border: 1px solid var(--color-border);
+    border-left: 3px solid var(--color-action);
+    border-radius: 0.6rem;
+}
+
+.debrief-summary-box p {
+    font-size: 0.88rem;
+    line-height: 1.65;
+    color: var(--color-text);
+    margin: 0;
+}
+
+.debrief-section-title {
+    font-family: var(--font-display);
+    font-size: 1.1rem;
+    font-weight: 600;
+    font-style: italic;
+    color: var(--color-text);
+    padding: 0 2rem;
+    margin: 1.25rem 0 0.75rem;
+}
+
+/* Dimension score rows */
+.debrief-dimensions {
+    padding: 0 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+    margin-bottom: 0.5rem;
+}
+
+.dim-row {
+    background: white;
+    border: 1px solid var(--color-border);
+    border-radius: 0.6rem;
+    padding: 0.85rem 1rem;
+}
+
+.dim-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 0.45rem;
+}
+
+.dim-name {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--color-text);
+}
+
+.dim-score {
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    font-weight: 600;
+    line-height: 1;
+}
+
+.dim-denom {
+    font-size: 0.75rem;
+    opacity: 0.6;
+}
+
+.dim-bar-track {
+    height: 5px;
+    background: var(--color-border);
+    border-radius: 99px;
+    overflow: hidden;
+    margin-bottom: 0.55rem;
+}
+
+.dim-bar-fill {
+    height: 100%;
+    border-radius: 99px;
+    transition: width 0.6s ease;
+}
+
+.dim-justification {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
+    margin: 0;
+}
+
+/* Checklist */
+.debrief-fw-tabs {
+    margin: 0 2rem 0.75rem;
+}
+
+.debrief-checklist {
+    padding: 0 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    margin-bottom: 1.5rem;
+}
+
+.checklist-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 0.65rem 0.9rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--color-border);
+    background: white;
+}
+
+.checklist-row.demonstrated { border-left: 3px solid var(--color-success); }
+.checklist-row.missed        { border-left: 3px solid var(--color-warning); opacity: 0.85; }
+
+.checklist-icon {
+    font-size: 0.85rem;
+    font-weight: 700;
+    padding-top: 1px;
+    flex-shrink: 0;
+    width: 1rem;
+    text-align: center;
+}
+
+.checklist-row.demonstrated .checklist-icon { color: var(--color-success); }
+.checklist-row.missed .checklist-icon        { color: var(--color-warning); }
+
+.checklist-text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+}
+
+.checklist-step {
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: var(--color-text);
+}
+
+.checklist-note {
+    font-size: 0.78rem;
+    color: var(--color-text-muted);
+    line-height: 1.45;
+}
+
+.debrief-error {
+    padding: 2rem;
+    text-align: center;
+    color: var(--color-action);
+    font-size: 0.88rem;
+}
+
+.debrief-actions {
+    padding: 1.25rem 2rem 1.75rem;
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+    border-top: 1px solid var(--color-border);
+    margin-top: 0.5rem;
+}
+
+#debriefContinueSession {
+    background: transparent;
+    color: var(--color-action);
+    border: 1.5px solid var(--color-action);
+    padding: 0.75rem 2.25rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    transition: background 0.25s, color 0.25s, transform 0.15s, box-shadow 0.25s;
+}
+
+#debriefContinueSession:hover {
+    background: var(--color-surface);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 14px rgba(74, 144, 196, 0.18);
+}
+
+#debriefNewSession {
+    background: var(--color-action);
+    color: white;
+    border: none;
+    padding: 0.75rem 2.25rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    transition: background 0.25s, transform 0.15s, box-shadow 0.25s;
+    box-shadow: 0 3px 12px rgba(74, 144, 196, 0.30);
+}
+
+#debriefNewSession:hover {
+    background: var(--color-action-hover);
+    transform: translateY(-1px);
+    box-shadow: 0 5px 18px rgba(74, 144, 196, 0.35);
+}
+
+
+/* ============================================================
+   15. Welcome / Splash Screen
+   ============================================================ */
+.welcome-screen {
+    position: fixed;
+    inset: 0;
+    background-color: var(--color-bg);
+    background-image:
+        radial-gradient(circle at 25% 30%, rgba(194, 217, 240, 0.26) 0%, transparent 55%),
+        radial-gradient(circle at 75% 75%, rgba(168, 200, 232, 0.18) 0%, transparent 50%),
+        url('grid-background.png');
+    background-size: auto, auto, 80px 80px;
+    background-repeat: no-repeat, no-repeat, repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    transition: opacity 1s ease, visibility 1s ease;
+}
+
+.welcome-screen.fade-out {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.logo-container {
+    margin-bottom: 1.75rem;
+    opacity: 0;
+    animation: logoEntrance 2s ease-out forwards;
+}
+
+.welcome-logo {
+    width: 7.5rem;
+    height: 7.5rem;
+    object-fit: contain;
+    filter: drop-shadow(0 6px 24px rgba(20, 40, 80, 0.12));
+    animation: breathe 3.5s ease-in-out infinite 2.5s;
+}
+
+.welcome-text {
+    text-align: center;
+    opacity: 0;
+    animation: textEntrance 1.5s ease-out 0.8s forwards;
+}
+
+.welcome-text h1 {
+    font-family: var(--font-display);
+    font-size: 3.5rem;
+    font-weight: 900;
+    font-style: italic;
+    letter-spacing: 0.06em;
+    color: var(--color-text);
+    margin-bottom: 0.6rem;
+}
+
+.welcome-text p {
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 400;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    opacity: 0.75;
+}
+
+.loading-dots {
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 0.5rem;
+    opacity: 0;
+    animation: dotsEntrance 1s ease-out 2.5s forwards;
+}
+
+.dot {
+    width: 0.45rem;
+    height: 0.45rem;
+    background: var(--color-action);
+    border-radius: 50%;
+    opacity: 0.7;
+    animation: bounce 1.4s infinite ease-in-out;
+}
+
+.dot:nth-child(1) { animation-delay: -0.32s; }
+.dot:nth-child(2) { animation-delay: -0.16s; }
+.dot:nth-child(3) { animation-delay:     0s; }
+
+
+/* ============================================================
+   16. Animation Keyframes
+   ============================================================ */
+@keyframes bounce {
+    0%, 80%, 100% { transform: translateY(0); }
+    40%           { transform: translateY(-0.55rem); }
+}
+
+@keyframes logoEntrance {
+    0%   { opacity: 0; transform: scale(0.4) rotate(-8deg); }
+    70%  {             transform: scale(1.04) rotate(1.5deg); }
+    100% { opacity: 1; transform: scale(1) rotate(0deg); }
+}
+
+@keyframes breathe {
+    0%, 100% { transform: scale(1); }
+    50%      { transform: scale(1.04); }
+}
+
+@keyframes textEntrance {
+    0%   { opacity: 0; transform: translateY(28px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes dotsEntrance {
+    0%   { opacity: 0; transform: translateY(16px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+
+/* ============================================================
+   17. Mobile Responsive (max-width: 600px)
+   ============================================================ */
+@media (max-width: 37.5rem) {
+    body {
+        padding: 0.75rem;
+    }
+
+    .container {
+        border-radius: 0.75rem;
+        min-height: calc(100vh - 1.5rem);
+    }
+
+    header {
+        padding: 1.25rem 1rem 1rem;
+    }
+
+    header h1 {
+        font-size: 2.2rem;
+    }
+
+    header p {
+        font-size: 0.72rem;
+    }
+
+    .scenario-panel {
+        padding: 2rem 1.25rem;
+    }
+
+    .scenario-panel h3 {
+        font-size: 1.5rem;
+    }
+
+    .chat-container {
+        padding: 1rem;
+        min-height: 60vh;
+    }
+
+    .chat-message {
+        max-width: 92%;
+    }
+
+    .message-content {
+        padding: 0.65rem 0.9rem;
+        font-size: 0.875rem;
+    }
+
+    .input-area {
+        padding: 0.75rem 1rem;
+    }
+
+    .welcome-logo {
+        width: 5.5rem;
+        height: 5.5rem;
+    }
+
+    .welcome-text h1 {
+        font-size: 2.6rem;
+    }
+
+    .welcome-text p {
+        font-size: 0.72rem;
+        padding: 0 1.5rem;
+    }
+
+    .debrief-modal {
+        border-radius: 0.75rem;
+        max-height: 95vh;
+    }
+
+    .debrief-summary-box,
+    .debrief-dimensions,
+    .debrief-section-title,
+    .debrief-fw-tabs,
+    .debrief-checklist,
+    .debrief-actions {
+        padding-left: 1.25rem;
+        padding-right: 1.25rem;
+    }
+
+    .resources-toggle-bar {
+        padding: 0.65rem 1rem;
+    }
+}

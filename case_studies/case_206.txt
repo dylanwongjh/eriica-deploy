@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and caregiver burden
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (inferred from the context)
+Clinical Goal: To acknowledge and validate the caregiver's emotional experience, and to explore strategies for managing anxiety and promoting self-care.
+Summary: "I've been living with a constant sense of fear for my mother's safety, especially at night when she wanders off, and it's taken a huge toll on my own sleep and anxiety."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Fear, Helplessness
+Cognitive State: Catastrophizing, Hypervigilance
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Empathy
+
+=== THE TRANSCRIPT ===
+User: I used to worry about my mother's safety when she would wander off during the night. Her condition, which was characterized by episodes of disorientation and memory loss, had been a constant source of anxiety for me. The fear of her getting lost or harming herself had kept me on edge, especially during the night.
+Counselor: I recall the numerous times when her wandering episodes left me feeling helpless and fearful. The uncertainty of her whereabouts and the potential dangers she could face were overwhelming. I can understand how the constant vigilance required to keep her safe impacted your sleep quality and overall well-being.

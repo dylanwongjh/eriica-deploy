@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Chronic Pain Management
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Not specified (likely a healthcare professional)
+Clinical Goal: To educate the patient on pain management options, including working with a pain management specialist or multidisciplinary team.
+Summary: A patient seeking help for chronic pain is exploring alternative therapies and considering working with a pain management specialist or multidisciplinary team, but is unsure how to find one and what to expect.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Uncertainty, Hopefulness
+Cognitive State: Open-mindedness, Exploration
+Underlying Need: Feeling in control of their health and well-being
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging the patient's previous attempts at managing stress), Validation (acknowledging the effectiveness of mindfulness meditation), Education (explaining pain management options and multidisciplinary teams), Referral (suggesting resources for finding a specialist or team), Empowerment (encouraging the patient to take an active role in their care).
+
+=== THE TRANSCRIPT ===
+User: I've heard about acupuncture before, but I've never really given it a try. I've also been practicing mindfulness meditation for a few months now, and it has helped me manage my stress levels to some extent. However, I've never considered working with a pain management specialist or a multidisciplinary team. I'm not sure how to go about finding one or what to expect from such an appointment.
+Counselor: ... (see above)

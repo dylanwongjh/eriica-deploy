@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Insomnia and Sleep Disturbances
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (relationship not specified), likely caring for a parent (e.g., mom)
+Clinical Goal: Help the client establish healthy sleep habits, address underlying stressors, and explore stress management techniques.
+Summary: A stressed adult child is struggling with insomnia, feeling restless at night and drawn to screens before bed, seeking guidance on improving sleep quality while managing caregiving responsibilities.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Anxiety, Overwhelm
+Cognitive State: Catastrophizing, Rumination
+Underlying Need: Emotional safety and control in the face of caregiving demands
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening (acknowledging challenges with sleep schedule)
+Education (providing information on strategies for improving sleep habits)
+Empathy (understanding the difficulty of adjusting to new habits)
+Referral (suggesting consultation with healthcare provider regarding melatonin supplements)
+Problem-focused coping (exploring stress management techniques)
+
+=== THE TRANSCRIPT ===
+User: I've been trying to keep a consistent sleep schedule, but I find myself feeling restless and unable to fall asleep until late at night. I've also been trying to avoid screens before bed, but I find myself drawn to the news or my phone. I've heard that melatonin supplements could help, but I'm not sure if they're safe for me to take.
+Counselor: I understand that maintaining a consistent sleep schedule can be challenging, especially when your body is used to staying up late. It's important to remember that it takes time for your body to adjust to new habits...

@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout, Anticipatory grief, Anxiety management in chronic illness
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (age not specified), primary caregiver for mother with unknown health conditions, managing own heart conditions and anemia.
+Clinical Goal: To address the patient's anxiety, sleep disturbances, and feelings of overwhelm related to caregiving responsibilities and personal health concerns.
+Summary: I'm a 30-year-old adult child struggling to balance my own health needs with the constant worry of caring for my mother, who has unknown health issues, while also managing my own heart conditions and anemia.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Anxiety, Guilt, Sadness
+Cognitive State: Catastrophizing, Flooding (due to multiple stressors)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Empathy, Reframing, Problem-solving, Cognitive-behavioral guidance.
+
+=== THE TRANSCRIPT ===
+User: I've been having trouble sleeping due to my fear of leaving my mom and taking care of my dog alone. My anxiety stems from a deep-rooted sense of responsibility and a fear of abandonment, which has been exacerbated by my recent health concerns... (full user text provided)
+
+Counselor: Your concerns about leaving your loved ones behind and your fear of abandonment are valid and deeply rooted. It's essential to acknowledge these feelings and explore ways to address them... (full counselor text provided)

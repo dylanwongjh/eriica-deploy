@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief in end-of-life care
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult family member (age not specified) caring for a loved one with terminal illness
+Clinical Goal: To support the caregiver in managing stress, advocating for their aunt's care, and maintaining their own wellbeing during this challenging time.
+Summary: "I'm at my wit's end trying to navigate the hospital system to keep my aunt's medication stable, but her worsening condition is taking a toll on both of us."
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Distress, Overwhelm
+Cognitive State: Catastrophizing (worried about potential consequences of medication discontinuation), Flooding (emotional response to complex situation)
+Underlying Need: Emotional safety and control in the caregiving process
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Empathy, Problem-solving, Education, Supportive counseling
+
+=== THE TRANSCRIPT ===
+User: I've been trying to prevent the hospital from discontinuing my aunt's Seroquel medication due to a miscommunication between the hospice nurse and the floor nurse. The social worker, who usually handles such matters, was off sick, causing a delay in resolving the issue. My aunt's blood pressure has been rising due to my concerns about this change, and she's been experiencing more hallucinations as a result of the altered medication schedule. I've been in constant communication with the hospice nurse, but her absence from the hospital during weekends and her limited availability during the week have made it difficult to find a solution.
+Counselor: I can imagine how frustrating and distressing this situation must be for you, given the significant impact it has on your aunt's wellbeing. It's understandable that you're feeling overwhelmed by the communication issues and the emotional toll of advocating for your aunt's care... (rest of the transcript)

@@ -1,0 +1,20 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and advocacy for caregiving programs
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver (inferred), possibly mid-life or older, with experience caring for terminally ill loved ones.
+Clinical Goal: To empower the caregiver to overcome organizational resistance and establish a caregiving program in her community.
+Summary: As a dedicated caregiver who has helped numerous women care for terminally ill loved ones, I'm frustrated by my community's lack of support and resources, and I want to start a caregiving program but keep hitting roadblocks with local organizations.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Helplessness, Guilt
+Cognitive State: Catastrophizing (assuming she can't make a difference due to perceived limitations)
+Underlying Need: Emotional safety and control through effective advocacy
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation (acknowledging her emotions and efforts), Reframing (focusing on strengths and unique value), Empowerment (encouraging her to take ownership of the caregiving program), Problem-solving (exploring strategies for overcoming obstacles).
+
+=== THE TRANSCRIPT ===
+
+User: I'm struggling to help women in my community who are caregivers for terminally ill loved ones, but I can't seem to get their attention or support from organizations like the [Organization]. I wish I knew how to start a caregiving program, but I can't get past their resistance. I'm not a cleaner, and I can't clean up after these women, which is a requirement for their caregiving program. I'm willing to help, but I don't know how to reach out to them effectively.
+Counselor: Your heart is in the right place... (rest of the transcript)

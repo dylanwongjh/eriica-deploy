@@ -1,0 +1,31 @@
+=== CASE STUDY PROFILE ===
+Topic: Anticipatory grief and morbid curiosity
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child (inferred from the context of caring for a grandmother)
+Clinical Goal: To help the client process their anticipatory grief, understand their motivations for seeking information about death, and establish healthy boundaries around this behavior.
+Summary: I've been fixated on learning everything I can about death and dying since my grandmother passed away last month, feeling an intense need to understand what happens next.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness, Curiosity
+Cognitive State: Catastrophizing (inferred from the client's preoccupation with death)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Validation, Reframing, Setting boundaries, Problem-focused coping (encouraging the client to set limits on their behavior)
+
+=== THE TRANSCRIPT ===
+User: I've been feeling uneasy about my recent behavior. I've been looking up information about death online after someone passes away. I feel a bit strange about it, and I'm not sure if it's normal or not.
+Counselor: It's understandable that you might feel a sense of curiosity or even a need for information following a loss, especially given your grandmother's recent passing.
+
+User: I've always been fascinated by the concept of death, but it seems to have taken on a new significance since my grandmother passed away last month. I've found myself unable to focus on anything else, and I can't shake the feeling that I need to understand more about the process.
+Counselor: However, it's crucial to be aware of the potential emotional impact of engaging with such content.
+
+User: It's not that I'm morbidly fixated on the idea, but rather that I feel a deep sense of curiosity and a need to make sense of this loss.
+Counselor: Your fascination with the concept of death is not uncommon...
+
+User: ...and it's essential to respect your own feelings and boundaries. If you find that looking up this information serves a purpose for you, such as helping you process your grief or gaining a better understanding of the dying process, then it might be helpful to continue to do so.
+Counselor: However, if it causes distress or discomfort, it might be worth considering setting limits or even taking a break from it.
+
+User: I appreciate your openness in sharing your experiences, and I look forward to our continued conversations.
+Counselor: ...I appreciate your openness in sharing your experiences...

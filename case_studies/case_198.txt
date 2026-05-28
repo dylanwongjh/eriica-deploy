@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Support and Management of Cognitive Impairments
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Spousal caregiver, likely middle-aged or older (inferred from context)
+Clinical Goal: Develop a comprehensive care plan that addresses the complexities of caregiving for cognitive impairments, including pain management, grief, and emotional well-being.
+Summary: I'm struggling to balance my wife's needs with my own emotional well-being while trying to manage her eating habits and daily care without feeling overwhelmed or resentful.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Guilt, Sadness
+Cognitive State: Catastrophizing (inferred from concern about upsetting his wife)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Empathy, Validation, Reframing, Problem-solving, Goal-setting
+
+=== THE TRANSCRIPT ===
+User: I've been taking care of my wife, who has cognitive impairments, and I've been trying to make sure she's comfortable with her eating habits. I don't want to upset her or force her to change, as she has special needs.
+Counselor: As you navigate the intricacies of caring for your wife with cognitive impairments... (counselor response)

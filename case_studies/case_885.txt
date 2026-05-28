@@ -1,0 +1,22 @@
+=== CASE STUDY PROFILE ===
+Topic: Overcoming Organizational Resistance to Caregiving Program Development
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Community leader/activist (age not specified)
+Clinical Goal: Assist the caregiver in developing effective strategies for initiating a caregiving program despite organizational resistance.
+Summary: A community leader is frustrated by her inability to get support from organizations like [Organization] to start a caregiving program, feeling hindered by their requirements and unsure how to reach out effectively.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Frustration, Helplessness, Uncertainty
+Cognitive State: Catastrophizing (assuming the worst-case scenario), Overwhelm
+Underlying Need: Sense of control and effectiveness in making a positive impact
+
+=== COMMUNICATION TECHNIQUES USED ===
+- Active listening (acknowledging the caregiver's concerns)
+- Validation (empathizing with her feelings and experiences)
+- Reframing (encouraging a shift from focusing on limitations to strengths and unique value)
+- Problem-solving (suggesting alternative approaches, such as partnerships or reframing requests as collaborations)
+
+=== THE TRANSCRIPT ===
+User: I'm struggling to help women in my community who are caregivers for terminally ill loved ones, but I can't seem to get their attention or support from organizations like the [Organization]. I wish I knew how to start a caregiving program, but I can't get past their resistance. I'm not a cleaner, and I can't clean up after these women, which is a requirement for their caregiving program. I'm willing to help, but I don't know how to reach out to them effectively.
+Counselor: Your heart is in the right place... (remainder of transcript)

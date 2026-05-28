@@ -1,0 +1,19 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver Burnout and Time Management
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Adult child caring for elderly mother (relationship not specified)
+Clinical Goal: To help the caregiver manage daily responsibilities, prioritize self-care, and regain control over their life.
+Summary: A caregiver is feeling overwhelmed by the demands of caring for her mother, work, and personal commitments, leading to feelings of guilt, frustration, and burnout.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Frustration, Overwhelm
+Cognitive State: Catastrophizing (assuming she won't be able to meet everyone's expectations), Flooding (feeling overwhelmed by multiple responsibilities)
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Empathy, Validation, Reframing (explaining the importance of self-care and mindfulness practices), Problem-solving (suggesting time management techniques and delegating tasks), Education (introducing new concepts like the Pomodoro Technique and Eisenhower Matrix).
+
+=== THE TRANSCRIPT ===
+User: I've been feeling overwhelmed by my daily responsibilities...
+Counselor: I can empathize with the sense of being pulled in multiple directions...

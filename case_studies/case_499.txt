@@ -1,0 +1,23 @@
+=== CASE STUDY PROFILE ===
+Topic: Caregiver burnout and anticipatory grief
+
+=== CLINICAL METADATA ===
+Caregiver Profile: Female caregiver (inferred), likely middle-aged, caring for a hospice patient husband
+Clinical Goal: To address the caregiver's emotional burden, improve communication with the hospice team, and ensure the caregiver's needs are met to prevent burnout.
+Summary: As a middle-aged caregiver for my terminally ill husband, I'm exhausted and feeling invisible, struggling to balance my love and loyalty with the crushing weight of his care.
+
+=== PATIENT EMOTIONAL PROFILE ===
+Primary Emotions: Guilt, Sadness, Frustration
+Cognitive State: Catastrophizing, Overwhelm
+Underlying Need: Emotional safety and control
+
+=== COMMUNICATION TECHNIQUES USED ===
+Active listening, Empathy, Validation, Reframing (proposing a solution to address the caregiver's concerns)
+
+=== THE TRANSCRIPT ===
+User: I've been caring for my husband, [Name], who's a hospice patient. The weight of his care has left me feeling drained and unsupported. I love him dearly, but I can't help but feel that I've become nothing more than a caregiver, and the patient is the only one who truly matters.
+Counselor: I can empathize with the immense pressure and emotional burden you're carrying as a caregiver... 
+User (continued): ...The hospice team has been wonderful in their care for [Name], but I feel overlooked and undervalued. I've tried to discuss my concerns with them, but I've been met with well-intentioned but dismissive responses.
+Counselor: ...I recommend requesting a meeting with the social worker from the hospice team to discuss your needs and concerns... 
+User (continued): ...I feel like I'm drowning in the responsibilities of caregiving, and I'm struggling to keep my own head above water.
+Counselor: ...Additionally, I can work on creating a manual or guide for caregivers to help them better understand their own needs and how to communicate them to the hospice team.
