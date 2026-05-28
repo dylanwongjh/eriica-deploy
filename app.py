@@ -99,16 +99,18 @@ class ERIICA:
 
         self.client = genai.Client(api_key=self.GEMINI_API_KEY)
 
-        self.embedder = embedding_functions.SentenceTransformerEmbeddingFunction(
-            model_name="all-MiniLM-L6-v2"
+        self.embedder = embedding_functions.GoogleGeminiEmbeddingFunction(
+            api_key=self.GEMINI_API_KEY,
+            model_name="models/text-embedding-004"
         )
+
         # BUG FIX: was hardcoded "chroma_db" — now uses the CHROMA_DB_PATH constant.
         chroma_client = chromadb.PersistentClient(path=CHROMA_DB_PATH)
         self.case_collection = chroma_client.get_collection(
             name="case_studies",
             embedding_function=self.embedder,
         )
-        print("ChromaDB connected.")
+        print("ChromaDB connected using Gemini Cloud Embeddings.")
 
     # -----------------------------------------------------------------------
     # Parsing helpers

@@ -2,5 +2,4 @@ flask
 flask-cors
 chromadb
 google-genai
-sentence-transformers
 gunicorn
