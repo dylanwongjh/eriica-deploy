@@ -100,8 +100,7 @@ class ERIICA:
         self.client = genai.Client(api_key=self.GEMINI_API_KEY)
 
         self.embedder = embedding_functions.GoogleGeminiEmbeddingFunction(
-            api_key=self.GEMINI_API_KEY,
-            model_name="models/text-embedding-004"
+            model_name="gemini-embedding-001"
         )
 
         # BUG FIX: was hardcoded "chroma_db" — now uses the CHROMA_DB_PATH constant.
